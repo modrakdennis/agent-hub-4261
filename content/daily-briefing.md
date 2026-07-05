@@ -1,14 +1,12 @@
 ---
-title: Daily Briefing. July 4, 2026
+title: Daily Briefing. July 5, 2026
 emoji: 📅
 category: tools
-updated: 2026-07-04
+updated: 2026-07-05
 ---
 
-Happy Fourth of July, Dennis. Calendar is clear today — no events on either your Outlook or Google calendar.
+No calendar events on your schedule today.
 
-Inbox was almost entirely holiday sales and newsletter traffic (Affirm, Wayfair, Office Depot, BBQ Guys, and similar). Two items are worth a glance: GitHub added a new fine-grained personal access token ("vault-token-2") to your account — worth confirming that was you. Your Schwab eStatement for the account ending 216 is also ready to view.
+Email highlights: Laurel Oak's golf course update confirms the course is open today (90° cart rule in effect). USPS notes PO Box fees are increasing July 12. On the financial side, HealthFit charged $132 for your monthly membership, and both Janney and Schwab posted new statements this morning — worth a glance when you reconcile July.
 
-No task manager is connected, so no open-task list today.
-
-Enjoy the holiday.
+Tasks: Todoist shows nothing due today, but 4 tasks are overdue. Good day to knock a few out or reschedule them.
