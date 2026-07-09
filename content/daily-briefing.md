@@ -1,14 +1,14 @@
 ---
-title: Daily Briefing. July 8, 2026
+title: Daily Briefing. July 9, 2026
 emoji: 📅
 category: tools
-updated: 2026-07-08
+updated: 2026-07-09
 ---
 
-**Calendar:** No events on your calendar today — a clear day.
+**Calendar:** Nothing on the calendar today — a clear day for deep work.
 
-**Email:** Yvonne Santiago (Florida Eye Associates) asked for an estimated cost on the 2025 financial statement review — not yet quoted in the thread. Your Microsoft 365 Business Standard invoice is available to view in the admin center. Everything else in the inbox overnight was newsletters and marketing (Checkpoint, TED, WSJ briefings, retail promos).
+**Email:** Inbox was mostly newsletters and promos overnight, but one actionable item: Lawngevity sent an invoice for recent lawn service on your property — worth a quick review. A heat advisory is also in effect for the Tampa Bay area today (11am–8pm).
 
-**Tasks:** Todoist flags 4 overdue tasks as of this morning — worth a quick look to clear the backlog.
+**Tasks:** No task manager connected, so nothing to pull here — Outlook mail/calendar is also disconnected and needs reconnecting to get fuller coverage next time.
 
-**Focus for today:** With a clean calendar, a good block to knock out the Florida Eye Associates cost estimate and clear those overdue Todoist items.
+**Focus + AI tip:** With a light schedule, a good use of today is knocking out one deferred task you've been avoiding. Quick prompting tip: when asking Claude to draft something in your voice (emails, memos), paste 2-3 past examples first and say "match this tone and structure" — it anchors the output far better than describing your style in the abstract.
