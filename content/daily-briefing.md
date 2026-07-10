@@ -1,14 +1,14 @@
 ---
-title: Daily Briefing. July 9, 2026
+title: Daily Briefing. July 10, 2026
 emoji: 📅
 category: tools
-updated: 2026-07-09
+updated: 2026-07-10
 ---
 
-**Calendar:** Nothing on the calendar today — a clear day for deep work.
+**Calendar:** No events on your calendar today.
 
-**Email:** Inbox was mostly newsletters and promos overnight, but one actionable item: Lawngevity sent an invoice for recent lawn service on your property — worth a quick review. A heat advisory is also in effect for the Tampa Bay area today (11am–8pm).
+**Email:** Inbox is dominated by newsletters (WSJ, TLDR, The Rundown, Word Daily, etc.) — nothing urgent from those. A few worth a glance: Bank of America sent your monthly My Credit monitoring summary, and your US Am Tour 2026 golf registration was accepted. A heat advisory is in effect for your area today (Tampa Bay/Ruskin, FL) until 7pm.
 
-**Tasks:** No task manager connected, so nothing to pull here — Outlook mail/calendar is also disconnected and needs reconnecting to get fuller coverage next time.
+**Tasks:** No task manager connected — skipping this section.
 
-**Focus + AI tip:** With a light schedule, a good use of today is knocking out one deferred task you've been avoiding. Quick prompting tip: when asking Claude to draft something in your voice (emails, memos), paste 2-3 past examples first and say "match this tone and structure" — it anchors the output far better than describing your style in the abstract.
+No pressing items on the calendar today, so it's a good day to get ahead on something that's been sitting on your list.
