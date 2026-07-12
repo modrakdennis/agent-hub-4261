@@ -1,12 +1,19 @@
 ---
-title: Daily Briefing. July 11, 2026
+title: Daily Briefing. July 12, 2026
 emoji: 📅
 category: tools
-updated: 2026-07-11
+updated: 2026-07-12
 ---
 
-**Calendar.** Nothing on the books today — a wide-open Saturday.
+**Calendar:** Nothing on your calendar today — a clear Sunday.
 
-**Email.** Inbox is quiet on the important front, mostly newsletters and retail promos. One personal thread worth a glance: Bob Balow's "Re: Today's Results" — his team took first place today, and there's a $50 envelope waiting for you.
+**Important emails (last 24h):**
+- WSJ Alert: Sen. Lindsey Graham has died after a brief, sudden illness.
+- WSJ Alert: U.S. launched new strikes on Iran following escalating Hormuz tensions.
+- Synchrony Bank: your Prime Store Card monthly statement is ready to view.
 
-No task manager is connected yet, so open-tasks tracking isn't included in this briefing — hook one up (e.g. Microsoft To Do or Asana) to get that section going.
+Everything else in the inbox overnight was newsletters and promos (Ecco, Fabula Coffee, IPO Watch, Trivago, House Outlook, Jobescape, etc.) — skipped as low priority.
+
+**Tasks:** No task manager connected yet, so nothing to report here.
+
+No open items pulling at you today — good day to catch up or take a real break.
