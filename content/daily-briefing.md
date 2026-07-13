@@ -1,19 +1,16 @@
 ---
-title: Daily Briefing. July 12, 2026
+title: Daily Briefing. July 13, 2026
 emoji: 📅
 category: tools
-updated: 2026-07-12
+updated: 2026-07-13
 ---
 
-**Calendar:** Nothing on your calendar today — a clear Sunday.
+**Calendar:** Nothing on your calendar today — a clear day.
 
-**Important emails (last 24h):**
-- WSJ Alert: Sen. Lindsey Graham has died after a brief, sudden illness.
-- WSJ Alert: U.S. launched new strikes on Iran following escalating Hormuz tensions.
-- Synchrony Bank: your Prime Store Card monthly statement is ready to view.
-
-Everything else in the inbox overnight was newsletters and promos (Ecco, Fabula Coffee, IPO Watch, Trivago, House Outlook, Jobescape, etc.) — skipped as low priority.
+**Email:** No pressing unread messages in the last 24 hours. Your inbox has plenty of unread items, but they're all newsletters and promos (WSJ, TED, TLDR, Coursera, Adidas, Marriott, etc.) — nothing personal or action-needed stood out.
 
 **Tasks:** No task manager connected yet, so nothing to report here.
 
-No open items pulling at you today — good day to catch up or take a real break.
+With a clear calendar and light inbox, today's a good day to get ahead on deep work or catch up on anything you've been postponing.
+
+**AI tip:** When drafting something you'll iterate on (an email, a memo, a plan), ask Claude for three distinct versions in one go — different tone or angle each — rather than one draft you refine repeatedly. Comparing options side by side tends to surface a better final version faster than sequential edits.
