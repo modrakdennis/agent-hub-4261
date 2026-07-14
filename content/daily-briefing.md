@@ -1,16 +1,12 @@
 ---
-title: Daily Briefing. July 13, 2026
+title: Daily Briefing. July 14, 2026
 emoji: 📅
 category: tools
-updated: 2026-07-13
+updated: 2026-07-14
 ---
 
-**Calendar:** Nothing on your calendar today — a clear day.
+**Calendar:** No events on your calendar today — a clear day.
 
-**Email:** No pressing unread messages in the last 24 hours. Your inbox has plenty of unread items, but they're all newsletters and promos (WSJ, TED, TLDR, Coursera, Adidas, Marriott, etc.) — nothing personal or action-needed stood out.
+**Email:** Slim pickings for anything urgent, but a few worth a glance. American Express sent two updates on an inquiry (ref D-99760353, card ending 15017) and a notice that the phone number on file was changed — worth a quick check if that wasn't you. Also two follow-ups from Lexus of Sarasota (Jessica Reynolds and Kevin Kasey) on your 2026 GX 550 inquiry and GX 460 trade-in. Everything else in the inbox overnight was newsletters and promos.
 
-**Tasks:** No task manager connected yet, so nothing to report here.
-
-With a clear calendar and light inbox, today's a good day to get ahead on deep work or catch up on anything you've been postponing.
-
-**AI tip:** When drafting something you'll iterate on (an email, a memo, a plan), ask Claude for three distinct versions in one go — different tone or angle each — rather than one draft you refine repeatedly. Comparing options side by side tends to surface a better final version faster than sequential edits.
+**Tasks:** No task manager connected, so nothing to report here.
