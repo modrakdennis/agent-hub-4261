@@ -1,13 +1,14 @@
 ---
-title: Daily Briefing. July 14, 2026
-emoji: 📰
-category: briefings
-updated: 2026-07-14
+title: Daily Briefing. July 15, 2026
+emoji: 📅
+category: tools
+updated: 2026-07-15
 ---
 
 **Calendar:** No events on your calendar today — a clear day.
 
-**Email:** Slim pickings for anything urgent, but a few worth a glance. American Express sent two updates on an inquiry (ref D-99760353, card ending 15017) and a notice that the phone number on file was changed — worth a quick check if that wasn't you. Also two follow-ups from Lexus of Sarasota (Jessica Reynolds and Kevin Kasey) on your 2026 GX 550 inquiry and GX 460 trade-in. Everything else in the inbox overnight was newsletters and promos.
+**Email:** Nothing urgent overnight. The inbox picked up an Apple Card payment confirmation ($245.14, applied) and a wave of newsletters and retail promos (WSJ, Motley Fool, trivia/quiz spam, Marriott, BBQGuys, Ecco, and a few real-estate alerts). None need action today.
 
 **Tasks:** No task manager connected, so nothing to report here.
 
+With a clear calendar, today's a good day to get ahead on something that usually gets squeezed out — client follow-ups, planning, or a project you've been putting off.
