@@ -1,14 +1,12 @@
 ---
-title: Daily Briefing. July 15, 2026
+title: Daily Briefing. July 16, 2026
 emoji: 📅
 category: tools
-updated: 2026-07-15
+updated: 2026-07-16
 ---
 
-**Calendar:** No events on your calendar today — a clear day.
+**Calendar**: Nothing on your calendar today — a clear day.
 
-**Email:** Nothing urgent overnight. The inbox picked up an Apple Card payment confirmation ($245.14, applied) and a wave of newsletters and retail promos (WSJ, Motley Fool, trivia/quiz spam, Marriott, BBQGuys, Ecco, and a few real-estate alerts). None need action today.
+**Email**: The Balow golf group sent a revised tee sheet for tomorrow's (July 17) Round 33 — pairings and teams were adjusted, skins pool is up to $90. Also, Frontier auto-pay processed successfully: $84.99 on the account ending 0095. Everything else in the last 24 hours was newsletters and promos, skipped.
 
-**Tasks:** No task manager connected, so nothing to report here.
-
-With a clear calendar, today's a good day to get ahead on something that usually gets squeezed out — client follow-ups, planning, or a project you've been putting off.
+**Tasks**: No task manager connected, so nothing to pull here today.
