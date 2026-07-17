@@ -1,12 +1,22 @@
 ---
 title: Daily Briefing. July 17, 2026
-emoji: 📅
+emoji: 🗓️
 category: tools
 updated: 2026-07-17
 ---
 
-**Calendar:** Nothing on your calendar today.
+No meetings on the calendar today — a clear day, but a few things in the inbox are worth a look.
 
-**Email:** A handful of items worth a look among the newsletters: Thomson Reuters (Keren Vazquez) followed up on the UltraTax CS introduction. Bank of America posted your Business Lending billing statement for the Adv Customized Cash Rewards account ending in 9570. Google Workspace sent an admin notice that "Google Pics" becomes a core service around Aug 18, 2026. Todoist also flagged 2 overdue tasks for today — worth a quick check in the app.
+**Calendar**
+- No events scheduled for today.
 
-Everything else in the inbox is routine newsletters and promos.
+**Worth your attention**
+- American Express AutoPay: $3,800.39 will process Thursday, July 23 on the card ending 16007.
+- Golf: today's 4:34 PM tee time (Laurel Oak) was cancelled and the course closed due to heavy rain.
+- HealthFit Child Care will be closed the morning of Tuesday, July 21 (open 4–7pm that evening).
+- IRS e-News for Tax Professionals, Issue 2026-28: new automatic penalty-relief process announced — may be relevant for client work.
+
+**Tasks**
+- No task manager connector is currently linked, so no task list to show today.
+
+*Note: inbox is mostly newsletters/promotions today (skipped per filter); nothing from Bradford Tax Institute, Checkpoint/Thomson Reuters, Accounting Today, or CPA Trendlines.*
