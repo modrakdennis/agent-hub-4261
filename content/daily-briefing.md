@@ -1,12 +1,17 @@
 ---
 title: Daily Briefing. July 18, 2026
-emoji: 📅
+emoji: 📋
 category: tools
 updated: 2026-07-18
 ---
+No meetings on the calendar today and nothing urgent in the inbox — a clear Saturday.
 
-**Calendar:** Nothing on your calendar today — a clear Saturday.
+**Calendar**
+- No events found today.
 
-**Email:** A handful of items worth a glance. Laurel Oak closed the Player golf course for the rest of the day after 1.3" of overnight rain, with an update expected tomorrow morning. AIAdvantage flagged a new device sign-in on your account — worth a quick check if that wasn't you. Discover is warning that some account services will be limited July 23–26 while it migrates to Capital One. NWS also issued a special weather statement for strong thunderstorms in the Tampa Bay/Manatee area today. Everything else in the inbox was newsletters and promos.
+**Email**
+- No time-sensitive or important messages in the last 24 hours. Inbox activity was all newsletters, retail promos, and automated alerts (weather, property alerts, digests) — nothing from Bradford Tax Institute, Checkpoint/Thomson Reuters, Accounting Today, or CPA Trendlines.
+- Note: Todoist sent a reminder that you have 2 overdue tasks — no task manager is connected here, so check Todoist directly for details.
 
-**Tasks:** No task manager is connected, so nothing to pull directly — though Todoist emailed a reminder that you have 2 overdue tasks, worth checking there directly.
+**Tasks**
+- No task manager connector is currently linked to AgentHub, so this section couldn't be pulled automatically. (See Todoist note above.)
