@@ -1,14 +1,19 @@
 ---
 title: Daily Briefing. July 20, 2026
-emoji: 📅
+emoji: 📋
 category: tools
 updated: 2026-07-20
 ---
+Light Monday — no meetings on the calendar, and inbox is mostly newsletters aside from one RSVP.
 
-No meetings on your calendar today — a clear day to get ahead on something else.
+**Calendar**
+- No events scheduled today.
 
-Inbox is mostly newsletters and promos this morning, but two things worth a look: Laurel Oak says the Player course is closed today from rain, and Faust is collecting RSVPs for the Saturday, July 25 Wertz golf game (tee times from 8:10) — reply by tomorrow if you're playing.
+**Email — needs a response**
+- Saturday Wertz Game (July 25): Faust Wertz needs a headcount by tomorrow (Tue 7/21) for an 8:10am tee time. Reply if you want in.
 
-No task manager is connected here, but a Todoist digest in your inbox flagged 2 overdue tasks — worth a quick check.
+**Monitored tax/accounting sources (Bradford Tax Institute, Checkpoint/Thomson Reuters, Accounting Today, CPA Trendlines)**
+- Nothing from these in the last 24 hours.
 
-Focus for today: with nothing on the calendar, it's a good day to knock out something that's been sitting on your list.
+**Tasks**
+- No task manager connector is currently connected — skipped.
