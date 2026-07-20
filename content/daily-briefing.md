@@ -1,14 +1,14 @@
 ---
-title: Daily Briefing. July 19, 2026
+title: Daily Briefing. July 20, 2026
 emoji: 📅
 category: tools
-updated: 2026-07-19
+updated: 2026-07-20
 ---
 
-Calendar: nothing on your schedule today — a clear Sunday.
+No meetings on your calendar today — a clear day to get ahead on something else.
 
-Email: no urgent unread messages in the last 24 hours. Inbox activity was all newsletters and promos (Costco, golf retailers, MLB, a few finance/business newsletters) — nothing needs a reply today.
+Inbox is mostly newsletters and promos this morning, but two things worth a look: Laurel Oak says the Player course is closed today from rain, and Faust is collecting RSVPs for the Saturday, July 25 Wertz golf game (tee times from 8:10) — reply by tomorrow if you're playing.
 
-Tasks: no task manager is currently connected, so nothing to report here.
+No task manager is connected here, but a Todoist digest in your inbox flagged 2 overdue tasks — worth a quick check.
 
-With a light day ahead, one practical AI tip: when drafting emails or documents with Claude, paste in 2-3 examples of your own past writing before asking for a draft — it locks onto your voice far better than a style description alone.
+Focus for today: with nothing on the calendar, it's a good day to knock out something that's been sitting on your list.
