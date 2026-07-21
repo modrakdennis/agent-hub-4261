@@ -1,19 +1,14 @@
 ---
-title: Daily Briefing. July 20, 2026
-emoji: 📋
+title: Daily Briefing. July 21, 2026
+emoji: 📅
 category: tools
-updated: 2026-07-20
+updated: 2026-07-21
 ---
-Light Monday — no meetings on the calendar, and inbox is mostly newsletters aside from one RSVP.
 
-**Calendar**
-- No events scheduled today.
+**Calendar:** No events on your calendar today.
 
-**Email — needs a response**
-- Saturday Wertz Game (July 25): Faust Wertz needs a headcount by tomorrow (Tue 7/21) for an 8:10am tee time. Reply if you want in.
+**Email:** Laurel Oak's Player Course remains closed today — 0.37" of rain overnight left it too wet for cart traffic; the agronomy team was reassessing conditions at 11 AM. Also, Todoist flagged 2 overdue tasks for today. Everything else in your inbox overnight was newsletters, promos, and marketing (WSJ briefing, TED, PayPal terms update, credit card offer, etc.) — nothing else urgent.
 
-**Monitored tax/accounting sources (Bradford Tax Institute, Checkpoint/Thomson Reuters, Accounting Today, CPA Trendlines)**
-- Nothing from these in the last 24 hours.
+**Tasks:** No task manager connected — skipped this section.
 
-**Tasks**
-- No task manager connector is currently connected — skipped.
+*Focus for today:* with no meetings on the calendar, it's a good day to clear those 2 overdue Todoist items before they pile up further.
