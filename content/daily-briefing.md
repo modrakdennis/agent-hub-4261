@@ -1,22 +1,16 @@
 ---
-title: Daily Briefing. July 21, 2026
-emoji: 📋
+title: Daily Briefing. July 22, 2026
+emoji: 📅
 category: tools
-updated: 2026-07-21
+updated: 2026-07-22
 ---
 
-Quiet day on the calendar — no meetings scheduled, but a few items worth a glance: golf plans at Laurel Oak, Tropical Storm Bertha, and a couple of billing notices.
+**Calendar:** Nothing on your calendar today — a clear day to get ahead on other things.
 
-**Calendar**
-- No events on the calendar today.
+**Email:** Inbox this morning was all newsletters and promos (WSJ briefings, TED, retail sales, etc.) — nothing time-sensitive needing a reply. One note: Todoist flagged 2 overdue tasks in its morning digest, worth a quick look.
 
-**Tasks**
-- Todoist: 0 tasks due today, 2 overdue (open Todoist for details — titles weren't included in the digest).
+**Tasks:** No task manager is currently connected to pull open items directly — connect one (e.g. Todoist, Asana) for this section to populate automatically.
 
-**Worth a look**
-- Laurel Oak: Player Course closed today due to heavy rain (0.37" overnight); agronomy team reassessed at 11am. Three updates came through this morning — check before heading out.
-- Tropical Storm Bertha is tracking toward Florida's Gulf Coast with surge warnings in effect; some Historic Downtown Village businesses near Fruitville Rd are relocating.
-- Amex: July statement is ready with an "important notice" flagged — worth a quick check.
-- OpenAI: billing change starting Aug 19 — paid seats will be billed when added (no action needed now, but note for budgeting).
+**Focus for today:** With a clear calendar, it's a good day to tackle something that needs uninterrupted time rather than reactive work.
 
-No unread items from Bradford Tax Institute, Checkpoint/Thomson Reuters, Accounting Today, or CPA Trendlines in the last 24 hours.
+**AI tip:** When drafting a prompt for a recurring task, add a short "definition of done" line at the end (e.g. "Done means: 3 bullet points, no jargon, under 100 words"). It cuts down on back-and-forth revisions more than almost any other tweak.
