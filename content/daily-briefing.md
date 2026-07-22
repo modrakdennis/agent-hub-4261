@@ -1,16 +1,20 @@
 ---
 title: Daily Briefing. July 22, 2026
-emoji: 📅
+emoji: 📋
 category: tools
 updated: 2026-07-22
 ---
+Quiet day: no calendar events, no urgent emails, and a couple of overdue Todoist tasks to knock out.
 
-**Calendar:** Nothing on your calendar today — a clear day to get ahead on other things.
+**Calendar**
+- No events on your calendar today.
 
-**Email:** Inbox this morning was all newsletters and promos (WSJ briefings, TED, retail sales, etc.) — nothing time-sensitive needing a reply. One note: Todoist flagged 2 overdue tasks in its morning digest, worth a quick look.
+**Email**
+- No urgent or actionable emails in the last 24 hours. Inbox was mostly newsletters (WSJ, TLDR, TED, The Motley Fool, etc.) and real-estate/property alerts.
+- No items from Bradford Tax Institute, Checkpoint/Thomson Reuters, Accounting Today, or CPA Trendlines.
+- Golf course note: Player course confirmed open today (Laurel Oak, no rain overnight).
 
-**Tasks:** No task manager is currently connected to pull open items directly — connect one (e.g. Todoist, Asana) for this section to populate automatically.
+**Tasks**
+- Todoist sent a reminder that you have 2 overdue task(s) as of this morning — worth a quick look since a task manager connector isn't linked here to pull details directly.
 
-**Focus for today:** With a clear calendar, it's a good day to tackle something that needs uninterrupted time rather than reactive work.
-
-**AI tip:** When drafting a prompt for a recurring task, add a short "definition of done" line at the end (e.g. "Done means: 3 bullet points, no jargon, under 100 words"). It cuts down on back-and-forth revisions more than almost any other tweak.
+Nothing pressing on the radar — good day to catch up on the overdue Todoist items.
