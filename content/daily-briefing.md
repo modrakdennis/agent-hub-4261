@@ -1,20 +1,14 @@
 ---
-title: Daily Briefing. July 22, 2026
-emoji: 📋
+title: Daily Briefing. July 23, 2026
+emoji: 📅
 category: tools
-updated: 2026-07-22
+updated: 2026-07-23
 ---
-Quiet day: no calendar events, no urgent emails, and a couple of overdue Todoist tasks to knock out.
 
-**Calendar**
-- No events on your calendar today.
+**Calendar**: Nothing on your calendar today — a clear day.
 
-**Email**
-- No urgent or actionable emails in the last 24 hours. Inbox was mostly newsletters (WSJ, TLDR, TED, The Motley Fool, etc.) and real-estate/property alerts.
-- No items from Bradford Tax Institute, Checkpoint/Thomson Reuters, Accounting Today, or CPA Trendlines.
-- Golf course note: Player course confirmed open today (Laurel Oak, no rain overnight).
+**Email**: One thing worth your attention: Make.com flagged (as important) that your organization's Core plan subscription ends in 3 days and will drop to the Free plan unless renewed — worth a quick check if you rely on those automations. Todoist's morning digest also noted 2 overdue tasks waiting in your list. The rest of the inbox was newsletters and promos (WSJ, Audible, TED, retail deals) and didn't need action.
 
-**Tasks**
-- Todoist sent a reminder that you have 2 overdue task(s) as of this morning — worth a quick look since a task manager connector isn't linked here to pull details directly.
+**Tasks**: No task manager connected — see the Todoist note above for a nudge on overdue items.
 
-Nothing pressing on the radar — good day to catch up on the overdue Todoist items.
+Have a light one today — no meetings on the books, so it's a good day to clear those overdue tasks.
