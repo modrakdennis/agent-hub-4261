@@ -1,12 +1,18 @@
 ---
 title: Daily Briefing. July 24, 2026
-emoji: 📅
+emoji: 🗓️
 category: tools
 updated: 2026-07-24
 ---
 
-**Calendar:** Nothing on your calendar today — a clear day.
+No meetings on the calendar today — a light day, good chance to clear open items.
 
-**Email:** Chase sent two routine credit summary alerts overnight, nothing actionable. Your golf tour (US Am Tour) confirmed your IMG Classic tee time for Sunday, July 26 — 7:32 AM on hole #10 — and posted updated standings. Todoist flagged 2 overdue tasks in your morning digest, worth a quick look. Everything else in the inbox is newsletters and digests (WSJ, TLDR, The Athletic, etc.) — skipped as low priority. One email from a Korean sender shared a contract doc to a long, unfamiliar distribution list; it looks off — worth a second glance before opening anything.
+**Emails needing attention**
+- Hascall-Denke (Chantel Smail, cc Max) replied on "Truist bank ACH and other disbursements" — awaiting your review.
+- Dropbox: Max added updates to shared folders overnight — MCN P&L YTD Comp 6.30.26.pdf and MCN Balance Sheet 6.30 files.
+- 🚩 Bradford Tax Institute Forum Summary — new thread this week: "QSBC's" (Qualified Small Business Corporation stock), started by Bryan Zink in Q&A with Tax Pros.
 
-**Tasks:** No task manager is connected directly, so I can't pull a full list — but Todoist's email flagged 2 overdue items for today. Worth opening the app to see what's due.
+**Tasks**
+- Todoist flagged 2 overdue tasks for today — check the app for specifics (no task connector linked here for full detail).
+
+**Note:** No task-manager or work-calendar connector is currently linked, so this covers only your Gmail and personal calendar (dennismodrak@gmail.com).
