@@ -1,17 +1,12 @@
 ---
-title: Daily Briefing. July 23, 2026
-emoji: 📋
+title: Daily Briefing. July 24, 2026
+emoji: 📅
 category: tools
-updated: 2026-07-23
+updated: 2026-07-24
 ---
-Quiet day on the calendar — no events scheduled. A handful of work-related emails are worth a glance.
 
-**Emails to review**
-- Make.com: org subscription drops to the Free plan in 3 days — renew if you want to keep Core features.
-- Todoist: today's task digest flags 2 overdue tasks.
-- Golf Genius: Round 41 signup for Tue, July 28 — accept or decline.
-- Thomson Reuters/Checkpoint: rep (Isaac Gilmore) following up to book an appointment; also a webinar invite (Aug 6, tax workflow automation) and a 25%-off summer sale (ends July 24).
-- Bradford Tax Institute: webinar tomorrow on converting clients' S corps into tax-saving machines.
+**Calendar:** Nothing on your calendar today — a clear day.
 
-**Tasks**
-No task manager connector available today — see the Todoist overdue-task flag above.
+**Email:** Chase sent two routine credit summary alerts overnight, nothing actionable. Your golf tour (US Am Tour) confirmed your IMG Classic tee time for Sunday, July 26 — 7:32 AM on hole #10 — and posted updated standings. Todoist flagged 2 overdue tasks in your morning digest, worth a quick look. Everything else in the inbox is newsletters and digests (WSJ, TLDR, The Athletic, etc.) — skipped as low priority. One email from a Korean sender shared a contract doc to a long, unfamiliar distribution list; it looks off — worth a second glance before opening anything.
+
+**Tasks:** No task manager is connected directly, so I can't pull a full list — but Todoist's email flagged 2 overdue items for today. Worth opening the app to see what's due.
