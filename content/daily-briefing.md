@@ -1,18 +1,14 @@
 ---
-title: Daily Briefing. July 24, 2026
-emoji: 🗓️
+title: Daily Briefing. July 25, 2026
+emoji: 📅
 category: tools
-updated: 2026-07-24
+updated: 2026-07-25
 ---
 
-No meetings on the calendar today — a light day, good chance to clear open items.
+**Calendar:** No events on your calendar today — a clear Saturday.
 
-**Emails needing attention**
-- Hascall-Denke (Chantel Smail, cc Max) replied on "Truist bank ACH and other disbursements" — awaiting your review.
-- Dropbox: Max added updates to shared folders overnight — MCN P&L YTD Comp 6.30.26.pdf and MCN Balance Sheet 6.30 files.
-- 🚩 Bradford Tax Institute Forum Summary — new thread this week: "QSBC's" (Qualified Small Business Corporation stock), started by Bryan Zink in Q&A with Tax Pros.
+**Email:** Inbox is mostly newsletters and digests (The Athletic, Word Daily, Perplexity, etc.) with nothing urgent. One item worth a look: Public Storage sent a notice about changes to your rental agreement and payment terms for unit 1020 in Sarasota — flagged important, no immediate deadline stated.
 
-**Tasks**
-- Todoist flagged 2 overdue tasks for today — check the app for specifics (no task connector linked here for full detail).
+**Tasks:** No task manager connected this run, so no due-today list — Todoist sent a reminder of 2 overdue tasks, worth checking directly in the app.
 
-**Note:** No task-manager or work-calendar connector is currently linked, so this covers only your Gmail and personal calendar (dennismodrak@gmail.com).
+With a light calendar, this is a good day to knock out that Public Storage notice and clear the overdue Todoist items before they pile up.
