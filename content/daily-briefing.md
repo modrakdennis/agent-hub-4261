@@ -1,14 +1,20 @@
 ---
 title: Daily Briefing. July 25, 2026
-emoji: 📅
+emoji: 📋
 category: tools
 updated: 2026-07-25
 ---
+No meetings on the calendar today (Saturday) — open day for focused work.
 
-**Calendar:** No events on your calendar today — a clear Saturday.
+**Needs attention**
+- Auto-Owners Insurance: cancellation notice — premium payment past due; policy will be canceled if not paid by Aug 12, 2026.
 
-**Email:** Inbox is mostly newsletters and digests (The Athletic, Word Daily, Perplexity, etc.) with nothing urgent. One item worth a look: Public Storage sent a notice about changes to your rental agreement and payment terms for unit 1020 in Sarasota — flagged important, no immediate deadline stated.
+**Tax/practice source flags** (per standing filter — sender/subject only, may be paywalled)
+- Bradford Tax Institute: "A Better Way to Handle Inventory for Tax Purposes"
+- Thomson Reuters (Checkpoint): "Quickfinder discount is still on! Grab your bundle."
+- Thomson Reuters: "e-Form 25.0.0.2 release notification"
 
-**Tasks:** No task manager connected this run, so no due-today list — Todoist sent a reminder of 2 overdue tasks, worth checking directly in the app.
+**Tasks**
+- No task manager connector is currently connected — skipped.
 
-With a light calendar, this is a good day to knock out that Public Storage notice and clear the overdue Todoist items before they pile up.
+Everything else in the inbox over the last 24 hours was newsletters/promotions (LinkedIn, OpenTable, retail deals, news digests) and was filtered out.
