@@ -1,20 +1,14 @@
 ---
-title: Daily Briefing. July 25, 2026
-emoji: 📋
+title: Daily Briefing. July 26, 2026
+emoji: 📅
 category: tools
-updated: 2026-07-25
+updated: 2026-07-26
 ---
-No meetings on the calendar today (Saturday) — open day for focused work.
 
-**Needs attention**
-- Auto-Owners Insurance: cancellation notice — premium payment past due; policy will be canceled if not paid by Aug 12, 2026.
+**Calendar:** No events on your calendar today — a clear Sunday.
 
-**Tax/practice source flags** (per standing filter — sender/subject only, may be paywalled)
-- Bradford Tax Institute: "A Better Way to Handle Inventory for Tax Purposes"
-- Thomson Reuters (Checkpoint): "Quickfinder discount is still on! Grab your bundle."
-- Thomson Reuters: "e-Form 25.0.0.2 release notification"
+**Email:** Todoist flags 2 overdue tasks needing attention. Laurel Oak sent word the golf course is closed until 10am today due to a 0.33" rain event, with an update to follow around 9:30am — worth checking before heading out. Everything else in the inbox is routine newsletters and digests (The Athletic, The Hustle, Word Daily, etc.) — nothing else flagged as important.
 
-**Tasks**
-- No task manager connector is currently connected — skipped.
+**Tasks:** No task manager connector is linked, but per the Todoist reminder above, 2 items are overdue as of today — worth a quick look in the app.
 
-Everything else in the inbox over the last 24 hours was newsletters/promotions (LinkedIn, OpenTable, retail deals, news digests) and was filtered out.
+Enjoy the quiet Sunday.
