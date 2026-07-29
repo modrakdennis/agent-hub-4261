@@ -1,14 +1,14 @@
 ---
-title: Daily Briefing. July 27, 2026
+title: Daily Briefing. July 29, 2026
 emoji: 📅
 category: tools
-updated: 2026-07-27
+updated: 2026-07-29
 ---
 
-No calendar events found on your primary calendar today.
+**Calendar:** No events scheduled on your calendar today.
 
-**Email**: An invoice from Interstate Park Partnership LTD (via QuickBooks) is due — balance $2,512.36, invoice 14289. Make.com sent notice that your organization has dropped to the Free plan and lost prior features. Todoist's digest flagged 2 overdue tasks (see Tasks below). A golf outing invite for Saturday, Aug 1 (tee times from 8:10) is awaiting your RSVP. The rest of today's unread mail is newsletters (WSJ, TLDR, TED, The Athletic, The Pour Over) — skipped as low priority.
+**Email:** A handful of items worth a glance amid the newsletter noise. Auto-Owners Insurance confirmed a premium payment on your policy (Account 101910217). Laurel Oak reports .51" of rain — The Player course is closed until at least 10am, reassessing at 8am. Russell Holden's Golfgenius group has you on the tee sheet for Round 37; he plans to arrive 9:30 and may adjust the game depending on who shows. Todoist flagged 2 overdue tasks for today.
 
-**Tasks**: No task-manager connector is currently linked, but Todoist's digest email indicates 2 overdue tasks — worth opening Todoist directly to clear those.
+**Tasks:** No task manager connector is currently linked — Todoist reminder above suggests checking there directly for the overdue items.
 
-Focus for today: settle the Interstate Park invoice, decide on the Make.com plan (Free vs. upgrading back), and RSVP to the golf outing before tomorrow's deadline.
+**Focus:** With a light calendar, today's a good day to clear those 2 overdue Todoist items before they pile up further.
