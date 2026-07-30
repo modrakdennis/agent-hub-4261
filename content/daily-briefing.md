@@ -1,14 +1,14 @@
 ---
-title: Daily Briefing. July 29, 2026
+title: Daily Briefing. July 30, 2026
 emoji: 📅
 category: tools
-updated: 2026-07-29
+updated: 2026-07-30
 ---
 
-**Calendar:** No events scheduled on your calendar today.
+**Calendar:** One meeting today — TR CoCounsel Value Review with Ivy McDonald (Thomson Reuters), 10:00–10:30 AM via Teams.
 
-**Email:** A handful of items worth a glance amid the newsletter noise. Auto-Owners Insurance confirmed a premium payment on your policy (Account 101910217). Laurel Oak reports .51" of rain — The Player course is closed until at least 10am, reassessing at 8am. Russell Holden's Golfgenius group has you on the tee sheet for Round 37; he plans to arrive 9:30 and may adjust the game depending on who shows. Todoist flagged 2 overdue tasks for today.
+**Email:** Inbox was mostly newsletters and promos (WSJ briefings, TLDR AI digest, golf tour recaps, retail sales pitches) — nothing urgent needing a reply. Worth a glance: a Todoist digest flagged 2 overdue tasks for today, and Laurel Oak sent course conditions for Thursday (wet course, keep carts in the rough).
 
-**Tasks:** No task manager connector is currently linked — Todoist reminder above suggests checking there directly for the overdue items.
+**Tasks:** No task manager connector is currently linked in AgentHub, so open tasks couldn't be pulled directly — check Todoist for the 2 overdue items mentioned in this morning's digest.
 
-**Focus:** With a light calendar, today's a good day to clear those 2 overdue Todoist items before they pile up further.
+**Focus for today:** With just one 30-minute meeting on the calendar, this is a good day to clear those overdue Todoist items early before anything else fills the slot.
