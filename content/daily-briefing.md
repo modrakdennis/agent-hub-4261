@@ -1,14 +1,17 @@
 ---
-title: Daily Briefing. July 30, 2026
+title: Daily Briefing. July 31, 2026
 emoji: 📅
 category: tools
-updated: 2026-07-30
+updated: 2026-07-31
 ---
 
-**Calendar:** One meeting today — TR CoCounsel Value Review with Ivy McDonald (Thomson Reuters), 10:00–10:30 AM via Teams.
+**Calendar:** No events found on your calendar for today.
 
-**Email:** Inbox was mostly newsletters and promos (WSJ briefings, TLDR AI digest, golf tour recaps, retail sales pitches) — nothing urgent needing a reply. Worth a glance: a Todoist digest flagged 2 overdue tasks for today, and Laurel Oak sent course conditions for Thursday (wet course, keep carts in the rough).
+**Email highlights (last 24h):**
+Lisa Marie Harriman sent a personal follow-up note about your text — she'll turn 57 in September and shared some life updates. Laurel Oak CC (csmyth) says the Player Course is closed today after 2"+ of rain. Isaac Gilmore at Thomson Reuters is following up again asking to book a call about CoCounsel — second nudge. Kenzie at EM Founders Group has a meeting with a tax attorney lining up for next week; Max already proposed Wednesday or a non-board-meeting slot Thursday.
 
-**Tasks:** No task manager connector is currently linked in AgentHub, so open tasks couldn't be pulled directly — check Todoist for the 2 overdue items mentioned in this morning's digest.
+**Tasks:** No task manager connected — nothing to pull here.
 
-**Focus for today:** With just one 30-minute meeting on the calendar, this is a good day to clear those overdue Todoist items early before anything else fills the slot.
+**Focus for today:** With the course closed, it's a good window to knock out the Thomson Reuters call-back and confirm a time for the Ken meeting before Kenzie locks the schedule.
+
+**AI tip:** When triaging a long inbox, ask Claude to sort by "needs a reply today vs. this week vs. no action" instead of just "important vs. not" — it cuts decision fatigue faster than urgency labels alone.
