@@ -1,17 +1,22 @@
 ---
 title: Daily Briefing. July 31, 2026
-emoji: 📅
+emoji: 📋
 category: tools
 updated: 2026-07-31
 ---
+No calendar events and no urgent action items today — inbox was mostly newsletters/promos, filtered out below.
 
-**Calendar:** No events found on your calendar for today.
+**Calendar**
+- No events on your calendar for today.
 
-**Email highlights (last 24h):**
-Lisa Marie Harriman sent a personal follow-up note about your text — she'll turn 57 in September and shared some life updates. Laurel Oak CC (csmyth) says the Player Course is closed today after 2"+ of rain. Isaac Gilmore at Thomson Reuters is following up again asking to book a call about CoCounsel — second nudge. Kenzie at EM Founders Group has a meeting with a tax attorney lining up for next week; Max already proposed Wednesday or a non-board-meeting slot Thursday.
+**Emails worth a look** (unread, last 24h)
+- **Amanda (Eagle Mountain Utah)** — "New Email Address Re: Meeting with Ken": she's switched to amanda@emfoundersgroup.com, old inbox retiring Dec 1. Update your contact info if this relates to an active meeting thread.
+- **Laurel Oak CC** — Pro Shop closing at 1PM today due to course closure; call ahead if you need your bag for outside play.
+- **dennismodrak@icloud.com** — sent a screenshot (7/31, 12:29 PM) to your CPA inbox with no note. Worth a quick check.
+- **Intuit QuickBooks** — Sales tax rate/rule updates effective August 1, 2026 — routine but practice-relevant.
+- **MODRAK LLC compliance notice** (from a third-party filing service, not Sunbiz directly) flagged a "final day" 2027 Florida annual report offer — likely a marketing email, but worth a quick sanity check against your actual filing deadline.
 
-**Tasks:** No task manager connected — nothing to pull here.
+**Tasks**
+- No task manager connector is currently set up, so no task list to pull from today.
 
-**Focus for today:** With the course closed, it's a good window to knock out the Thomson Reuters call-back and confirm a time for the Ken meeting before Kenzie locks the schedule.
-
-**AI tip:** When triaging a long inbox, ask Claude to sort by "needs a reply today vs. this week vs. no action" instead of just "important vs. not" — it cuts decision fatigue faster than urgency labels alone.
+*Note: no calendar events and no connected task manager — this brief leans on email only. Let me know if you'd like a task manager connected for future briefings.*
