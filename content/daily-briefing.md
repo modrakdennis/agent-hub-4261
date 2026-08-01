@@ -1,22 +1,26 @@
 ---
-title: Daily Briefing. July 31, 2026
-emoji: 📋
+title: Daily Briefing. August 1, 2026
+emoji: 📅
 category: tools
-updated: 2026-07-31
+updated: 2026-08-01
 ---
-No calendar events and no urgent action items today — inbox was mostly newsletters/promos, filtered out below.
 
-**Calendar**
-- No events on your calendar for today.
+**Calendar:** No events found on your calendar for today.
 
-**Emails worth a look** (unread, last 24h)
-- **Amanda (Eagle Mountain Utah)** — "New Email Address Re: Meeting with Ken": she's switched to amanda@emfoundersgroup.com, old inbox retiring Dec 1. Update your contact info if this relates to an active meeting thread.
-- **Laurel Oak CC** — Pro Shop closing at 1PM today due to course closure; call ahead if you need your bag for outside play.
-- **dennismodrak@icloud.com** — sent a screenshot (7/31, 12:29 PM) to your CPA inbox with no note. Worth a quick check.
-- **Intuit QuickBooks** — Sales tax rate/rule updates effective August 1, 2026 — routine but practice-relevant.
-- **MODRAK LLC compliance notice** (from a third-party filing service, not Sunbiz directly) flagged a "final day" 2027 Florida annual report offer — likely a marketing email, but worth a quick sanity check against your actual filing deadline.
+**Email — personal/client:** Google flagged that your dennismodrak@gmail.com account was just recovered after being locked out — worth a quick check that it was actually you. Nothing else in the last 24 hours needed a reply beyond routine order/shipping notices.
 
-**Tasks**
-- No task manager connector is currently set up, so no task list to pull from today.
+**Industry News:**
 
-*Note: no calendar events and no connected task manager — this brief leans on email only. Let me know if you'd like a task manager connected for future briefings.*
+NATP (National Association of Tax Professionals) published "Roth conversions: from tax planning to Form 1040 reporting" — walks through the planning considerations behind a Roth conversion and how it flows through to the 1040. Worth a skim if you have clients weighing conversions before year-end.
+
+Drake Software's "Taxing Subjects" newsletter covers crypto tax insights, gold/precious-metals tax guidance, and product updates — useful if any clients have crypto or bullion positions this year.
+
+CPA Practice Advisor opened nominations for its 2026 Innovation Awards (deadline Aug 27) — recognizing tech shaping the profession; mostly FYI unless you want to nominate a tool or workflow.
+
+Thomson Reuters is running a webinar series, "From AI Skeptic to AI-Ready," aimed at tax professionals adopting AI tools — a signup/registration email rather than an article, flagging in case it's of interest.
+
+**Tasks:** No task manager connected — nothing to pull here.
+
+**Focus for today:** Quick sanity-check on the Google account recovery, then a few minutes with the NATP Roth-conversion piece if you have relevant clients.
+
+**AI tip:** When triaging a long inbox, ask Claude to sort by "needs a reply today vs. this week vs. no action" instead of just "important vs. not" — it cuts decision fatigue faster than urgency labels alone.
