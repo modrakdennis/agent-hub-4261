@@ -1,26 +1,30 @@
 ---
-title: Daily Briefing. August 1, 2026
+title: Daily Briefing. July 31, 2026
 emoji: 📅
 category: tools
-updated: 2026-08-01
+updated: 2026-07-31
 ---
 
 **Calendar:** No events found on your calendar for today.
 
-**Email — personal/client:** Google flagged that your dennismodrak@gmail.com account was just recovered after being locked out — worth a quick check that it was actually you. Nothing else in the last 24 hours needed a reply beyond routine order/shipping notices.
+**Email — personal/client:** Terry Wolfram (New Pope Twin Isles) asked you to make the invoice out to Pistotita LLC for $2,800, based on 2/3rd ownership in New Pope Twin Isles — needs action. Google also flagged that your dennismodrak@gmail.com account was recovered after being locked out — worth a quick check that it was actually you.
 
 **Industry News:**
 
-NATP (National Association of Tax Professionals) published "Roth conversions: from tax planning to Form 1040 reporting" — walks through the planning considerations behind a Roth conversion and how it flows through to the 1040. Worth a skim if you have clients weighing conversions before year-end.
+NATP — "Roth conversions: from tax planning to Form 1040 reporting." Walks through the planning considerations behind a Roth conversion and how it flows through to the 1040.
 
-Drake Software's "Taxing Subjects" newsletter covers crypto tax insights, gold/precious-metals tax guidance, and product updates — useful if any clients have crypto or bullion positions this year.
+Drake Software (Taxing Subjects) — crypto tax insights, gold/precious-metals tax guidance, and product updates.
 
-CPA Practice Advisor opened nominations for its 2026 Innovation Awards (deadline Aug 27) — recognizing tech shaping the profession; mostly FYI unless you want to nominate a tool or workflow.
+CPA Practice Advisor — nominations open for the 2026 Innovation Awards (deadline Aug 27).
 
-Thomson Reuters is running a webinar series, "From AI Skeptic to AI-Ready," aimed at tax professionals adopting AI tools — a signup/registration email rather than an article, flagging in case it's of interest.
+Thomson Reuters — running a webinar series, "From AI Skeptic to AI-Ready," for tax professionals adopting AI tools (registration email, not an article).
+
+Checkpoint — no new articles landed in your inbox in the last 24 hours.
 
 **Tasks:** No task manager connected — nothing to pull here.
 
-**Focus for today:** Quick sanity-check on the Google account recovery, then a few minutes with the NATP Roth-conversion piece if you have relevant clients.
+**Focus for today:** Get the Pistotita LLC / Twin Isles invoice out to Terry, sanity-check the Google account recovery, and skim the NATP Roth-conversion piece if relevant clients come to mind.
 
 **AI tip:** When triaging a long inbox, ask Claude to sort by "needs a reply today vs. this week vs. no action" instead of just "important vs. not" — it cuts decision fatigue faster than urgency labels alone.
+
+A PDF version of today's briefing is also saved to your AgentHub folder.
