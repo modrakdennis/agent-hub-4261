@@ -1,30 +1,38 @@
 ---
-title: Daily Briefing. July 31, 2026
+title: Daily Briefing. August 1, 2026
 emoji: 📅
 category: tools
-updated: 2026-07-31
+updated: 2026-08-01
 ---
 
-**Calendar:** No events found on your calendar for today.
+## Calendar
+Nothing on your calendar today (Saturday, August 1).
 
-**Email — personal/client:** Terry Wolfram (New Pope Twin Isles) asked you to make the invoice out to Pistotita LLC for $2,800, based on 2/3rd ownership in New Pope Twin Isles — needs action. Google also flagged that your dennismodrak@gmail.com account was recovered after being locked out — worth a quick check that it was actually you.
+## Email — Personal/Client
+Terry Wolfram (terrywolfram@gmail.com) replied on "NEW POPE TWIN ISLES" asking you to make an invoice to Pistotita LLC for $2,800, based on 2/3 ownership — an explicit ask that needs action.
 
-**Industry News:**
+The "Meeting with Ken" thread with Kenzie Spaulding (EM Founders Group) is still open — she asked Wednesday whether you and Max have topics to preview for Ken (the tax attorney) ahead of next week's meeting; worth a reply if you haven't sent one.
 
-NATP — "Roth conversions: from tax planning to Form 1040 reporting." Walks through the planning considerations behind a Roth conversion and how it flows through to the 1040.
+Public Storage sent an AutoPay confirmation ($93 charged 7/30) — informational only, no action needed.
 
-Drake Software (Taxing Subjects) — crypto tax insights, gold/precious-metals tax guidance, and product updates.
+The IRS's e-News for Payroll Professionals (7/31) flagged a new automatic penalty-exemption process, an expansion of Business Tax Account features, and the Security Summit summer series — worth a skim if you have payroll clients.
 
-CPA Practice Advisor — nominations open for the 2026 Innovation Awards (deadline Aug 27).
+Nothing else in the last 24 hours needed a response — the rest was newsletters, receipts, and personal mail.
 
-Thomson Reuters — running a webinar series, "From AI Skeptic to AI-Ready," for tax professionals adopting AI tools (registration email, not an article).
+## Industry News
+**Checkpoint (Thomson Reuters)** — Only a webinar-series promo ("From AI skeptic to AI-ready") came through; no substantive article today.
 
-Checkpoint — no new articles landed in your inbox in the last 24 hours.
+**NATP** — Two membership-discount promo emails, no editorial content.
 
-**Tasks:** No task manager connected — nothing to pull here.
+**CPA Practice Advisor** — Nominations are open for the 2026 Innovation Awards (deadline August 27), highlighting tech shaping the profession and small-business productivity. No other headlines today.
 
-**Focus for today:** Get the Pistotita LLC / Twin Isles invoice out to Terry, sanity-check the Google account recovery, and skim the NATP Roth-conversion piece if relevant clients come to mind.
+**Accounting Today, CPA Trendlines, Drake Software / Taxing Subjects** — No emails from these sources in the last 24–48 hours.
 
-**AI tip:** When triaging a long inbox, ask Claude to sort by "needs a reply today vs. this week vs. no action" instead of just "important vs. not" — it cuts decision fatigue faster than urgency labels alone.
+## Tasks
+Todoist shows 2 overdue tasks and nothing due today, but the daily-digest email doesn't include task titles — open the Todoist app to see and reschedule them.
 
-A PDF version of today's briefing is also saved to your AgentHub folder.
+## Focus for Today
+It's Saturday with a clear calendar — a good window to knock out the Pistotita LLC invoice for Terry and reply to Kenzie on meeting topics before the week starts.
+
+---
+A PDF version of this briefing was also saved to your AgentHub folder as `daily-briefing-2026-08-01.pdf`.
