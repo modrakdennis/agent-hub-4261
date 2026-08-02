@@ -1,16 +1,13 @@
 ---
-title: Daily Briefing. August 1, 2026
-emoji: 📋
+title: Daily Briefing. August 2, 2026
+emoji: 📅
 category: tools
-updated: 2026-08-01
+updated: 2026-08-02
 ---
+No calendar events today, one client accounting question came in from Pope Golf, and there's a $2,512.36 rent invoice due for Interstate Park Partnership. Full newsletter summaries (Bradford Tax Institute, Checkpoint, Accounting Today, CPA Trendlines) are in the PDF.
 
-Quiet Saturday — no calendar events, but real summaries of today's four priority newsletters and a Todoist security alert worth a glance.
-
-- Checkpoint's weekly digest: Senate advanced the TAS Act, new FASB rules land in 2027, EFIN-fraud bill introduced.
-- Bradford Tax Institute: S-corp health insurance deduction traps (Box 5 wages limit, family attribution, reimbursement penalties up to $36,500/employee).
-- Accounting Today: Grant Thornton acquiring CBIZ for $5B.
-- Todoist flagged a new-login security alert (likely from today's connector setup) — worth confirming.
-- 2 overdue tasks in Todoist: "S5" and "FLORIDA EYE," both since 5/20.
+- No meetings on the calendar today
+- 2 Todoist tasks due today ("Denke", "s5"), no overdue items
+- Grant Thornton agreed to buy CBIZ for $5B — top story across both Checkpoint and Accounting Today this week
 
 [Read today's full briefing (PDF)](https://github.com/modrakdennis/agent-hub-4261/blob/main/content/daily-briefing.pdf)
