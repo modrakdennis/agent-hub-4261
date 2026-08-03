@@ -1,13 +1,13 @@
 ---
-title: Daily Briefing. August 2, 2026
+title: Daily Briefing. August 3, 2026
 emoji: 📅
 category: tools
-updated: 2026-08-02
+updated: 2026-08-03
 ---
-No calendar events today, one client accounting question came in from Pope Golf, and there's a $2,512.36 rent invoice due for Interstate Park Partnership. Full newsletter summaries (Bradford Tax Institute, Checkpoint, Accounting Today, CPA Trendlines) are in the PDF.
+Open calendar today, four priority tax/accounting newsletters summarized, and a few client K-1/filing items to track.
 
-- No meetings on the calendar today
-- 2 Todoist tasks due today ("Denke", "s5"), no overdue items
-- Grant Thornton agreed to buy CBIZ for $5B — top story across both Checkpoint and Accounting Today this week
+- No calendar events today on Google or Outlook.
+- Bradford Tax Institute flags two easy-to-miss traps in the S-corp health insurance deduction; Checkpoint and Accounting Today cover payroll, audit-standard, and IRS whistleblower-program news.
+- Outstanding: JLL ATS K-1s (expected 8/31), a Form 2553 to review, and 8 Todoist tasks due/overdue today.
 
 [Read today's full briefing (PDF)](https://github.com/modrakdennis/agent-hub-4261/blob/main/content/daily-briefing.pdf)
