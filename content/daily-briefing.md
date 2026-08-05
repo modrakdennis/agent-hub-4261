@@ -1,13 +1,13 @@
 ---
-title: Daily Briefing. August 4, 2026
-emoji: 📅
+title: Daily Briefing. August 5, 2026
+emoji: 📋
 category: tools
-updated: 2026-08-04
+updated: 2026-08-05
 ---
-Today: CoCounsel Value Review call at 9 AM and the Pope appointment at 2 PM, four tax-newsletter summaries (Bradford Tax Institute, Checkpoint, Accounting Today, CPA Trendlines), a few important client emails, and your Todoist list for the day.
+No calendar events today. Checkpoint, Accounting Today, Bradford Tax Institute, and CPA Trendlines all summarized in the PDF, plus one task due today (Mary Anne's Moffitt procedure).
 
-- Bradford Tax Institute's *Twitchco* case gives ERC protective claims real teeth; Checkpoint flags a new IRS automatic penalty relief process and a $125M UBS fine.
-- Terry Wolfram sent back edits on the Pope Twin Isles basis document ahead of today's 2 PM meeting.
-- 6 Todoist items due/overdue today, including a P1: "denke Working trial balance to CS."
+- IRS improper payments on refundable tax credits jumped to 26.5% ($28.1B) per Accounting Today
+- Bradford Tax webinar Thu 8/6 on S-corp reasonable-salary risk; CPA Trendlines webinar on succession planning
+- Golf confirmed for Saturday Aug 8, tee times from 8:10 AM
 
 [Read today's full briefing (PDF)](https://github.com/modrakdennis/agent-hub-4261/blob/main/content/daily-briefing.pdf)
