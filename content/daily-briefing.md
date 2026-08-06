@@ -1,13 +1,13 @@
 ---
-title: Daily Briefing. August 5, 2026
-emoji: 📋
+title: Daily Briefing. August 6, 2026
+emoji: 📅
 category: tools
-updated: 2026-08-05
+updated: 2026-08-06
 ---
-No calendar events today. Checkpoint, Accounting Today, Bradford Tax Institute, and CPA Trendlines all summarized in the PDF, plus one task due today (Mary Anne's Moffitt procedure).
+Three meetings today plus webinar reminders from the four priority sources, all summarized in the full PDF.
 
-- IRS improper payments on refundable tax credits jumped to 26.5% ($28.1B) per Accounting Today
-- Bradford Tax webinar Thu 8/6 on S-corp reasonable-salary risk; CPA Trendlines webinar on succession planning
-- Golf confirmed for Saturday Aug 8, tee times from 8:10 AM
+- 11 AM Weekly Catchup, 1 PM Tax Automation 101 webinar, 5 PM Tax Discussion w/ Ken Margetts
+- Newsletter highlights: OBBBA S-corp savings (Bradford), new IRS Tax Professional Management Office (Accounting Today), value of vulnerability + RepWorks launch (CPA Trendlines)
+- 6 Todoist tasks due today, none overdue
 
 [Read today's full briefing (PDF)](https://github.com/modrakdennis/agent-hub-4261/blob/main/content/daily-briefing.pdf)
