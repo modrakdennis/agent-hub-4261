@@ -1,14 +1,13 @@
 ---
-title: Daily Briefing. August 10, 2026
+title: Daily Briefing. August 11, 2026
 emoji: 📅
 category: tools
-updated: 2026-08-10
+updated: 2026-08-11
 ---
+One meeting today (Lovable prompting workshop, 12–1 PM ET), no unread priority-newsletter items, and two client threads need a reply.
 
-One meeting today, an FYI on a client email thread, and 8 Todoist tasks due. No new content from the four priority newsletter sources in the last 24 hours.
-
-- 1:00–1:30 PM: Thomson Reuters Check In (Teams)
-- PA Refunds client thread — resolved, FYI only
-- 8 tasks due today via Todoist, 0 overdue
+- Calendar: Learning Lovable workshop, 12:00–1:00 PM ET
+- Needs attention: Hascall-Denke bank-viewer setup, VITIL 2025 tax recon scheduling, Public Storage agreement
+- Todoist connector wasn't available this run — 8 overdue tasks flagged by Todoist's own digest email
 
 [Read today's full briefing (PDF)](https://github.com/modrakdennis/agent-hub-4261/blob/main/content/daily-briefing.pdf)
