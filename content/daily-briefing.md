@@ -1,57 +1,67 @@
 ---
-title: Daily Briefing. September 15, 2026
+title: Daily Briefing. September 16, 2026
 emoji: 📅
 category: tools
-updated: 2026-09-15
+updated: 2026-09-16
 ---
-Quiet calendar today, one client thread that needs your eyes (Homer Edmonson's retirement-cash projection for Nina), a PCM Networking invoice, and a solid batch of tax news led by projected 2027 brackets and two IRS drought-relief releases.
+
+Good morning, Dennis. It's Wednesday, September 16, 2026.
 
 ## Calendar
 
-Nothing on the Google calendar or the Outlook calendar for Tuesday, September 15. Heads-up for tomorrow: Setmore sent a reminder for an appointment on Wednesday, September 16 with Ben Craggs (details in the attached booking).
+Nothing on the Google or Outlook calendars today. One thing that isn't on either: a Setmore reminder arrived yesterday afternoon for an **appointment today (Wed Sep 16) with Ben Craggs**. The exact time is in the attached booking details, which couldn't be opened during this run — check the Setmore email before the morning gets away from you.
 
 ## Email — Personal / Client
 
-Homer Edmonson (cc Nina) — "AT HOMER's DEATH." Asks directly: "Dennis, do you agree with this picture?" He lays out Nina's cash need at $75,000/yr, funded by $15,000 Social Security plus $60,000/yr drawn from savings, against roughly $900,000 of savings plus interest. A follow-up PS corrects his math to "80 years + 20 = 100 years funded for Nina." This is a request for your review and sign-off on the projection — worth a reply.
+**Homer Edmonson — "AT HOMER's DEATH" (three messages, Tue evening, cc Nina).** Homer asked, "Dennis, do you agree with this picture?" He's laying out Nina's cash need if he passes: about $75,000/yr, funded by $15,000 Social Security plus $60,000/yr drawn from roughly $900,000 of savings (plus interest). He estimates roughly a 20-year depletion (corrected to "80 + 20 = 100 years funded"), admits the $300,000 figure was a guess, and notes interest will keep accruing while the balance declines and her expenses should fall past 90. He wants your read on whether the projection holds together — this is the one that needs a reply.
 
-Stacy Sloan, PCM Networking — Invoice #3130 is attached and ready to print for your records (already marked read).
+**Capital Square Apartment REIT — August 2026 OP Shares distribution statements (three messages, attachments).** Distribution statements are posted on the investor portal; you're copied alongside the Capital Square and PRC Law contacts. File for the client records.
 
-Capital Square — August 2026 distribution statements for the Apartment REIT OP Shares arrived (three separate notices, with attachments, copied to you alongside lrogers, Bart at PRC Law Offices, and Saul Paster). Statements are on the investor portal.
+**PCM Networking — Invoice #3130 (Stacy Sloan, attached).** New invoice for the office network vendor; the email asks you to print it for your records.
 
-Setmore — reminder of tomorrow's appointment with Ben Craggs (see Calendar).
+**Frontier — bill ready.** $143.88 for the MODRAK CPA account ending 4500, due Oct 7, on Auto Pay.
 
-Laurel Oak (N. Lewis) — September 2026 new member candidates announced, including Chris and Laura Trerice.
+**Laurel Oak — New Member Candidates, September 2026.** Membership Committee announcement (Chris and Laura Trerice and others). Informational.
 
-Golf Genius / Bob Balow — Balow Group tee sheet for Friday, September 18: 12 confirmed players, signup closed, standard $20 buy-in, team game is 1-2-3.
+**Balow Group — Tee sheet for Friday, Sep 18.** 12 confirmed players, signup closed, standard $20 buy-in, team game is 1-2-3.
 
-Skipped as junk: a working-capital pitch from "James Parks" with a malformed subject ("nan"), retail promos, LinkedIn digests, and general-interest newsletters.
+**Todoist digest** says you have 10+ overdue tasks as of today (see Tasks below).
+
+Skipped as noise: a cold working-capital pitch addressed to "nan," LinkedIn suggestions, retail promos, and the general-news newsletters.
 
 ## Industry News
 
-**Accounting Today (Tax Pro Today, Sept. 15)** — Lead story: Bloomberg Tax has released its projected 2027 U.S. tax rates and inflation-adjusted figures, giving practitioners an early look at bracket thresholds, standard deduction, and other indexed amounts before the IRS publishes official numbers this fall. Useful for 2027 planning conversations starting now. Separately, Arizent's "Best Accounting Firms to Work For" report is out with benchmarking data on what keeps staff from leaving.
+**Checkpoint (Thomson Reuters) — yes, there is new mail today.** Two items arrived this morning:
 
-**CPA Practice Advisor (Tax Practice Newsletter)** — Two headlines: "Projected 2027 Income Tax Rates" (same Bloomberg projection, CPA Practice Advisor's write-up), and "U.S. Companies Get Creative as Tariff Refunds Start Flowing In" — Williams-Sonoma said in late August it put $10 million of the $200 million in tariff refunds it received back to work, an early signal of how refund proceeds are being deployed and reported.
+- *Checkpoint News — 9/16/2026.* Top story: **"Digital tip prompts test wage-and-hour compliance rules."** As tip prompts spread through apps, kiosks and digital checkouts, employers face new questions about how those tips interact with tip-credit, overtime and wage-and-hour rules. The full daily also carries a Federal News section.
+- *Five-Minute Tax Briefing — Preview of No. 2026-18 (dated Sep 22).* Lead item for Sep 15: **"IRS Proposes New Opportunity Zone Reporting Rules and Certification Procedures."** The IRS issued proposed regulations implementing the Opportunity Zone reporting and certification framework — worth a look for any client with QOF investments.
 
-**IRS (GuideWire / Newswire, Sept. 15)** — IR-2026-110 announces an extension of tax relief for farmers and ranchers affected by drought in 49 states and other regions. The companion Notice 2026-54 explains when the four-year replacement period under §1033(e)(2) is extended for livestock sold because of drought — relevant to any ag clients who sold breeding stock and are deferring gain. IRS newsroom: https://www.irs.gov/newsroom (search IR-2026-110); the notice should post at https://www.irs.gov/pub/irs-drop/n-26-54.pdf.
+The full Checkpoint bodies and direct article links couldn't be pulled this run (the email-read step was blocked — see note at the end), so open the two Checkpoint emails in Outlook for the links.
 
-**Surgent** — "The R&D Deduction Rules Changed Again": new §174A restores the immediate deduction for domestic research and experimental costs, while foreign R&E remains subject to amortization. The piece walks through what stayed the same and what changed versus the old §174 capitalization regime.
+**Accounting Today — Tax Pro Today (Sep 15).** Lead: **"Bloomberg projects tax rates for 2027."** Bloomberg Tax's annual projection of the inflation-adjusted brackets, standard deduction and other thresholds gives an early look at 2027 planning numbers ahead of the official IRS release. Also out yesterday from Arizent: a new "Best Accounting Firms to Work For" benchmarking report on what makes staff stay.
 
-**NATP** — Only a membership promo today ("Claim your next webinar with NATP membership"); no substantive tax content.
+**CPA Practice Advisor — Tax Practice Newsletter (Sep 15).** Headline: **"Projected 2027 Income Tax Rates"** (same Bloomberg projection). Second story: **"U.S. Companies Get Creative as Tariff Refunds Start Flowing In"** — Williams-Sonoma, for example, has put $10 million of the $200 million it received back to work; expect refund-accounting questions from any client that paid the struck-down tariffs.
 
-**Checkpoint (Thomson Reuters)** — Checked explicitly. No Checkpoint, checkpoint.riag.com, or thomsonreuters.com email appeared among the most recent 25 messages in the last 24 hours. The targeted sender searches for Checkpoint, Thomson Reuters, and RIA were auto-declined during this unattended run, so the remaining 10 messages in the window could not be confirmed.
+**Surgent (bonus, Sep 15).** **"The R&D Deduction Rules Changed Again."** New Section 174A restores the immediate deduction for domestic research costs; the piece walks through what stayed the same versus what changed from the old 174 capitalization regime.
 
-**CPA Trendlines / Drake Software (Taxing Subjects)** — Nothing from either source in the messages reviewed; targeted searches were likewise auto-declined.
+**CPA Trendlines.** Only a sponsored piece this morning ("Expand Beyond Tax with Holistic Wealth Management") — no editorial headlines.
+
+**NATP, Drake Software / Taxing Subjects.** Nothing new in the last 48 hours.
 
 ## Tasks
 
-Todoist could not be queried — the task-lookup request was auto-declined because no one was present to approve it.
+Todoist could not be queried this run (the connector call was declined because no one was available to approve it). Todoist's own digest email reports **10+ overdue tasks** as of Sep 16 — worth a triage pass.
 
 ## Focus for Today
 
-Reply to Homer Edmonson: his projection is simple enough to sanity-check quickly (a $60K annual draw on ~$900K lasts about 15 years with zero growth, materially longer with modest interest), and he is clearly waiting on your read. Then file PCM invoice #3130 and confirm tomorrow's Ben Craggs slot.
+Two things that actually need you: reply to Homer with a sanity check on Nina's projection, and confirm the time of the Ben Craggs appointment. Everything else is filing.
 
 ## AI Tip
 
-When a client sends a back-of-envelope projection like Homer's, paste the numbers into Claude and ask it to "rebuild this as a year-by-year table with 0%, 3%, and 5% return assumptions and flag the year savings hit zero." You get a clean sensitivity table to attach to your reply in under a minute, and the client sees why the answer depends on the return assumption rather than a single number.
+When you ask an AI to check a client's projection (like Homer's), paste the numbers and add "list every assumption you're making before you answer." You'll get the hidden assumptions (interest rate, inflation, drawdown order) surfaced first, which is usually where the real disagreement lives.
 
-A PDF copy of this briefing was also saved to the AgentHub folder as daily-briefing-2026-09-15.pdf.
+---
+
+*Run note: the calendar and email search steps worked, but reading full email bodies (Outlook and Gmail) and the Todoist task query were auto-declined because no one was available to approve them during this scheduled run. Summaries above come from subject lines and previews. Approving those tools for scheduled runs will restore full article links and the task list.*
+
+*A PDF version was also saved to the AgentHub folder as `daily-briefing-2026-09-16.pdf`.*
