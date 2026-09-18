@@ -1,58 +1,54 @@
 ---
-title: Daily Briefing. September 17, 2026
+title: Daily Briefing. September 18, 2026
 emoji: 📅
 category: tools
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 ## Calendar
 
-Thursday, September 17. One block on both calendars at the same slot: 11:00 AM – 12:00 PM ET, "Weekly Catchup" with Max (Microsoft Teams, organizer max@modrakcpa.com) on Outlook, and a matching "ben" entry on your Google calendar. Nothing else scheduled today.
+Friday, September 18. Google calendar shows one entry: "Shoot out," starting 8:00 AM today and running through Sunday, September 20 at 6:45 PM. This is the FSGA Mixed Shoot-Out Championship at Aileron Golf Club (see Rob Haddow's final-reminders email below). The Outlook calendar could not be checked this run (the connector call was auto-declined), so if Max's usual Teams catch-up or anything else is on the work calendar, it isn't reflected here.
 
 ## Email — Personal/Client
 
-Three eChecks from the ZJT Management / Monte Vista Ranch group (Eagle Mountain, UT) arrived last night — all need to be logged in and retrieved at echecks.com: ZJT Management $1,460.00 (#VV209, memo "Analysis of Instalment Sale," payable to M. Dennis Modrak, CPA); Monte Vista Ranch LC $400.00 (#VV939, memo "Geothermal Research," payable to the firm); and Monte Vista Ranch LC $3,000.00 (#VV936, memo "September 2026," payable to Dennis Modrak personally).
+Rob Haddow (FSGA) sent "Mixed Shoot-Out Championship - Final Reminders" yesterday afternoon: he's on site at Aileron Golf Club, reports the course is in fantastic shape, and asks players to thank the club staff over the next couple of days. Worth a read before you head out (attachment is large, ~550 KB, likely pairings/hole locations).
 
-IRS Nationwide Tax Forum sent the 2026 CPE certificate (Orlando) as an attachment, addressed to Michael Modrak; they say credits will be reported to the IRS PTIN office. Save it to your CPE file.
+Bank of America confirmed three mobile check deposits last night, all posting 9/17: $1,460.00 and $400.00 to Business Adv Fundamentals ending 5744, and $3,000.00 to Adv Tiered Interest Checking ending 6595. These match the ZJT Management / Monte Vista Ranch eChecks from yesterday's briefing, so those are now deposited. Funds show $0.00 available now (holds).
 
-American Express: AutoPay of $3,562.16 on the card ending 16007 will process Tuesday, September 22. Separately, a notice that the card ending 61009 is now eligible to enroll in the Rideshare Credit benefit, and a reminder that a credit limit was recently increased.
+PayTrace sent two PCM Networking transaction receipts (9/17, status Pending): $400.50 (ref 718524831) and $180.00 (ref 718525092). Record these against the PCM Networking invoice.
 
-Bank of America: the Business Lending billing statement (Business Adv Customized Cash Rewards ending 9570) is available as of today, and a notice that the Online Banking Service Agreement is being updated.
+Bank of America Bill Pay: $428.36 sent to the BofA Vehicle Loan (deliver by 9/17) and $50.00 sent to Chase Credit Cards (deliver by 9/18). PayPal's August statement is available. Chase sent a monthly credit summary.
 
-Verizon bill is ready and set for Auto Pay.
+Florida DBPR (myfloridalicense.com) re-sent the notice that 63 quota beverage licenses are available in the 2026 entry period — informational, only relevant if a client is interested in a liquor license lottery entry.
 
-UPS exception on tracking 1Z6R87750343799276 — first delivery attempt failed because the receiving business was closed; redelivery is scheduled for today, September 17.
+Frontier reports a delivery exception on a shipment to you with a new expected delivery date (link in the email). US Am Tour posted updated Senior Palmer standings. Coursera/Qualtrics is offering a $5 gift card for a 10-minute learner survey.
 
-myQ (garage door) is rolling out mandatory MFA enrollment on your account — expect a prompt next time you log in.
-
-Setmore asked you to rate a recent appointment at Ben Craggs. Laurel Oak sent a driving-range hours adjustment for today (agronomic work on the new range sod). US Am Tour opened 2027 season registration. FinCEN posted an update on "Operation Economic Outcast" (Treasury convening global financial institutions) — informational.
-
-Skipped: WSJ briefings, TLDR, 1440, Rundown, beehiiv newsletters, Word of the Day, History.com, Unity of Sarasota, real-estate search digests, MLB, retail and health promos, neighborhood alerts, Todoist digest.
-
-Note on coverage: only the first page of the last-24-hour scan (50 of roughly 200 threads) and a two-day industry-source scan were returned; follow-up searches (page 2, IMPORTANT-label filter, sender-specific queries, and full-message reads) were auto-declined during this unattended run, so a real client email could have been missed. Outlook mail search was also declined.
+Skipped: WSJ briefings, TLDR, 1440, Rundown, beehiiv newsletters, Word of the Day, History.com, LinkedIn, MLB, retail/health promos, neighborhood alerts, Todoist digest. Note: only the first page of the last-24-hour inbox scan (about 50 of ~200 threads, covering roughly 1 PM ET yesterday onward) was retrievable before Gmail calls were auto-declined, so anything from yesterday morning may be missing.
 
 ## Industry News
 
-**CPA Practice Advisor** — Two emails on September 16. (1) "CPA Payroll Newsletter — How Important is Workplace Culture?": the lead story reports that Delta Air Lines, Wells Fargo, and Pivot Bio are among the first employers to embrace "Trump Savings Accounts" for workers' children — the new employer-funded child savings accounts created under the 2025 tax law — as a benefits perk, alongside the week's payroll, HR, and staffing headlines and a feature on how workplace culture drives retention. (2) A sponsored message, "Get a free WISP analysis in less than 10 minutes," promoting a partner tool that checks your Written Information Security Plan for gaps — a reminder that the IRS/FTC WISP requirement for tax preparers still applies. Full body text and article links could not be retrieved this run (message read was auto-declined).
+**IRS (e-News for Tax Professionals, Issue 2026-37, Sept. 17).** This week's issue leads with an IRS webinar on determining residency in a U.S. territory (CE credit available). Also out yesterday via GuideWire: Notice 2026-57, the monthly update to the corporate bond yield curve, spot segment rates and weighted-average interest rates used for defined-benefit plan funding. Full issue: https://www.irs.gov/e-news-subscriptions (the e-News archive) or the email itself.
 
-**NATP** — "Tomorrow: Understanding Tax Impacts of Casualty Losses and Ponzi Schemes" (Sept 16, already read). Webinar reminder for a session held today, September 17, covering casualty-loss rules and the Rev. Proc. 2009-20 safe harbor for Ponzi-scheme theft losses — timely given the post-2025-law treatment of personal casualty losses. Check natptax.com for the on-demand version if you missed the live session.
+**Thomson Reuters / Checkpoint.** Checked explicitly. One email arrived yesterday from taxprof.thomsonreuters.com, "Essential guidance for accounting disclosures and IRS practice" — a resource roundup pointing to Checkpoint materials on financial-statement disclosure requirements and IRS procedure/practice before the Service. It's a marketing-style digest rather than a news alert; no Checkpoint Daily Newsstand or checkpoint.riag.com news items in the last 48 hours. Links weren't extractable this run because the message body couldn't be opened.
 
-**Checkpoint (Thomson Reuters)** — Checked explicitly by name and by domain (checkpoint.riag.com, checkpoint.thomsonreuters.com, taxprof.thomsonreuters.com). No Checkpoint newsletter or article email arrived in the last 48 hours.
+**CPA Practice Advisor.** Two mailings. The SMB Newsletter (Sept. 17, "Automation Tips for Month-End Closes") leads with a story that Travis Kelce was among the victims of a Ponzi scheme, plus month-end close automation tips for small businesses. A separate free CPE offer, "Security: Leveraging Tax Automation," covers how to assess security capabilities in tax technology given client-data cyber and compliance risk. From Sept. 16: the Payroll Newsletter ("How Important is Workplace Culture?") notes that Delta Air Lines, Wells Fargo and Pivot Bio are adopting "Trump Savings Accounts" for employees' children as a benefit, and a partner pitch for a free WISP (Written Information Security Plan) analysis. Articles are at cpapracticeadvisor.com.
 
-**Accounting Today, CPA Trendlines / CPA Trendlines Academy, Drake Software / Taxing Subjects** — Nothing from these sources surfaced in the 48-hour keyword scan. A sender-domain-specific follow-up search was auto-declined this run, so treat this as "not found in the general scan" rather than confirmed absent.
+**NATP.** Two items: a free webinar pitch, "Work Smarter This Tax Season with AI, Automation & Workflow Tools" (Sept. 17), and a reminder for the Sept. 17 session "Understanding Tax Impacts of Casualty Losses and Ponzi Schemes" (already held; recording likely available in your NATP account, Customer ID on file).
 
-Also worth knowing from the general news feeds: the Fed raised rates 25 bp yesterday — its first hike since July 2023 — with the 10-year Treasury closing near 5%. Expect client questions on installment-sale and AFR-sensitive planning.
+**Drake Software.** Only a renewal promo (Sept. 17): save up to $150 on Drake Tax for the coming season. No Taxing Subjects article this cycle.
+
+**Accounting Today and CPA Trendlines.** Nothing surfaced in the last 48 hours in the searches that completed; a dedicated sender search for these two was auto-declined, so treat this as unconfirmed rather than "nothing new."
 
 ## Tasks
 
-Todoist lookup was auto-declined during this unattended run. The Todoist daily digest email that arrived at 8:50 AM shows 10+ overdue tasks as of September 17 — worth a triage pass after the 11 AM catch-up.
+Todoist could not be queried this run (the connector call was auto-declined). The Todoist daily digest email for Sept. 18 notes 10+ overdue tasks, so a triage pass is warranted when you're back at the desk.
 
 ## Focus for Today
 
-Retrieve and deposit the three eChecks before the Weekly Catchup with Max at 11, then use the afternoon to clear the overdue Todoist backlog. File the IRS Tax Forum CPE certificate while it's top of mind.
+You're on the course at Aileron for the Shoot-Out through Sunday, so keep the office list tight: confirm the three ZJT/Monte Vista deposits cleared holds early next week, post the two PCM Networking payments, and skim Rob Haddow's reminder email before the first tee. Everything else can wait.
 
 ## AI Tip
 
-When you paste a client email into Claude and ask for a reply, add one line at the end: "First list every explicit ask or deadline in the message, then draft the reply." Forcing the extraction step first means the draft never silently drops the second or third request buried in a long thread.
+When you paste a long client email thread into Claude, add one line at the top: "List every explicit ask, deadline, and dollar figure as a checklist before summarizing." That forces extraction first and summary second, which is exactly the order you want when the thread is messy.
 
-A PDF version of this briefing was also saved to the AgentHub folder as daily-briefing-2026-09-17.pdf.
+A PDF copy of this briefing was also saved to the AgentHub folder as daily-briefing-2026-09-18.pdf.
