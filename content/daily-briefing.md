@@ -1,54 +1,58 @@
 ---
-title: Daily Briefing. September 18, 2026
+title: Daily Briefing. September 19, 2026
 emoji: 📅
 category: tools
-updated: 2026-09-18
+updated: 2026-09-19
 ---
 
 ## Calendar
 
-Friday, September 18. Google calendar shows one entry: "Shoot out," starting 8:00 AM today and running through Sunday, September 20 at 6:45 PM. This is the FSGA Mixed Shoot-Out Championship at Aileron Golf Club (see Rob Haddow's final-reminders email below). The Outlook calendar could not be checked this run (the connector call was auto-declined), so if Max's usual Teams catch-up or anything else is on the work calendar, it isn't reflected here.
+Saturday, September 19. One event on the Google calendar: **Shoot out** (multi-day, Fri Sep 18 8:00 AM through Sun Sep 20 6:45 PM) — this is the FSGA Mixed Shoot-Out at Aileron. Nothing else scheduled today; Outlook calendar is empty.
 
-## Email — Personal/Client
+## Email — Personal / Client
 
-Rob Haddow (FSGA) sent "Mixed Shoot-Out Championship - Final Reminders" yesterday afternoon: he's on site at Aileron Golf Club, reports the course is in fantastic shape, and asks players to thank the club staff over the next couple of days. Worth a read before you head out (attachment is large, ~550 KB, likely pairings/hole locations).
+**Bill Harvey (Allied Molded)** forwarded "Fw: 1145 12th/13th Ave" — a thread with attorney Stephanie Lieb (Trenam) and Joseph Lomangino about the 1145 12th/13th Ave property. He says only "See below"; worth opening to see whether he wants your input on the deal or the tax side.
 
-Bank of America confirmed three mobile check deposits last night, all posting 9/17: $1,460.00 and $400.00 to Business Adv Fundamentals ending 5744, and $3,000.00 to Adv Tiered Interest Checking ending 6595. These match the ZJT Management / Monte Vista Ranch eChecks from yesterday's briefing, so those are now deposited. Funds show $0.00 available now (holds).
+**Homer Edmonson** replied "Got it, Thanks" on the "Tax return" thread — acknowledgement only, no action needed.
 
-PayTrace sent two PCM Networking transaction receipts (9/17, status Pending): $400.50 (ref 718524831) and $180.00 (ref 718525092). Record these against the PCM Networking invoice.
+**PCM Networking (Stacy Sloan)** sent Invoice #3050 (attached) plus a follow-up on transaction receipt #718525092. Print/file the invoice for records.
 
-Bank of America Bill Pay: $428.36 sent to the BofA Vehicle Loan (deliver by 9/17) and $50.00 sent to Chase Credit Cards (deliver by 9/18). PayPal's August statement is available. Chase sent a monthly credit summary.
+**Accounting Today (Devendra Puran, Arizent)** — your subscription renewal failed/was disabled; he's offering to extend it. Decide whether you want to renew.
 
-Florida DBPR (myfloridalicense.com) re-sent the notice that 63 quota beverage licenses are available in the 2026 entry period — informational, only relevant if a client is interested in a liquor license lottery entry.
+**Public Private Strategies** — Business Leader Briefing with Senator Fischer on the new Section 45S paid-leave tax credit, Sept 24 at 11 AM ET (RSVP if interested).
 
-Frontier reports a delivery exception on a shipment to you with a new expected delivery date (link in the email). US Am Tour posted updated Senior Palmer standings. Coursera/Qualtrics is offering a $5 gift card for a 10-minute learner survey.
+**FSGA (Rob Haddow)** — Mixed Shoot-Out hole locations and guard-gate info for Aileron this weekend.
 
-Skipped: WSJ briefings, TLDR, 1440, Rundown, beehiiv newsletters, Word of the Day, History.com, LinkedIn, MLB, retail/health promos, neighborhood alerts, Todoist digest. Note: only the first page of the last-24-hour inbox scan (about 50 of ~200 threads, covering roughly 1 PM ET yesterday onward) was retrievable before Gmail calls were auto-declined, so anything from yesterday morning may be missing.
+**Laurel Oak (D. McIntyre)** — Golf Committee announced the VIP Golf Program awardees for the coming year. GolfGenius also confirmed your rounds for Wed Sept 23 (Holden Group) and Fri Sept 25 (Balow Group).
+
+**UPS** — package 1Z6R87750343799276 (from Frontier/Contec NC) couldn't be delivered because the receiving business was closed; it is being returned to sender. If you still need it, contact the shipper.
+
+**Capital One** is asking for updated income info before considering a credit-line increase — optional, ignore if not wanted.
 
 ## Industry News
 
-**IRS (e-News for Tax Professionals, Issue 2026-37, Sept. 17).** This week's issue leads with an IRS webinar on determining residency in a U.S. territory (CE credit available). Also out yesterday via GuideWire: Notice 2026-57, the monthly update to the corporate bond yield curve, spot segment rates and weighted-average interest rates used for defined-benefit plan funding. Full issue: https://www.irs.gov/e-news-subscriptions (the e-News archive) or the email itself.
+**Accounting Today (Sept 18 Daily Briefing)** — Top stories: the Pentagon is moving to U.S. GAAP in place of cost accounting, and the IRS faces obstacles in rolling out electronic-payment requirements. Open the email for the full rundown (note your paid subscription has lapsed, so some links may hit the paywall).
 
-**Thomson Reuters / Checkpoint.** Checked explicitly. One email arrived yesterday from taxprof.thomsonreuters.com, "Essential guidance for accounting disclosures and IRS practice" — a resource roundup pointing to Checkpoint materials on financial-statement disclosure requirements and IRS procedure/practice before the Service. It's a marketing-style digest rather than a news alert; no Checkpoint Daily Newsstand or checkpoint.riag.com news items in the last 48 hours. Links weren't extractable this run because the message body couldn't be opened.
+**CPA Practice Advisor** — Two free CPE webinars promoted: "Midterms and the Tax Agenda" (how the 2026 midterms could shape federal tax policy and IRS administration) and "Security: Leveraging Tax Automation" (assessing security capabilities in tax technology and protecting client data). The Sept 17 SMB newsletter led with a Ponzi-scheme story and month-end close automation tips.
 
-**CPA Practice Advisor.** Two mailings. The SMB Newsletter (Sept. 17, "Automation Tips for Month-End Closes") leads with a story that Travis Kelce was among the victims of a Ponzi scheme, plus month-end close automation tips for small businesses. A separate free CPE offer, "Security: Leveraging Tax Automation," covers how to assess security capabilities in tax technology given client-data cyber and compliance risk. From Sept. 16: the Payroll Newsletter ("How Important is Workplace Culture?") notes that Delta Air Lines, Wells Fargo and Pivot Bio are adopting "Trump Savings Accounts" for employees' children as a benefit, and a partner pitch for a free WISP (Written Information Security Plan) analysis. Articles are at cpapracticeadvisor.com.
+**NATP** — Staff-training promo ("Help your staff build beyond the basics"); no substantive tax-law update.
 
-**NATP.** Two items: a free webinar pitch, "Work Smarter This Tax Season with AI, Automation & Workflow Tools" (Sept. 17), and a reminder for the Sept. 17 session "Understanding Tax Impacts of Casualty Losses and Ponzi Schemes" (already held; recording likely available in your NATP account, Customer ID on file).
+**Drake Software / Taxing Subjects** — Only a renewal promo (save up to $150 on Drake Tax); no Taxing Subjects article this cycle.
 
-**Drake Software.** Only a renewal promo (Sept. 17): save up to $150 on Drake Tax for the coming season. No Taxing Subjects article this cycle.
+**Thomson Reuters / Checkpoint** — Checked explicitly. No Checkpoint newsletter (checkpoint.riag.com / checkpoint.thomsonreuters.com) arrived in the last 48 hours. The only Thomson Reuters mail was a Sept 17 taxprof.thomsonreuters.com marketing piece on accounting-disclosure and IRS-practice resources.
 
-**Accounting Today and CPA Trendlines.** Nothing surfaced in the last 48 hours in the searches that completed; a dedicated sender search for these two was auto-declined, so treat this as unconfirmed rather than "nothing new."
+**CPA Trendlines / CPA Trendlines Academy** — Nothing new in the last 48 hours.
 
 ## Tasks
 
-Todoist could not be queried this run (the connector call was auto-declined). The Todoist daily digest email for Sept. 18 notes 10+ overdue tasks, so a triage pass is warranted when you're back at the desk.
+Todoist could not be queried this run (the tool call was auto-declined because no one was available to approve it). Todoist's own daily email says you have 10+ overdue tasks as of today — worth a quick triage.
 
 ## Focus for Today
 
-You're on the course at Aileron for the Shoot-Out through Sunday, so keep the office list tight: confirm the three ZJT/Monte Vista deposits cleared holds early next week, post the two PCM Networking payments, and skim Rob Haddow's reminder email before the first tee. Everything else can wait.
+It's tournament weekend, so keep work light: open the Bill Harvey / 1145 12th Ave thread to see if anything is being asked of you, file the PCM invoice, and decide on the Accounting Today renewal. Everything else can wait until Monday.
 
 ## AI Tip
 
-When you paste a long client email thread into Claude, add one line at the top: "List every explicit ask, deadline, and dollar figure as a checklist before summarizing." That forces extraction first and summary second, which is exactly the order you want when the thread is messy.
+When forwarding a long email chain to Claude, ask it to "list every explicit request or open question directed at me, with who asked and when" before asking for a summary. It surfaces action items the summary might bury.
 
-A PDF copy of this briefing was also saved to the AgentHub folder as daily-briefing-2026-09-18.pdf.
+*A PDF copy of this briefing was saved to the AgentHub folder as daily-briefing-2026-09-19.pdf.*
