@@ -1,58 +1,46 @@
 ---
-title: Daily Briefing. September 19, 2026
+title: Daily Briefing. September 20, 2026
 emoji: 📅
 category: tools
-updated: 2026-09-19
+updated: 2026-09-20
 ---
 
 ## Calendar
 
-Saturday, September 19. One event on the Google calendar: **Shoot out** (multi-day, Fri Sep 18 8:00 AM through Sun Sep 20 6:45 PM) — this is the FSGA Mixed Shoot-Out at Aileron. Nothing else scheduled today; Outlook calendar is empty.
+Sunday, September 20. One event on the Google calendar: **Shoot out**, a multi-day block that started Friday, Sept 18 at 8:00 AM and wraps up today at 6:45 PM. Nothing on the Outlook calendar.
 
-## Email — Personal / Client
+## Email — Personal/Client
 
-**Bill Harvey (Allied Molded)** forwarded "Fw: 1145 12th/13th Ave" — a thread with attorney Stephanie Lieb (Trenam) and Joseph Lomangino about the 1145 12th/13th Ave property. He says only "See below"; worth opening to see whether he wants your input on the deal or the tax side.
+Quiet weekend inbox. Nothing from clients in the last 24 hours. Two items worth a glance:
 
-**Homer Edmonson** replied "Got it, Thanks" on the "Tax return" thread — acknowledgement only, no action needed.
+- **"Re: Continuation" from a0983348377@gmail.com** (flagged Important by Gmail, Sat 4:38 PM). The sender is an unrecognized numbered Gmail address and the preview is just "Hi." Treat as likely phishing/spam unless you recognize the thread — don't open attachments or click links.
+- **Bank of America Bill Pay** confirmed an automatic $50 payment to Chase Credit Cards (acct ending 9967), delivering 10/16/2026.
 
-**PCM Networking (Stacy Sloan)** sent Invoice #3050 (attached) plus a follow-up on transaction receipt #718525092. Print/file the invoice for records.
-
-**Accounting Today (Devendra Puran, Arizent)** — your subscription renewal failed/was disabled; he's offering to extend it. Decide whether you want to renew.
-
-**Public Private Strategies** — Business Leader Briefing with Senator Fischer on the new Section 45S paid-leave tax credit, Sept 24 at 11 AM ET (RSVP if interested).
-
-**FSGA (Rob Haddow)** — Mixed Shoot-Out hole locations and guard-gate info for Aileron this weekend.
-
-**Laurel Oak (D. McIntyre)** — Golf Committee announced the VIP Golf Program awardees for the coming year. GolfGenius also confirmed your rounds for Wed Sept 23 (Holden Group) and Fri Sept 25 (Balow Group).
-
-**UPS** — package 1Z6R87750343799276 (from Frontier/Contec NC) couldn't be delivered because the receiving business was closed; it is being returned to sender. If you still need it, contact the shipper.
-
-**Capital One** is asking for updated income info before considering a credit-line increase — optional, ignore if not wanted.
+Also in: a Todoist digest noting 10+ overdue tasks (see Tasks), and an NWS special weather statement Saturday evening for a strong thunderstorm through central Manatee / northwestern Sarasota counties. Everything else was retail, newsletters, and real-estate listing ads.
 
 ## Industry News
 
-**Accounting Today (Sept 18 Daily Briefing)** — Top stories: the Pentagon is moving to U.S. GAAP in place of cost accounting, and the IRS faces obstacles in rolling out electronic-payment requirements. Open the email for the full rundown (note your paid subscription has lapsed, so some links may hit the paywall).
+Scanned the last 48 hours for Accounting Today, CPA Trendlines / CPA Trendlines Academy, CPA Practice Advisor, NATP, Drake Software / Taxing Subjects, and Checkpoint (Thomson Reuters — checkpoint.riag.com, checkpoint.thomsonreuters.com, taxprof.thomsonreuters.com).
 
-**CPA Practice Advisor** — Two free CPE webinars promoted: "Midterms and the Tax Agenda" (how the 2026 midterms could shape federal tax policy and IRS administration) and "Security: Leveraging Tax Automation" (assessing security capabilities in tax technology and protecting client data). The Sept 17 SMB newsletter led with a Ponzi-scheme story and month-end close automation tips.
+- **Checkpoint (Thomson Reuters):** nothing new today — no Checkpoint mail in the window.
+- **Accounting Today, CPA Trendlines, CPA Practice Advisor, NATP, Drake / Taxing Subjects:** nothing new today. Weekend lull; expect the Monday editions tomorrow.
 
-**NATP** — Staff-training promo ("Help your staff build beyond the basics"); no substantive tax-law update.
-
-**Drake Software / Taxing Subjects** — Only a renewal promo (save up to $150 on Drake Tax); no Taxing Subjects article this cycle.
-
-**Thomson Reuters / Checkpoint** — Checked explicitly. No Checkpoint newsletter (checkpoint.riag.com / checkpoint.thomsonreuters.com) arrived in the last 48 hours. The only Thomson Reuters mail was a Sept 17 taxprof.thomsonreuters.com marketing piece on accounting-disclosure and IRS-practice resources.
-
-**CPA Trendlines / CPA Trendlines Academy** — Nothing new in the last 48 hours.
+One tangentially relevant item did arrive from a consumer finance newsletter (Cold Investing): a piece on the SECURE 2.0 rule that pushes high-earner 401(k) catch-up contributions into Roth accounts. Not a professional source, but it's a client-question magnet this fall if you want to pre-draft a short explainer.
 
 ## Tasks
 
-Todoist could not be queried this run (the tool call was auto-declined because no one was available to approve it). Todoist's own daily email says you have 10+ overdue tasks as of today — worth a quick triage.
+Todoist could not be queried this run — the tool call was auto-declined because no one was available to approve it. The Todoist daily email says you have **10+ overdue tasks** as of today, so a triage pass is overdue in every sense.
 
 ## Focus for Today
 
-It's tournament weekend, so keep work light: open the Bill Harvey / 1145 12th Ave thread to see if anything is being asked of you, file the PCM invoice, and decide on the Accounting Today renewal. Everything else can wait until Monday.
+Sunday with the Shoot out wrapping up this evening. If you carve out 30 minutes, spend it on the overdue Todoist list: reschedule what's still real, delete what isn't, and pick the three that must move Monday. Walking into the week with a clean list beats walking in with a long one.
 
 ## AI Tip
 
-When forwarding a long email chain to Claude, ask it to "list every explicit request or open question directed at me, with who asked and when" before asking for a summary. It surfaces action items the summary might bury.
+When you paste a long client email or IRS notice into Claude, add one line at the end: "Before answering, list the facts you're relying on and any you're missing." It forces the model to surface gaps (dates, amounts, filing status) instead of guessing, and it turns a vague answer into a checklist you can send back to the client.
 
-*A PDF copy of this briefing was saved to the AgentHub folder as daily-briefing-2026-09-19.pdf.*
+---
+
+*A PDF copy was also saved to the AgentHub folder as daily-briefing-2026-09-20.pdf.*
+
+*Notes from this run: Todoist and two follow-up Gmail lookups (Important-label/attachment sweep and the "Re: Continuation" thread body) were auto-declined during this unattended run; approve those tools for scheduled runs to get fuller coverage.*
