@@ -1,50 +1,62 @@
 ---
-title: Daily Briefing. September 22, 2026
+title: Daily Briefing. September 23, 2026
 emoji: 📅
 category: tools
-updated: 2026-09-22
+updated: 2026-09-23
 ---
+
+**Wednesday, September 23, 2026 — Sarasota, FL**
+
+> ⚠️ Partial run. Mid-gather, the Gmail and Todoist connectors stopped approving requests (no one available to approve during the scheduled run). This briefing is built from one successful inbox pull covering roughly Sept 22, 2:15 PM → Sept 23, 6:54 AM ET. Follow-up searches — including the dedicated Checkpoint sweep and full message bodies — could not run.
 
 ## Calendar
 
-Tuesday, September 22. The Google calendar has no events today, and the Outlook calendar search returned nothing for today either. Looking ahead: the Holden Group Round 48 tee sheet is for tomorrow, Wednesday, September 23 (see email below).
+Nothing on the Google calendar for today.
 
-## Email — Personal/Client
+One real commitment showed up in email rather than on the calendar: the **Holden Group tee time at Laurel Oak, 9:54 AM**, confirmed as updated this morning. If that's happening, the working day effectively starts after lunch.
 
-Chantel Smail at Hascall & Denke replied yesterday morning on "RE: HASCALL AND DENKE INFORMATION FOR GTE" with a thank-you and her contact details (direct 941-216-0660). This looks like the close of the GTE information request; the message body couldn't be opened this run, so confirm there's no follow-up ask buried in it.
+## Email — Personal / Client
 
-Bank of America confirmed three mobile check deposits yesterday, all to Business Adv Fundamentals ending 5744 and posting 9/21: $5,860.00 (conf. 3654754009), $1,400.00 (conf. 3654754789) and $7,600.00 (conf. 3654755335). Available now shows $0.00 on each, so expect holds. Worth matching these against open client invoices today.
+**Deepak Sehwani (SEI Holding) — "Re: Knighthawk."** Sent through the expense breakdown and flagged a categorization fix on his end: $43,814 Real Estate Taxes was miscategorized as Other Taxes — he's asking you to move it to the right category. Also listed: $150 HOA fee, $1,889 waste, $3,200 pool, $2,318.34 cable/internet. This is the clearest action item of the day.
 
-Dropbox's weekly shared-folder summary shows Max added MCN (Murray, Anthony & Tracy) financials on Friday 9/18: "MCN - P&L YTD Comp 8.31.26.pdf" and "MCN - Balance Sheet 8.31..." — the August MCN package is ready for review.
+**Marcus Newton (Florida Eye Associates / ASC of Brevard) — "Fw: 2025 Reviewed Statement."** Forwarded a thread and asked directly: "did you send these over to her?" Needs a yes/no reply — short, but he's waiting on you.
 
-CeriFi (NSTP) sent a "Welcome to CeriFi" account activation for Michael Modrak yesterday — looks tied to an NSTP course or CPE purchase; activate when convenient.
+**ChatGPT Business — renewal notice.** The Modrakcpa workspace renews **Sept 29** for 2 Standard seats. Six days out if you want to change seat count.
 
-Cool Today (Cooling, Plumbing, Electrical) confirmed a service appointment for 4261 Marlowe Drive; the date and window are in the email. Citi sent a minimum-payment-due reminder for the Home Depot Consumer Credit Card ending 5518. Stripe receipt: $5.00 to Obsidian (9/21).
+**Fehl Safe Plumbing, Septic & Water Systems.** Invoice #110638789 came in and the $712.34 payment already posted (card x2796) on Sept 22. No action — just closing the loop.
 
-Rob Haddow (FSGA) sent the Shoot-Out wrap-up, "McMahon and Schofield Soar Above the Field," with results and thanks to players (large attachment, ~3.5 MB, likely results/photos). Golf Genius sent three tee-sheet updates for Holden Group Round 48, Wednesday 9/23: nine players, First $120, Skins $60, and a note from Russell Holden that anyone who doesn't reply to the Thursday email by Sunday will be dropped going forward — make sure you're replying weekly.
-
-Skipped: WSJ, TLDR, 1440, Rundown, beehiiv newsletters, Word of the Day, History.com, MLB, retail and health promos, Todoist digest, Claude sign-in link, a forwarded Scotty Cameron promo from mamodrak70, and a "Re: So Heartfelt Thanks!" from an unknown Gmail sender that reads like spam. Coverage note: only the first page of the last-24-hour scan (about 50 of ~59 threads, from roughly 8 AM ET Monday onward) was retrievable before further Gmail calls were auto-declined, so message bodies were not opened this run.
+Everything else in the window was newsletters, retail, and promos.
 
 ## Industry News
 
-**IRS.** Two mailings. e-News for Small Business Issue 2026-20 (this morning) covers identity-theft defenses, disaster preparedness, the Clean Fuel Production Credit, extended drought relief, disaster relief and Compliance Assurance Process (CAP) applications. IR-2026-113 (Sept. 21) reports the IRS wrapped up the 2026 Nationwide Tax Forums with nearly 13,000 attendees. Both are on irs.gov/newsroom.
+Caveat up front: the targeted industry-source sweep was blocked, so this section reflects only what appeared in the one general inbox pull. Treat it as thin rather than complete.
 
-**CPA Practice Advisor.** The Tax Newsletter (Sept. 21, "IRS Cyber Security Gets Bad Review") leads with a review critical of IRS cybersecurity practices, plus an IRS warning about tax scams targeting members of Native American tribes, where promoters push taxpayers to buy bogus tribal-exemption schemes. Articles are at cpapracticeadvisor.com; the message body couldn't be opened to pull direct links this run.
+**IRS GuideWire — Notice 2026-55 (Sept 22).** The IRS is requesting *additional* comments on issues arising under **§ 1400Z-2** — Qualified Opportunity Funds and Qualified Opportunity Zone businesses. Worth a read if any clients hold QOF positions or are weighing a deferral; a second comment request usually signals the guidance is still genuinely unsettled, and the comment window is a chance to see where practitioners are pushing back before regs firm up.
 
-**Thomson Reuters / Checkpoint.** Checked explicitly. Nothing from checkpoint.riag.com, checkpoint.thomsonreuters.com or taxprof.thomsonreuters.com appeared in the retrievable portion of the last 24 hours. A dedicated sender search covering the last 72 hours was auto-declined, so treat this as "nothing seen" rather than confirmed "nothing new."
+**IRS — FATCA public key update (Sept 23).** Routine but hard-deadline-adjacent: the IRS is rotating the public key used for FATCA filing. Anyone transmitting FATCA data needs the new key in place before the next submission, or the file bounces. Quick check, easy to forget.
 
-**Accounting Today, CPA Trendlines, NATP, Drake / Taxing Subjects.** Nothing from any of these surfaced in the threads that were retrievable; the dedicated sender search for them was also auto-declined this run, so this is unconfirmed.
+**Florida Office of Insurance Regulation (Sept 22).** Commissioner Mike Yaworsky approved **significant homeowners rate decreases**. Directly relevant to Florida clients' 2026 cash-flow planning and to anyone you've advised on escrow or carrier changes. Sarasota-area clients in particular will notice this on renewal.
+
+**CPA Practice Advisor (Sept 22).** Only a partner/sponsored placement came through — an AI tax-research pitch ("defensible tax research in minutes, not weeks"), not editorial content. Nothing substantive to report.
+
+**Checkpoint (Thomson Reuters) — NOT VERIFIED.** The dedicated Checkpoint search was declined before it ran. No Checkpoint mail appeared in the general pull covering the last ~18 hours, but that is not the same as confirming nothing arrived. Please spot-check the Checkpoint folder manually today.
+
+**Accounting Today, CPA Trendlines, NATP, Drake / Taxing Subjects.** Nothing from these in the window that came through; the targeted search that would confirm it was blocked.
 
 ## Tasks
 
-Todoist could not be queried this run (the connector call was auto-declined). The Todoist digest email for Sept. 22 flags 10+ overdue tasks, so a triage pass is overdue in every sense.
+The Todoist connector was declined, so no task list could be pulled. The one signal available: Todoist's own morning digest landed at 4:49 AM with the subject line **"dennis's task(s) for Sep 23 2026 → 10+ overdue."** Ten-plus overdue is the number worth reacting to — that backlog is where the day's real pressure is, not in the inbox.
 
 ## Focus for Today
 
-A clear calendar is a gift: use it to post yesterday's three BofA deposits ($14,860 total) against client invoices, review the MCN August package Max dropped in Dropbox, and close out the Hascall & Denke GTE thread. Reply to the Holden Group Thursday email if you haven't, and activate the CeriFi/NSTP account. Then knock down the Todoist overdue list.
+Two client replies are sitting there and both are small: recategorize Knighthawk's real estate taxes for Deepak, and give Marcus a straight answer on whether the reviewed statements went out. Neither takes long, and both are the kind of thing that turns into a follow-up email if left.
+
+Then the overdue stack. Ten-plus is past the point where triage beats grinding — pick the three that have an actual external dependency and clear those; let the rest wait for a deliberate pass rather than guilt.
 
 ## AI Tip
 
-Before reviewing a client financial package, drop the PDFs into Claude and ask: "Compare this month's balance sheet and P&L to last month's; list every line that moved more than 10% or $5,000, with the dollar and percent change." You get the variance list in seconds and spend your time on the explanations, not the arithmetic.
+**Give the model the bad example, not just the good one.** When output keeps missing, most people add more description of what they want. Faster fix: paste a previous attempt and say specifically what's wrong with it — "this summary buried the ask in paragraph three; lead with the action item." A single labeled negative example corrects more reliably than three more sentences of abstract instruction, because you're showing the failure mode instead of describing the target.
 
-A PDF copy of this briefing was also saved to the AgentHub folder as daily-briefing-2026-09-22.pdf.
+---
+
+*A PDF version of this briefing was also saved to the AgentHub folder as `daily-briefing-2026-09-23.pdf`.*
