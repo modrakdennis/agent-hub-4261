@@ -1,62 +1,56 @@
 ---
-title: Daily Briefing. September 23, 2026
+title: Daily Briefing. September 24, 2026
 emoji: 📅
 category: tools
-updated: 2026-09-23
+updated: 2026-09-24
 ---
 
-**Wednesday, September 23, 2026 — Sarasota, FL**
-
-> ⚠️ Partial run. Mid-gather, the Gmail and Todoist connectors stopped approving requests (no one available to approve during the scheduled run). This briefing is built from one successful inbox pull covering roughly Sept 22, 2:15 PM → Sept 23, 6:54 AM ET. Follow-up searches — including the dedicated Checkpoint sweep and full message bodies — could not run.
+Thursday, September 24, 2026 — Sarasota, FL
 
 ## Calendar
 
-Nothing on the Google calendar for today.
+Nothing on the calendar today. The day is yours to direct — see Focus below.
 
-One real commitment showed up in email rather than on the calendar: the **Holden Group tee time at Laurel Oak, 9:54 AM**, confirmed as updated this morning. If that's happening, the working day effectively starts after lunch.
+One thing on deck for tomorrow: **Balow Group Round 41, Friday Sept 25.** Golf Genius sent the final revision last night. Seecharan added, team game moves to Chicago Golf, 312 on 345 with overkill, first place takes $140, skins pool at $90, and $10 for the locker room attendant.
 
 ## Email — Personal / Client
 
-**Deepak Sehwani (SEI Holding) — "Re: Knighthawk."** Sent through the expense breakdown and flagged a categorization fix on his end: $43,814 Real Estate Taxes was miscategorized as Other Taxes — he's asking you to move it to the right category. Also listed: $150 HOA fee, $1,889 waste, $3,200 pool, $2,318.34 cable/internet. This is the clearest action item of the day.
+**Thomson Reuters support case 25139229 is closed.** Confirmation arrived Wednesday evening, followed by a satisfaction survey asking you to rate the interaction. No action required unless you want the case reopened or want to leave feedback.
 
-**Marcus Newton (Florida Eye Associates / ASC of Brevard) — "Fw: 2025 Reviewed Statement."** Forwarded a thread and asked directly: "did you send these over to her?" Needs a yes/no reply — short, but he's waiting on you.
+**Todoist says 10+ tasks are overdue** as of this morning's digest. The task connector wasn't approved during this run, so the specific items couldn't be pulled — worth a two-minute triage pass in the app.
 
-**ChatGPT Business — renewal notice.** The Modrakcpa workspace renews **Sept 29** for 2 Standard seats. Six days out if you want to change seat count.
+**Billing notices, informational only.** Frontier bill of $99.99 on the account ending 8001, due Oct 16, processing on autopay. Synchrony sent the usual reminder that the Sam's Club Mastercard autopay is about to run.
 
-**Fehl Safe Plumbing, Septic & Water Systems.** Invoice #110638789 came in and the $712.34 payment already posted (card x2796) on Sept 22. No action — just closing the loop.
+**Amex** is offering a credit-limit increase on the Business Card — marketing, but the kind you might actually want if working capital timing matters this quarter.
 
-Everything else in the window was newsletters, retail, and promos.
+**Hillsdale College** (Bill Gray) sent a "checking in" note, and **Laurel Oak** announced its Oct 24 Halloween event. Both are social/club, no deadline.
+
+Nothing today from a client asking for a deliverable, a number, or a signature.
 
 ## Industry News
 
-Caveat up front: the targeted industry-source sweep was blocked, so this section reflects only what appeared in the one general inbox pull. Treat it as thin rather than complete.
+**Checkpoint (Thomson Reuters) — checked explicitly.** No Checkpoint editorial or tax-update content in the last 24–48 hours. The only Thomson Reuters mail in the window was the support case closure and its feedback survey, which is account service, not content.
 
-**IRS GuideWire — Notice 2026-55 (Sept 22).** The IRS is requesting *additional* comments on issues arising under **§ 1400Z-2** — Qualified Opportunity Funds and Qualified Opportunity Zone businesses. Worth a read if any clients hold QOF positions or are weighing a deferral; a second comment request usually signals the guidance is still genuinely unsettled, and the comment window is a chance to see where practitioners are pushing back before regs firm up.
+**Accounting Today, CPA Trendlines, CPA Practice Advisor, NATP, Drake / Taxing Subjects** — nothing new in the scanned window.
 
-**IRS — FATCA public key update (Sept 23).** Routine but hard-deadline-adjacent: the IRS is rotating the public key used for FATCA filing. Anyone transmitting FATCA data needs the new key in place before the next submission, or the file bounces. Quick check, easy to forget.
+Two items from general business mail that are genuinely relevant to your practice:
 
-**Florida Office of Insurance Regulation (Sept 22).** Commissioner Mike Yaworsky approved **significant homeowners rate decreases**. Directly relevant to Florida clients' 2026 cash-flow planning and to anyone you've advised on escrow or carrier changes. Sarasota-area clients in particular will notice this on renewal.
+**Rates broke out overnight.** The 10-year Treasury is quoted at 5.12%, up 16bp, and the 5-year crossed 5% for the first time since 2007. If you have clients weighing debt refinancing, installment sales, or the interest rate used in intra-family loan and estate planning work, the AFR environment is moving under them. Worth flagging proactively to anyone with a Q4 financing decision.
 
-**CPA Practice Advisor (Sept 22).** Only a partner/sponsored placement came through — an AI tax-research pitch ("defensible tax research in minutes, not weeks"), not editorial content. Nothing substantive to report.
-
-**Checkpoint (Thomson Reuters) — NOT VERIFIED.** The dedicated Checkpoint search was declined before it ran. No Checkpoint mail appeared in the general pull covering the last ~18 hours, but that is not the same as confirming nothing arrived. Please spot-check the Checkpoint folder manually today.
-
-**Accounting Today, CPA Trendlines, NATP, Drake / Taxing Subjects.** Nothing from these in the window that came through; the targeted search that would confirm it was blocked.
+**Florida approved homeowners insurance rate cuts.** Insurance Commissioner Mike Yaworsky signed off on rate reductions for four homeowner insurers covering more than 62,000 policies, effective at renewal. Relevant for Sarasota-area clients budgeting 2027 carrying costs on residential and rental property.
 
 ## Tasks
 
-The Todoist connector was declined, so no task list could be pulled. The one signal available: Todoist's own morning digest landed at 4:49 AM with the subject line **"dennis's task(s) for Sep 23 2026 → 10+ overdue."** Ten-plus overdue is the number worth reacting to — that backlog is where the day's real pressure is, not in the inbox.
+The Todoist connector was declined during this automated run, so open tasks could not be listed. The Todoist email digest indicates **10+ overdue items**. If you'd like this section populated automatically going forward, the Todoist connector needs to be approved for scheduled runs.
 
 ## Focus for Today
 
-Two client replies are sitting there and both are small: recategorize Knighthawk's real estate taxes for Deepak, and give Marcus a straight answer on whether the reviewed statements went out. Neither takes long, and both are the kind of thing that turns into a follow-up email if left.
-
-Then the overdue stack. Ten-plus is past the point where triage beats grinding — pick the three that have an actual external dependency and clear those; let the rest wait for a deliberate pass rather than guilt.
+An empty calendar in late September is rare and it will not repeat. The highest-value use of it is the overdue list — ten-plus items that have aged past their date are not a task problem, they're a decision problem. Most of them need to be deleted or rescheduled honestly rather than "done." Clear the backlog first, then pick the one client matter you've been deferring and close it while nobody is interrupting you.
 
 ## AI Tip
 
-**Give the model the bad example, not just the good one.** When output keeps missing, most people add more description of what they want. Faster fix: paste a previous attempt and say specifically what's wrong with it — "this summary buried the ask in paragraph three; lead with the action item." A single labeled negative example corrects more reliably than three more sentences of abstract instruction, because you're showing the failure mode instead of describing the target.
+**Give the AI the bad version first.** Instead of describing what you want, paste a draft you dislike and say "this is wrong because X — fix it." Models correct far more reliably than they originate. This works especially well for client emails: dictate a rough, blunt version in your own words, then ask for a professional rewrite that preserves your position exactly. You get your voice and their polish, instead of generic AI prose you have to rewrite anyway.
 
 ---
 
-*A PDF version of this briefing was also saved to the AgentHub folder as `daily-briefing-2026-09-23.pdf`.*
+*A PDF version of this briefing was also saved to the AgentHub folder as `daily-briefing-2026-09-24.pdf`.*
