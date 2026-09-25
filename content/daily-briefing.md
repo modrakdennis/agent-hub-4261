@@ -1,56 +1,56 @@
 ---
-title: Daily Briefing. September 24, 2026
+title: Daily Briefing. September 25, 2026
 emoji: 📅
 category: tools
-updated: 2026-09-24
+updated: 2026-09-25
 ---
 
-Thursday, September 24, 2026 — Sarasota, FL
+## Calendar — Friday, September 25, 2026
 
-## Calendar
+Nothing on the connected Google Calendar today. The day is open — good candidate for deep work rather than reactive email.
 
-Nothing on the calendar today. The day is yours to direct — see Focus below.
+## Email — Personal & Client
 
-One thing on deck for tomorrow: **Balow Group Round 41, Friday Sept 25.** Golf Genius sent the final revision last night. Seecharan added, team game moves to Chicago Golf, 312 on 345 with overkill, first place takes $140, skins pool at $90, and $10 for the locker room attendant.
+- **Laura Keitel, CPA (keitelcpa.com) — "SAUL PASTER INFO NEEDED."** Still sitting open from Wednesday afternoon. She is asking you for client information on Saul Paster and the message carries a large attachment. This is the one real outside-professional ask in the queue — worth clearing first.
+- **Intuit — QuickBooks Desktop Payroll price increase.** Formal notice of upcoming pricing changes to your Desktop Payroll subscription. Worth a read to see the effective date and whether it changes what you bill or recommend to payroll clients.
+- **Charles Schwab (acct. ending 216) — funds transfer in progress.** Transfer request acknowledged Sept 24, still "in progress." No action unless it doesn't settle.
+- **Thomson Reuters — Case 25139229 closed**, followed by a satisfaction survey request. No action needed beyond the survey if you want to respond.
+- **Sarasota County Tax Collector — vehicle registration expiring soon.** Renew via RenewExpress before it lapses.
+- **Lexus service (2023 GX) — appointment confirmed.** Nothing to do.
+- **Golf admin:** Laurel Oak Round 49 on Wed, Sept 30 is confirmed. Season-long match play registration opens **Thursday, Oct 1 at 9:00 AM** — that one is first-come, so calendar it. US Am Tour also posted updated Senior Palmer standings and the National Championship recap.
 
-## Email — Personal / Client
-
-**Thomson Reuters support case 25139229 is closed.** Confirmation arrived Wednesday evening, followed by a satisfaction survey asking you to rate the interaction. No action required unless you want the case reopened or want to leave feedback.
-
-**Todoist says 10+ tasks are overdue** as of this morning's digest. The task connector wasn't approved during this run, so the specific items couldn't be pulled — worth a two-minute triage pass in the app.
-
-**Billing notices, informational only.** Frontier bill of $99.99 on the account ending 8001, due Oct 16, processing on autopay. Synchrony sent the usual reminder that the Sam's Club Mastercard autopay is about to run.
-
-**Amex** is offering a credit-limit increase on the Business Card — marketing, but the kind you might actually want if working capital timing matters this quarter.
-
-**Hillsdale College** (Bill Gray) sent a "checking in" note, and **Laurel Oak** announced its Oct 24 Halloween event. Both are social/club, no deadline.
-
-Nothing today from a client asking for a deliverable, a number, or a signature.
+Skipped as noise: retail/order confirmations, credit card and hotel offers, Word of the Day, supplement and course marketing.
 
 ## Industry News
 
-**Checkpoint (Thomson Reuters) — checked explicitly.** No Checkpoint editorial or tax-update content in the last 24–48 hours. The only Thomson Reuters mail in the window was the support case closure and its feedback survey, which is account service, not content.
+**Checkpoint (Thomson Reuters) — checked explicitly, nothing new today.** No Checkpoint newsletter or article alert arrived in the last 48 hours from checkpoint.riag.com, checkpoint.thomsonreuters.com, or taxprof.thomsonreuters.com. The only Thomson Reuters mail in the window was support-case correspondence for Case 25139229 (closure notice plus a feedback survey), not editorial content.
 
-**Accounting Today, CPA Trendlines, CPA Practice Advisor, NATP, Drake / Taxing Subjects** — nothing new in the scanned window.
+**CPA Practice Advisor — SMB Newsletter (Sept 24).** Three things carried the issue: retail forecasts putting 2026 Halloween spending at roughly **$13.5 billion**, with candy still the top category — a useful demand datapoint if you advise seasonal retail or restaurant clients; a piece on firm website practices, aimed at small firms treating the site as a client-acquisition asset rather than a brochure; and continued **tariff coverage**, which remains the live cost-of-goods issue for any client importing inventory.
+[Open in Gmail](https://mail.google.com/mail/?authuser=dennismodrak@gmail.com#all/thread-f:1877229760028967699)
 
-Two items from general business mail that are genuinely relevant to your practice:
+**CPA Practice Advisor — Tax Practice Newsletter (Sept 22).** Lead item is an **IRS warning about tax scams targeting members of Native US tribes**, where promoters push taxpayers into purchasing bogus tax products and credits. The pattern is the familiar one — a promoter promises an outsized refund or credit, the taxpayer signs, and the taxpayer (not the promoter) is left holding the penalty. Worth knowing as a red flag if a client shows up with a credit you didn't recommend.
+[Open in Gmail](https://mail.google.com/mail/?authuser=dennismodrak@gmail.com#all/thread-f:1877048566911995975)
 
-**Rates broke out overnight.** The 10-year Treasury is quoted at 5.12%, up 16bp, and the 5-year crossed 5% for the first time since 2007. If you have clients weighing debt refinancing, installment sales, or the interest rate used in intra-family loan and estate planning work, the AFR environment is moving under them. Worth flagging proactively to anyone with a Q4 financing decision.
+**NATP — "Understanding Kiddie Tax on Form 8615."** Upcoming NATP session on when the kiddie tax actually applies before you file Form 8615 — the recurring trip-ups are the unearned-income threshold, which parent's rate applies, and the student/age tests. Relevant CPE if you have clients with children holding investment accounts or UTMA income.
+[Open in Gmail](https://mail.google.com/mail/?authuser=dennismodrak@gmail.com#all/thread-f:1877044458406691959)
 
-**Florida approved homeowners insurance rate cuts.** Insurance Commissioner Mike Yaworsky signed off on rate reductions for four homeowner insurers covering more than 62,000 policies, effective at renewal. Relevant for Sarasota-area clients budgeting 2027 carrying costs on residential and rental property.
+**Surgent CPE.** Two notices: the Weekly Expert Hour kicked off with Ken Kies (federal tax policy), and a fresh slate of live webinars and self-study titles is up — all included in your existing subscription, so it's zero marginal cost CPE if you need hours before year-end.
+
+**Accounting Today, CPA Trendlines / CPA Trendlines Academy, and Drake Software / Taxing Subjects:** nothing new in the last 48 hours.
+
+**Worth noting from general news:** the 30-year Treasury touched **5.44%**, its highest since 2004, with the 10-year near 5.20%. Client conversations about bond ladders, refinancing timing, and installment-sale interest assumptions all shift at these levels.
 
 ## Tasks
 
-The Todoist connector was declined during this automated run, so open tasks could not be listed. The Todoist email digest indicates **10+ overdue items**. If you'd like this section populated automatically going forward, the Todoist connector needs to be approved for scheduled runs.
+Your Todoist could not be read on this run — the connector request was declined automatically because no one was present to approve it during the scheduled run. Todoist's own morning email says **10+ overdue** items for Sept 25. If you want tasks pulled into future briefings automatically, approve the Todoist connector for scheduled runs.
 
 ## Focus for Today
 
-An empty calendar in late September is rare and it will not repeat. The highest-value use of it is the overdue list — ten-plus items that have aged past their date are not a task problem, they're a decision problem. Most of them need to be deleted or rescheduled honestly rather than "done." Clear the backlog first, then pick the one client matter you've been deferring and close it while nobody is interrupting you.
+The calendar is empty and the inbox is almost entirely noise — that combination is rare. Spend the first block on the Keitel request (it's the only thing where someone is actively waiting on you), then take a real pass at the overdue Todoist backlog while nothing is competing for the time. Two five-minute items — the vehicle registration and calendaring the Oct 1 match play signup — clear themselves if you do them now instead of re-reading the emails later.
 
 ## AI Tip
 
-**Give the AI the bad version first.** Instead of describing what you want, paste a draft you dislike and say "this is wrong because X — fix it." Models correct far more reliably than they originate. This works especially well for client emails: dictate a rough, blunt version in your own words, then ask for a professional rewrite that preserves your position exactly. You get your voice and their polish, instead of generic AI prose you have to rewrite anyway.
+**Give the model your rejects, not just your target.** When you ask for a draft — a client memo, an engagement letter paragraph, a tax position summary — paste in one example you liked *and* one you didn't, and say plainly what's wrong with the second ("too hedged, buries the conclusion"). Contrast is far more informative than a positive example alone: it defines the boundary of what you want rather than just a point inside it, and it usually cuts the number of revision rounds roughly in half.
 
 ---
-
-*A PDF version of this briefing was also saved to the AgentHub folder as `daily-briefing-2026-09-24.pdf`.*
+*A PDF version of this briefing was also saved to your AgentHub folder.*
