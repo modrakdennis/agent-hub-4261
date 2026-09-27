@@ -1,59 +1,52 @@
 ---
-title: Daily Briefing. September 26, 2026
+title: Daily Briefing. September 27, 2026
 emoji: 📅
 category: tools
-updated: 2026-09-26
+updated: 2026-09-27
 ---
 
-## Calendar — Saturday, September 26
+## Calendar — Sunday, Sept 27
 
-Nothing on the calendar today. Clear weekend day.
+One item: **Zaksas Golf at 12:00 PM** (15-minute block, so presumably the tee time itself). Otherwise the day is clear.
 
-## Email — Personal / Client (last 24 hours)
+## Email — Personal / Client
 
-- **QuickBooks / Interstate Park Partnership LTD — invoice 14370, $2,512.36 due** (to Dennis Modrack CPA, cc David@1stpropertygroup.com). The email also states that starting January 1, 2026 the bank account rent payments are deposited into is changing. Treat that bank-change notice with caution — payment-redirect fraud almost always arrives attached to a real-looking invoice. Confirm the new account verbally with David at a number you already have before sending anything.
-- **TreasuryDirect** — two notices from 9/24: a purchase scheduled and a reinvestment scheduled/edited. No action needed unless either was unexpected.
-- **Lexus of Sarasota** — service appointment confirmed for the 2023 GX.
-- **GolfGenius / Laurel Oak CC** — Holden Group Round 49 confirmed for Wed, Sept 30; Balow Group Round 1 confirmed for Fri, Oct 2. Separately, registration for the two season-long match play events opens **Thursday, Oct 1 at 9:00 AM** — those fill fast.
+**Office rent invoice — needs attention.** Interstate Park Partnership LTD sent invoice **14370** via QuickBooks, **balance due $2,512.36**, addressed to Dennis Modrack CPA (David at 1st Property Group copied). The notice also states that starting January 1, 2026 they are changing the bank account that rent payments are deposited into. Treat that bank-change instruction as unverified until you confirm it by phone with a known contact at 1st Property Group — emailed banking changes are the most common vector for payment-diversion fraud, and this arrived inside a payment request.
+
+**Todoist says you are behind.** The daily digest for Sept 27 reports **10+ overdue tasks**. Worth a five-minute triage pass rather than letting the count keep climbing.
+
+**Golf logistics are stacking up on Friday, Oct 2.** Four separate threads landed: a Dolan Group Round 45 invite for Oct 2 awaiting accept/decline; the Holden Group Round 49 tee sheet (15 players, closes Monday morning); a separate Oct 2 signup now at 16 players with future signups waitlisted; and a confirmed registration for Balow Group Round 1, also Oct 2. You appear to be signed up or invited to multiple groups on the same date — worth reconciling before Monday's cutoffs.
+
+**Tomorrow:** Lexus GX service appointment confirmed for 9/28.
+
+**Minor:** Fox Nation has migrated your subscription to FOX One; you sign in with the same credentials to keep streaming.
 
 ## Industry News
 
-**IRS — e-News for Tax Professionals 2026-38 (Sept 25).** Two items lead the issue: a Security Summit reminder on written data security plan obligations, and a fraud alert on tax credit scams currently targeting tribal communities. The credit-scam pattern is the same one that ran through the ERC and fuel-credit waves — worth a reminder to any client who hears about a "free money" credit from a non-preparer source.
+**CPA Practice Advisor — CPA Tech Newsletter** (arrived to both addresses). Lead item: *CFOs must be more disciplined with AI expectations*, per new Gartner research — the survey's emphasis is on finance leaders setting realistic, measurable expectations for AI rather than assuming broad productivity gains, which is the same discipline problem showing up in firm-level AI adoption. The issue also carries the Tech Lab Podcast and product reviews.
 
-**IRS — IR-2026-114: new IRS mobile app (Sept 25).** IRS2Go is being retired and replaced by a rebuilt "IRS app" with expanded digital services. Practical upshot: individual clients get more self-service (balance, payment, transcript-adjacent functions) on mobile, which can cut a chunk of routine "where's my refund" calls if you point them there.
+**NATP — two CPE items, both relevant to your work:**
+- *Gifts and Estates Reporting and Planning Essentials* — running next week, framed around helping clients make better-informed gifting and estate decisions.
+- *Form 990-T: Know when filing is required* — a focused look at when unrelated business income triggers a 990-T obligation for exempt organizations.
 
-**IRS — Recent Developments for Tax Products (9/25).** Routine draft-forms and publications update; nothing flagged as a substantive change. Skim if you have a filing that depends on a draft form.
+**Checkpoint (Thomson Reuters) — explicitly checked, nothing new.** No Checkpoint, checkpoint.riag.com, or taxprof.thomsonreuters.com mail in the last three days.
 
-**Bradford Tax Institute — S corporation reasonable compensation under OBBBA.** Live webinar promoted around a cautionary case: the client set the S corp salary and the *preparer* absorbed a $34,500 penalty. Also covers the larger 199A interaction under OBBBA. Given how many S corps you touch, the reasonable-comp documentation angle is the part worth an hour.
-
-**NATP.** Upcoming session next week on U.S. tax compliance for clients working abroad (FEIE, foreign tax credit, reporting traps). Separately, TaxCon is running programming on sorting useful tax tech from noise.
-
-**CPA Practice Advisor.** Free CPE: "Security Update: Client Data and Tax Automation" — assessing security capabilities inside tax technology. Pairs directly with the Security Summit item above if you're refreshing your WISP this fall.
-
-**CPAacademy.** Free NASBA CPE series, "Work Smarter with AI: Practical Tools, ROI & Real-World Applications," starting Wednesday, Sept 30.
-
-**Drake Software.** Marketing a post-filing support add-on covering notices, audits, and tax-related identity theft — relevant only if you're evaluating how you price notice response.
-
-**Wolters Kluwer / CCH CPELink.** 12 months unlimited CPE for $399, plus 30% off live webinars. Worth a number against your current CPE spend if you're buying hours à la carte.
-
-**Checkpoint (Thomson Reuters) — nothing new today.** The broad mail scan covering the last four days turned up no Checkpoint or Thomson Reuters items. The dedicated Checkpoint-by-domain search was blocked this run (see note at the bottom), so treat this as "nothing surfaced" rather than a fully confirmed zero.
-
-**Accounting Today / CPA Trendlines — nothing surfaced today.** Same caveat as Checkpoint: the targeted search for these senders did not run.
+**Accounting Today, CPA Trendlines, Drake / Taxing Subjects — nothing surfaced.** None appeared in the broad two-day inbox scan, and the targeted follow-up search could not complete (see the note at the bottom).
 
 ## Tasks
 
-Todoist could not be reached this run — the task lookup was blocked (see note below), so no open/overdue list is included today.
+Could not retrieve. The Todoist lookup was declined during this unattended run, so the only signal available is the emailed digest above: **10+ overdue** as of this morning.
 
 ## Focus for Today
 
-It's Saturday with an empty calendar, so the only genuinely time-sensitive thing in the whole briefing is the Interstate Park bank-change notice. Verify it by phone, then let the rest wait for Monday. Everything else — CPE, webinars, match play registration — has a date attached and none of them are today.
+It is Sunday with one midday commitment, so the highest-leverage thirty minutes are administrative: make the phone call to verify the rent bank-account change, settle which golf group you are actually playing Friday before Monday's cutoffs, and clear the overdue Todoist backlog down to something honest. All three are small, all three get worse if they wait.
 
 ## AI Tip
 
-When you want a second opinion rather than an answer, ask for the *disconfirming* case explicitly: "Give me the three strongest arguments that this position is wrong, then tell me which one you find most persuasive." Models default to agreeing with the framing you hand them; naming the opposite side as the deliverable is what breaks that. It works especially well on a tax position you've already half-decided — you find out fast whether you have an argument or just a preference.
+When you want a model to catch its own errors, don't ask "is this right?" — it will tend to agree with you. Ask it to argue the opposite: *"List the three strongest reasons this analysis is wrong."* Forcing the adversarial frame surfaces weak assumptions that a confirmation-shaped question glides right past. This works especially well on tax positions and memo drafts, where the failure mode is a plausible-sounding conclusion nobody stress-tested.
 
 ---
 
-_A PDF version of this briefing was also saved to the AgentHub folder._
+*A PDF version of this briefing was also saved to the AgentHub folder.*
 
-_Run note: the Todoist task lookup, the dedicated Checkpoint/Thomson Reuters search, and the Accounting Today / CPA Trendlines search were each auto-declined this run because no one was available to approve them. Approving those connectors for scheduled runs would close the gaps._
+*Run note: the Todoist task lookup and part of the Gmail deep-read were auto-declined during this unattended run, so email summaries are built from subjects and previews rather than full message bodies, and direct article links were unavailable. Approving Gmail and Todoist for scheduled runs would restore both.*
