@@ -1,52 +1,61 @@
 ---
-title: Daily Briefing. September 27, 2026
+title: Daily Briefing. September 28, 2026
 emoji: 📅
 category: tools
-updated: 2026-09-27
+updated: 2026-09-28
 ---
 
-## Calendar — Sunday, Sept 27
+## Calendar — Monday, September 28
 
-One item: **Zaksas Golf at 12:00 PM** (15-minute block, so presumably the tee time itself). Otherwise the day is clear.
+**8:30–8:55 AM** — Lexus. This lines up with the dealer's reminder for your 2023 Lexus GX service appointment today. It's the only thing on the calendar, so the rest of the day is yours to direct.
 
 ## Email — Personal / Client
 
-**Office rent invoice — needs attention.** Interstate Park Partnership LTD sent invoice **14370** via QuickBooks, **balance due $2,512.36**, addressed to Dennis Modrack CPA (David at 1st Property Group copied). The notice also states that starting January 1, 2026 they are changing the bank account that rent payments are deposited into. Treat that bank-change instruction as unverified until you confirm it by phone with a known contact at 1st Property Group — emailed banking changes are the most common vector for payment-diversion fraud, and this arrived inside a payment request.
+**Max Modrak — "1040 Filing status as of 9.26.26"** (marked important). Max sent the running 1040 filing-status list Friday night and you already replied Sunday, so nothing is outstanding on your side. Worth noting the calendar pressure behind it: the extended individual deadline is October 15, seventeen days out.
 
-**Todoist says you are behind.** The daily digest for Sept 27 reports **10+ overdue tasks**. Worth a five-minute triage pass rather than letting the count keep climbing.
+**QuickBooks / Interstate Park Partnership LTD — invoice 14370, $2,512.36 due.** Rent payment request, cc'd to David at 1st Property Group. The email also flags that starting January 1, 2026 the bank account rent payments deposit into is changing — if you pay by ACH or auto-draft, that routing needs updating, not just this invoice paid. Treat any banking-detail change that arrives inside an emailed invoice as something to confirm by phone with David before redirecting a payment.
 
-**Golf logistics are stacking up on Friday, Oct 2.** Four separate threads landed: a Dolan Group Round 45 invite for Oct 2 awaiting accept/decline; the Holden Group Round 49 tee sheet (15 players, closes Monday morning); a separate Oct 2 signup now at 16 players with future signups waitlisted; and a confirmed registration for Balow Group Round 1, also Oct 2. You appear to be signed up or invited to multiple groups on the same date — worth reconciling before Monday's cutoffs.
+**Todoist digest** — "Dennis's task(s) for Sep 28 → 10+ overdue." The backlog is the headline; see Tasks below.
 
-**Tomorrow:** Lexus GX service appointment confirmed for 9/28.
+**Lovable Labs receipt #2850-7397-0913** — subscription charge posted Sunday evening. Filing item only.
 
-**Minor:** Fox Nation has migrated your subscription to FOX One; you sign in with the same credentials to keep streaming.
+**Google security notice** — your Google account data was shared with Notta.ai on Sept 27 at 11:09 AM via Sign in with Google. If that was you setting up transcription, fine; if not, revoke it in account permissions.
+
+**Bank of America** — statements now available for the money market savings (…3899) and tiered interest checking (…6595).
+
+**Golf, four separate asks, three with clocks on them:**
+
+- Faust Wertz — Saturday October 3, tee times from 8:10. He wants an answer by tomorrow.
+- Golf Genius, Dolan Group Round 45 — Friday October 2, accept or decline invitation.
+- Golf Genius, Holden Group Round 49 — 15 players, tee sheet closes this morning.
+- Golf Genius, October 2nd sign-up (Bob) — already at 16 players, further sign-ups waitlisted.
 
 ## Industry News
 
-**CPA Practice Advisor — CPA Tech Newsletter** (arrived to both addresses). Lead item: *CFOs must be more disciplined with AI expectations*, per new Gartner research — the survey's emphasis is on finance leaders setting realistic, measurable expectations for AI rather than assuming broad productivity gains, which is the same discipline problem showing up in firm-level AI adoption. The issue also carries the Tech Lab Podcast and product reviews.
+**NATP — "Form 990-T: Know when filing is required."** A refresher on when an exempt organization crosses into unrelated business income territory and owes a 990-T. Useful screening material if any of your nonprofit or IRA-holding clients have investment income, debt-financed property, or a side activity that isn't mission-related — the filing threshold is low ($1,000 of gross UBI) and it's the kind of return that gets missed quietly for years.
 
-**NATP — two CPE items, both relevant to your work:**
-- *Gifts and Estates Reporting and Planning Essentials* — running next week, framed around helping clients make better-informed gifting and estate decisions.
-- *Form 990-T: Know when filing is required* — a focused look at when unrelated business income triggers a 990-T obligation for exempt organizations.
+**Bradford Tax Institute — S corporations under OBBBA.** Live webinar pitched off a hard case: a client set his own S corp salary and the preparer ended up with a $34,500 penalty. Content covers audit-proofing reasonable compensation, maximizing 199A under the new law, and documentation. Given how much S corp work runs through the practice, the reasonable-compensation piece is the part worth an hour.
 
-**Checkpoint (Thomson Reuters) — explicitly checked, nothing new.** No Checkpoint, checkpoint.riag.com, or taxprof.thomsonreuters.com mail in the last three days.
+**Checkpoint (Thomson Reuters)** — checked explicitly by name and by domain (checkpoint.riag.com, checkpoint.thomsonreuters.com, taxprof.thomsonreuters.com). Nothing new in the last three days.
 
-**Accounting Today, CPA Trendlines, Drake / Taxing Subjects — nothing surfaced.** None appeared in the broad two-day inbox scan, and the targeted follow-up search could not complete (see the note at the bottom).
+**Accounting Today, CPA Trendlines, CPA Practice Advisor, Drake / Taxing Subjects** — no new mail from any of these in the window.
 
 ## Tasks
 
-Could not retrieve. The Todoist lookup was declined during this unattended run, so the only signal available is the emailed digest above: **10+ overdue** as of this morning.
+The Todoist connector wasn't reachable on this run — the tool call required approval and no one was present to give it, so I couldn't pull the actual task list. What I do know comes from Todoist's own morning email: **10 or more items are overdue** as of today. Given where we are in the calendar, the triage question is which of those overdue items touch October 15 filings and which can slide.
 
 ## Focus for Today
 
-It is Sunday with one midday commitment, so the highest-leverage thirty minutes are administrative: make the phone call to verify the rent bank-account change, settle which golf group you are actually playing Friday before Monday's cutoffs, and clear the overdue Todoist backlog down to something honest. All three are small, all three get worse if they wait.
+Seventeen days to the extended 1040 deadline, and you're carrying a double-digit overdue list. The highest-value thirty minutes today isn't clearing tasks — it's sorting them: pull the overdue list, flag only the ones that gate an October 15 return, and let the rest sit visibly undone. A backlog you've triaged is a schedule; a backlog you haven't is just noise you pay an attention tax on all day.
+
+The Lexus appointment is a 25-minute hole in the morning. That's enough for the Interstate Park invoice and a call to David to verify the new bank details before anything moves.
 
 ## AI Tip
 
-When you want a model to catch its own errors, don't ask "is this right?" — it will tend to agree with you. Ask it to argue the opposite: *"List the three strongest reasons this analysis is wrong."* Forcing the adversarial frame surfaces weak assumptions that a confirmation-shaped question glides right past. This works especially well on tax positions and memo drafts, where the failure mode is a plausible-sounding conclusion nobody stress-tested.
+**Make the model argue against itself before you act on its answer.** When you get a substantive answer — a reasonable-comp position, a filing-requirement call, a client memo — don't just ask "are you sure?" Ask: *"Now take the opposing position. What would an IRS examiner or a reviewing partner attack first, and what fact would change your conclusion?"*
+
+The second pass surfaces the soft spots the first pass glossed over, because you've changed the model's job from defending an answer to attacking one. It works especially well on judgment calls with a documentation requirement behind them — which is most of what reasonable compensation, UBI classification, and penalty-abatement arguments actually are. Two prompts, and the second one is where the workpaper note comes from.
 
 ---
 
-*A PDF version of this briefing was also saved to the AgentHub folder.*
-
-*Run note: the Todoist task lookup and part of the Gmail deep-read were auto-declined during this unattended run, so email summaries are built from subjects and previews rather than full message bodies, and direct article links were unavailable. Approving Gmail and Todoist for scheduled runs would restore both.*
+*A PDF copy of this briefing was also saved to the AgentHub folder as `daily-briefing-2026-09-28.pdf`.*
