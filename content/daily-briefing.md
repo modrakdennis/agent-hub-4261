@@ -1,61 +1,57 @@
 ---
-title: Daily Briefing. September 28, 2026
+title: Daily Briefing. September 29, 2026
 emoji: 📅
 category: tools
-updated: 2026-09-28
+updated: 2026-09-29
 ---
 
-## Calendar — Monday, September 28
+**Tuesday, September 29, 2026 — Sarasota, FL**
 
-**8:30–8:55 AM** — Lexus. This lines up with the dealer's reminder for your 2023 Lexus GX service appointment today. It's the only thing on the calendar, so the rest of the day is yours to direct.
+## Calendar
+
+One item on the books today: **Keith 1040, 11:30 AM – 12:45 PM**. Otherwise the day is open — a good block of unscheduled time on either side of it.
 
 ## Email — Personal / Client
 
-**Max Modrak — "1040 Filing status as of 9.26.26"** (marked important). Max sent the running 1040 filing-status list Friday night and you already replied Sunday, so nothing is outstanding on your side. Worth noting the calendar pressure behind it: the extended individual deadline is October 15, seventeen days out.
+**Shelley Freeman — IRS taxpayer advocate letter (resolved).** Shelley wrote Sunday evening asking what an IRS Taxpayer Advocate letter was about, then followed up late last night: she heard back from the agency, and it turns out Neal had requested a duplicate check from 2024 that was never deposited, which triggered the letter. Her words: "Mystery solved!" No action needed on your side unless you want to confirm the duplicate check actually reissues.
 
-**QuickBooks / Interstate Park Partnership LTD — invoice 14370, $2,512.36 due.** Rent payment request, cc'd to David at 1st Property Group. The email also flags that starting January 1, 2026 the bank account rent payments deposit into is changing — if you pay by ACH or auto-draft, that routing needs updating, not just this invoice paid. Treat any banking-detail change that arrives inside an emailed invoice as something to confirm by phone with David before redirecting a payment.
+**Max — 1040 filing status as of 9/26.** Max sent the current 1040 filing status rundown Saturday night (with a note that it's been exactly two years since losing the St. Pete house). You already replied. Worth a second pass at the list today if the 10/15 extension deadline crowd still has open items — that's just over two weeks out.
 
-**Todoist digest** — "Dennis's task(s) for Sep 28 → 10+ overdue." The backlog is the headline; see Tasks below.
+**Marty Trout (Trout & Leigh Insurance) — ID cards for Michael D. Modrak & Mary Ann Andrews.** Insurance ID cards attached; the email notes to check whether the policy is up for renewal. Quick one — save the cards and confirm the renewal date.
 
-**Lovable Labs receipt #2850-7397-0913** — subscription charge posted Sunday evening. Filing item only.
+**Notta support — ticket #4271952.** Your payment-related support request was received and acknowledged, with a warning that response times are running long right now. Nothing to do but wait; follow up if you don't hear back in a few days.
 
-**Google security notice** — your Google account data was shared with Notta.ai on Sept 27 at 11:09 AM via Sign in with Google. If that was you setting up transcription, fine; if not, revoke it in account permissions.
+**Lovable — receipt #2850-7397-0913.** Software subscription receipt from Sunday. Filing item for business expenses.
 
-**Bank of America** — statements now available for the money market savings (…3899) and tiered interest checking (…6595).
+**Todoist digest — 10+ overdue.** The daily Todoist email flagged 10+ overdue tasks as of this morning. Worth ten minutes of triage (see note below — I couldn't pull the actual task list this run).
 
-**Golf, four separate asks, three with clocks on them:**
-
-- Faust Wertz — Saturday October 3, tee times from 8:10. He wants an answer by tomorrow.
-- Golf Genius, Dolan Group Round 45 — Friday October 2, accept or decline invitation.
-- Golf Genius, Holden Group Round 49 — 15 players, tee sheet closes this morning.
-- Golf Genius, October 2nd sign-up (Bob) — already at 16 players, further sign-ups waitlisted.
+**Lower priority:** Synchrony auto-payment reminder on the Prime Store Card ending 9673 (processing soon, no action needed), and a Laurel Oak golf thread where Vance Antoniou is looking for a Connie Freeman partner since Ron Spears is having a knee replacement — you're one of ~90 on the CC list.
 
 ## Industry News
 
-**NATP — "Form 990-T: Know when filing is required."** A refresher on when an exempt organization crosses into unrelated business income territory and owes a 990-T. Useful screening material if any of your nonprofit or IRA-holding clients have investment income, debt-financed property, or a side activity that isn't mission-related — the filing threshold is low ($1,000 of gross UBI) and it's the kind of return that gets missed quietly for years.
+**Nothing new surfaced from the trade sources this run — and that result is incomplete, not clean.** Here's the honest accounting:
 
-**Bradford Tax Institute — S corporations under OBBBA.** Live webinar pitched off a hard case: a client set his own S corp salary and the preparer ended up with a $34,500 penalty. Content covers audit-proofing reasonable compensation, maximizing 199A under the new law, and documentation. Given how much S corp work runs through the practice, the reasonable-compensation piece is the part worth an hour.
+- **Checkpoint (Thomson Reuters)** — explicitly searched by name and domain (checkpoint.riag.com, checkpoint.thomsonreuters.com, thomsonreuters.com). **No messages in the last 72 hours.**
+- **Accounting Today, CPA Trendlines, CPA Practice Advisor, NATP, Drake Software / Taxing Subjects** — same search, no messages in the last 72 hours.
 
-**Checkpoint (Thomson Reuters)** — checked explicitly by name and by domain (checkpoint.riag.com, checkpoint.thomsonreuters.com, taxprof.thomsonreuters.com). Nothing new in the last three days.
+The caveat: my first inbox sweep deliberately excluded the Promotions and Social tabs, which is exactly where most of these newsletters land in Gmail. The targeted follow-up searches that would have covered those tabs were auto-declined during this unattended run (see the note at the bottom), so I can't rule out that a Checkpoint or Accounting Today item is sitting in Promotions right now. Treat "nothing new" as "nothing confirmed," and give the Promotions tab a manual glance if you want certainty.
 
-**Accounting Today, CPA Trendlines, CPA Practice Advisor, Drake / Taxing Subjects** — no new mail from any of these in the window.
+**Adjacent business reading that did come through** (general financial press, not trade): the 10-year Treasury yield hit **5.24%, a 19-year high**, with the Dow off 347 points and the S&P down 0.77% on the same session — relevant background for any client conversation touching bond allocations, debt refinancing, or the cost of carrying receivables. Separately, Florida AG James Uthmeier asked a Highlands County judge Monday to bar OpenAI from releasing new models without independent safety approval and to cut Florida minors off from ChatGPT — worth tracking if your practice uses AI tooling in a Florida-regulated context.
 
 ## Tasks
 
-The Todoist connector wasn't reachable on this run — the tool call required approval and no one was present to give it, so I couldn't pull the actual task list. What I do know comes from Todoist's own morning email: **10 or more items are overdue** as of today. Given where we are in the calendar, the triage question is which of those overdue items touch October 15 filings and which can slide.
+Couldn't retrieve them. The Todoist connector request was auto-declined during this unattended run. The only signal I have is Todoist's own morning email: **10+ overdue items** as of today. Recommend opening Todoist directly and triaging — overdue counts in the double digits usually mean a few things need to be rescheduled or killed outright rather than genuinely done.
 
 ## Focus for Today
 
-Seventeen days to the extended 1040 deadline, and you're carrying a double-digit overdue list. The highest-value thirty minutes today isn't clearing tasks — it's sorting them: pull the overdue list, flag only the ones that gate an October 15 return, and let the rest sit visibly undone. A backlog you've triaged is a schedule; a backlog you haven't is just noise you pay an attention tax on all day.
-
-The Lexus appointment is a 25-minute hole in the morning. That's enough for the Interstate Park invoice and a call to David to verify the new bank details before anything moves.
+Two weeks and change to the October 15 extension deadline. The single highest-leverage thing you can do today is spend the open block before the 11:30 Keith 1040 meeting doing a hard triage of that overdue Todoist list against the 1040 status rundown Max sent — not working the items, just sorting them into "must clear before 10/15," "can slip," and "delete." A 10+ overdue queue is usually more a sorting problem than a capacity problem, and clearing the sort makes the next two weeks tractable.
 
 ## AI Tip
 
-**Make the model argue against itself before you act on its answer.** When you get a substantive answer — a reasonable-comp position, a filing-requirement call, a client memo — don't just ask "are you sure?" Ask: *"Now take the opposing position. What would an IRS examiner or a reviewing partner attack first, and what fact would change your conclusion?"*
-
-The second pass surfaces the soft spots the first pass glossed over, because you've changed the model's job from defending an answer to attacking one. It works especially well on judgment calls with a documentation requirement behind them — which is most of what reasonable compensation, UBI classification, and penalty-abatement arguments actually are. Two prompts, and the second one is where the workpaper note comes from.
+**Give the model the bad examples, not just the good ones.** When you're getting AI output that's close but not right — a client email that's too stiff, a summary that keeps burying the number you care about — don't just describe what you want. Paste the draft it produced and say "this specific sentence is the problem, here's why." Contrastive feedback ("not X, but Y" with real text on both sides) corrects tone and structure far faster than another round of abstract instructions. It's the same reason a review note on an actual workpaper beats a general memo about workpaper standards.
 
 ---
 
-*A PDF copy of this briefing was also saved to the AgentHub folder as `daily-briefing-2026-09-28.pdf`.*
+⚠️ **Run notes:** Two connectors were auto-declined mid-run because no one was available to approve them (this is a scheduled, unattended task): the **Todoist** task lookup, and the **broader Gmail searches** that would have covered the Promotions tab and the industry-newsletter sources. Calendar and the main inbox sweep worked fine. If you want these sections complete going forward, pre-approving Gmail search and Todoist for scheduled runs would fix it.
+
+*A PDF version of this briefing was also saved to the AgentHub folder as `daily-briefing-2026-09-29.pdf`.*
