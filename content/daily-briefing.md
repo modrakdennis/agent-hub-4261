@@ -1,58 +1,59 @@
 ---
-title: Daily Briefing. October 4, 2026
+title: Daily Briefing. October 5, 2026
 emoji: 📅
 category: tools
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
-## Calendar — Sunday, October 4
+# Daily Briefing — Monday, October 5, 2026
 
-Nothing on the calendar today. Clear day.
+## Calendar
 
-Looking just ahead: golf with the Holden Group is confirmed for **Wednesday, Oct 7** (Round 50, Laurel Oak CC — 20 players, game closed), and the **Oct 9** game already has 16 signed up with a waitlist forming after that. There's also an unconfirmed appointment at Cattleridge Skincare Clinic (new address: 5951 Cattleridge Ave) — the Phreesia reminders are still asking you to click confirm.
+Nothing on the calendar today. The day is yours to direct — see Focus below.
 
 ## Email — Personal / Client
 
-**Laura Keitel, CPA (keitelcpa.com) — two emails last night, both on Marcus Newton.** The first ("MARCUS NEWTON," ~6:06 pm) is a personal note — she and her husband had flu and COVID shots, and family is coming in from Park City for four days. The second ("MARCUS NEWTON TAX DATE 2025," ~6:10 pm) is the substantive one: a ~25 MB send labeled "EVERYTHING I HAVE RECEIVED." That's the Marcus Newton 2025 tax file landing in your lap — this is the item to open first.
+**Steve Stokes — QuickBooks accountant's copy (action required).** The handoff finally went through. Intuit confirmed last night that the Accountant's Copy Transfer File is available for download on the ACFT secure server, and a one-time password was emailed at 1:26 AM. That OTP was only valid five minutes, so it has expired — you'll need to trigger a fresh download request to get a new one. Steve also set a transfer password and sent it to you by email separately. Earlier in the thread he had hit the file-size limit; he re-sent and said "should get it now."
 
-**Joanne Harwell** forwarded a 1ink Customer Support form submission: "For your review — will return next week." No hard deadline, but she's expecting you to have looked at it.
+**Faust Wertz — golf (reply needed today).** Tee times start at 8:10 for Saturday. He asked you to let him know by tomorrow if you want to play.
 
-**Florida DBPR license renewal reminder** (Oct 2) — the Department's automated renewal notice. Worth confirming your CPA license renewal window and getting it done rather than letting it ride.
+**Your mother — real estate.** Forwarded a price-drop alert: 226 Sky Lake Drive is now $1.85M.
 
-**Security housekeeping:** a cluster of Dropbox messages Thursday night — password reset requested, password successfully reset on the EM Founders Group account, a new Chrome sign-in, and a new app connection (ChatGPT) to your Dropbox. If all of that was you, no action. If any of it wasn't, that's the one thing today worth stopping for.
+**TSA PreCheck.** IDEMIA confirmed Michael D. Modrak's online PreCheck renewal, $58.75 charged. No action.
 
-**Routine:** Mountain America statement for account ...630 is available; Anthropic receipt #2667-2443-6143 posted (business expense); Bank of America confirmed a $25 Zelle payment to Christy McKendree; a Notta verification code and an OpenAI Admin Portal sign-in notice also came through.
-
-Skipped: retail promos, newsletters-as-ads, and word-of-the-day mail.
+**Todoist reminder.** The daily digest flagged 2 overdue tasks for today. See the Tasks note below.
 
 ## Industry News
 
-**Nothing new from the trade sources in the scan window.** Checkpoint (Thomson Reuters — checkpoint.riag.com / checkpoint.thomsonreuters.com / taxprof.thomsonreuters.com) had **no new mail** in the last 48 hours, and neither did Accounting Today, CPA Trendlines, CPA Trendlines Academy, CPA Practice Advisor, NATP, or Drake Software / Taxing Subjects. That's expected for a Sunday morning — these publishers run on a weekday cadence, and the Friday editions had already come through before this window opened.
+No new mail from Accounting Today, CPA Trendlines, CPA Practice Advisor, NATP, Drake / Taxing Subjects, or **Checkpoint** (Thomson Reuters) showed up in the window I was able to read this morning — and a Checkpoint-specific search was blocked (see the note at the end). Checkpoint: nothing new surfaced today. To keep the section useful, here is what the profession is actually talking about as of this morning:
 
-One caveat worth flagging: this run got a single mailbox query through before the mail connector stopped approving requests (see the note at the bottom). That one sweep covered everything that arrived in the last ~40 hours, so the "nothing new" conclusion holds for recent mail — but the usual targeted source-by-source second pass, including the dedicated Checkpoint-by-domain query, could not be run. Expect a fuller digest Monday, when the trade mail resumes anyway.
+**Senate passes the Taxpayer Assistance and Service (TAS) Act — unanimously.** 65 provisions aimed at modernizing the IRS and strengthening taxpayer rights: expanded electronic access to taxpayer information, digitized correspondence and returns, better online account functionality, more callback technology, and real visibility into IRS processing backlogs. AICPA has backed most of this for years and is publicly applauding it. It now moves to the House. Practical read: if it survives the House, the day-to-day friction of representing clients before the IRS gets measurably better, but nothing changes for this filing season.
+[Journal of Accountancy](https://www.journalofaccountancy.com/news/2026/oct/senate-approves-taxpayer-focused-reforms-backed-by-aicpa/) · [CPA Practice Advisor](https://www.cpapracticeadvisor.com/2026/10/01/aicpa-applauds-unanimous-senate-passage-on-taxpayer-assistance-legislation/190887/)
+
+**IRS Notice 2026-11 — permanent 100% bonus depreciation guidance.** New guidance on the permanent 100% additional first-year depreciation deduction created by OBBBA, covering eligible depreciable property acquired after January 19, 2025. This is the one worth reading carefully — acquisition-date mechanics on the 1/19/25 boundary will drive real planning decisions on year-end fixed asset purchases for your business clients.
+[Accounting Today](https://www.accountingtoday.com/news/irs-issues-new-guidance-on-first-year-depreciation-from-obbba)
+
+**IRS obsoletes another 71 pieces of guidance (Notice 2026-58).** Revenue rulings, revenue procedures, notices and announcements, following an earlier batch of 83. Mostly housekeeping, but worth a skim if you rely on older authority in any recurring memo or position — a citation you have been reusing may now be dead.
+[Accounting Today](https://accountingtoday.com/news/irs-obsoletes-more-old-guidance)
+
+**Trump Accounts auto-enrollment started October 1.** Treasury says the change could create accounts for 60+ million additional children under 18. Expect client questions; have a one-paragraph answer ready.
+[CPA Practice Advisor](https://cpapracticeadvisor.com/2026/09/30/millions-of-u-s-children-will-be-auto-enrolled-in-trump-accounts-treasury-says/190866)
+
+**Reminder worth repeating to clients:** there is still time to cut 2025 taxes with a SEP — useful for anyone still on extension.
+[CPA Practice Advisor](https://cpapracticeadvisor.com/2026/09/30/theres-still-time-to-cut-2025-taxes-with-a-sep/190707)
 
 ## Tasks
 
-The Todoist connector declined this run, so the task list could not be pulled directly. What did come through: Todoist's own daily digest for Oct 4 reports **2 overdue tasks**. Worth opening the app and clearing or rescheduling those two — overdue items that sit tend to multiply.
+Todoist's own digest email says 2 items are overdue as of today, but the Todoist connector call was declined during this automated run, so I couldn't pull the titles. Worth 30 seconds in the app.
 
 ## Focus for Today
 
-It's Sunday and the calendar is empty, which makes this a choose-your-own day. If you want one productive hour out of it: open Laura Keitel's Marcus Newton package, see what's actually in the 25 MB, and decide whether it's complete enough to start on or whether you need to go back to her with a list. Knowing which of those two it is — before Monday — is worth more than the work itself.
-
-The other five-minute item: confirm the DBPR renewal window and the skincare appointment. Both cost nothing today and cost real friction later.
-
-Otherwise: Oktoberfest ends today, Sputnik launched on this date in 1957, and you have no obligations. Take the day.
+An empty calendar on the Monday of the last stretch before the October 15 extension deadline is a gift — treat it as a block, not as slack. Highest-value sequence: pull the Stokes accountant's copy while the transfer is fresh (re-request the OTP first), then clear the two overdue Todoist items, then give the remaining hours to extension returns. Ten days out, uninterrupted time is the scarcest thing you have.
 
 ## AI Tip
 
-**Make the model argue against itself before you trust the answer.** When you get a conclusion you like — a tax position, a valuation, a memo's framing — paste it back and ask: "Assume this is wrong. What's the strongest case against it, and what single fact would change the conclusion?" Agreeable output is the default failure mode, and this is the cheapest way to break it. It works especially well on technical judgment calls, where the first answer sounds authoritative precisely because it skipped the edge cases.
-
-A sharper version for client work: "What would a reviewer who disagrees with this flag first?" You get the objection list before the reviewer does.
-
-## Run notes
-
-Calendar and Gmail were reachable. The Todoist connector and all follow-up Gmail queries after the first were auto-declined during this unattended run, which is why the Tasks section is indirect and the Industry News sweep is single-pass. Approving those connectors for scheduled runs would fix both.
+**Ask for the objection before you ask for the draft.** When you want AI help on something consequential — a client memo, a position on an aggressive deduction, a fee-increase letter — don't open with "write this." Open with: *"Before drafting, list the three strongest objections a skeptical reader would raise, and the weakest point in my position."* Then have it draft with those in hand. You get a document that pre-empts pushback instead of one you have to defend afterward. Same number of prompts, much better output.
 
 ---
 
-*A PDF version of this briefing was also saved to the AgentHub folder as `daily-briefing-2026-10-04.pdf`.*
+*A PDF version of this briefing was also saved to the AgentHub folder.*
