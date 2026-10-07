@@ -1,81 +1,58 @@
 ---
-title: Daily Briefing. October 6, 2026
+title: Daily Briefing. October 7, 2026
 emoji: 📅
 category: tools
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
-**Tuesday, October 6, 2026 — Sarasota, FL (7:10 AM EDT)**
+## Calendar — Wednesday, October 7
 
-## Calendar
-
-Nothing on the calendar today. The day is open — good day to clear the two overdue items and the EM Founders research question.
-
-One thing to put on your radar: **Surgent's "Tax Policy Hour" premieres today at 2:00 PM ET** (seat reservation is in your Surgent portal). First look at their new tax-policy program.
+Nothing on the calendar today. The only fixed constraint is the one you set yourself by email: you told Tiffany and Max you're available after 3:00 PM for the SWI A3 call.
 
 ## Email — Personal / Client
 
-**Marcus Wells (Xact Books) — "Re: 2025 taxes".** Answered your question on Brittany's vehicle: it's a regular auto loan, not a lease. His use split is roughly 30% business / 50% commuting to her W-2 job / 20% personal. He followed up saying he'd call his wife and get you an actual mileage number. **Open loop: you're waiting on Marcus for the number** before you can finalize the business-use allocation (and note the 50% commuting piece is personal, not business).
+**SWI A3 numbers — call needs to land today.** Max sent Tiffany Walden version 1 of how the SWI A3 numbers break out ("these numbers can be adjusted"). Tiffany asked to chat today and is free after 10 AM her time; Max said he's open all day and offered to either wait for you or start with Tiffany and finalize once you join. You replied that you're available after 3:00. Tiffany then added that she wants to briefly cover the PAC on the same call. Net: someone needs to pick a time — the two threads have converged and nobody has confirmed one.
 
-**Amanda Mendenhall (EM Founders Group, General Counsel) — "FW: 501(c)(3) Lobbying Threshold".** Re-forwarded the thread from Alex Brigham (TAP Florida) — "this is from the people we met with in Florida about the political committee." Max is copied. **Ask is implied: weigh in on the lobbying-expenditure threshold** for the 501(c)(3) alongside the political committee structure. This has been sitting since Sept 30 and she's nudged it once; worth a reply today even if it's just a timeline.
+**PAC creation — team meeting requested.** Amanda Mendenhall (General Counsel, EM Founders Group) forwarded the "Next Steps on PAC Creation" thread originating with Parker Copeland at CCR CPA to you and Max. Tiffany forwarded it on to the wider group with one line: "I believe we need to have a team meeting about this." This is the second channel asking for PAC time, so it likely folds into the 3:00 call.
 
-**SouthState Bank — Columbus Day ACH & wire bulletin.** Bank is closed **Monday, October 12**; ACH and wire processing shifts accordingly. Worth checking any client payroll or payment runs that land that day and moving them up to Friday the 9th.
+**Hascall-Denke — August financials and GTE reporting.** Chantel Smail-Gordon (CAO) replied twice on the August financial statements / GTE financial reporting thread, the second message supplying the credentials for the protected file she sent. The documents are waiting on you to open and review.
 
-**Sarasota County Utilities — LATE FEE NOTICE** on the Marlowe Dr. account (acct. 100022662, ref. COL0319276). Personal, but it's an actual late fee — quick one to knock out.
+**Laura Keitel — Evelyn Paster return pickup.** Laura is holding the Evelyn Paster return at her house and will leave it on the screened porch — she just needs you to tell her when you're coming. A one-line reply clears this.
 
-**IdentoGo / TSA —** Michael's TSA PreCheck application was approved; he's eligible and should have his KTN.
+**Money items with dates.** Bank of America business credit card ending 9570 is due October 11. The Sarasota County Utilities bill for account 100022662 is $107.87 and the notice shows a due date of September 23, so that one reads as already past due and worth a look. Your Janney monthly statement is also now available. Frontier autopay of $143.88 processed cleanly this morning — no action.
 
-**Notta support — Request #4271952.** Asking whether your issue is resolved before you fill out the survey. Reply if it isn't.
-
-**Laurel Oak —** 2027 tournament registrations are opening and "Major" save-the-dates are out. No deadline stated yet, but dates fill fast.
-
-Skipped: Costco/Wayfair/Backcountry/Prime Day promos, golf-shaft retail blasts, Word of the Day, health-clickbait newsletters, SiriusXM win-back, Lawngevity irrigation pitch.
+**Club notes.** Laurel Oak took roughly 2.4 inches of rain overnight but the Player Course drained and opened on schedule; tennis courts were expected playable by 8 AM. Separately, the golf course closes at 11:00 AM tomorrow (Thursday, October 8) for bulk fertilization.
 
 ## Industry News
 
-Thin morning on the trade-press front, and I want to be straight about why: **my targeted sender searches were blocked this run** (see the note at the bottom), so this section reflects only what was visible in the general inbox sweep rather than a source-by-source scan.
+**NSTP — Tax TidBits: "Don't Miss the October 15 Tax Deadline."** The National Society of Tax Professionals led with the October 15 extended-filing deadline, now eight days out — the single most relevant date in your inbox this morning. The same issue flags automatic Trump Accounts, a new Schedule 3-A, a $90 Medicare rebate, and October CPE offerings. Worth opening in full given how close the deadline is.
 
-**Checkpoint (Thomson Reuters) — nothing new.** No Checkpoint mail (checkpoint.riag.com, checkpoint.thomsonreuters.com, taxprof.thomsonreuters.com) appeared in the last 24–48 hours. Flagging it explicitly as checked-and-empty rather than skipped.
+**IRS GuideWire — Rev. Proc. 2026-20, fixed investment trust staking.** New revenue procedure describing a safe harbor for trusts that would otherwise qualify as investment trusts but engage in staking activity. Directly relevant for any client holding digital assets through a trust structure — the safe harbor is the kind of thing that changes a reporting position, so it deserves a real read rather than a skim.
 
-**Surgent — "Your First Look at the Tax Policy Hour."** New recurring tax-policy program, first episode airs **today at 2:00 PM ET**. Registration is through your Surgent portal. If you're carrying CPE hours into Q4, this is an easy one to sit in on while you work.
+**IRS — Recent Developments for Tax Products (10/06).** Three separate notices arrived yesterday afternoon and evening covering updates to forms, publications, and draft tax products. Routine in form, but the volume of three in one afternoon eight days before October 15 is itself a signal worth a scan for anything touching returns you still have open.
 
-**Accounting Today, CPA Trendlines / CPA Trendlines Academy, CPA Practice Advisor, NATP, Drake Software / Taxing Subjects —** no mail from any of these in the window.
+**Checkpoint (Thomson Reuters) — nothing new found.** Checked explicitly as required. No Checkpoint, checkpoint.riag.com, checkpoint.thomsonreuters.com, or taxprof.thomsonreuters.com mail surfaced in this run's window. One caveat: the dedicated Checkpoint-by-name search was blocked this morning (see note at the end), so this is a "not present in the general sweep" result rather than a fully confirmed empty.
 
-Adjacent professional reading that did come in, in case it's useful:
-
-- **WSJ Economics — "The Oil Shock Could Boost the Economy."** Counterintuitive framing on the current crude run-up (WTI is sitting near $90.60 on the Mideast supply disruption). Also in the issue: AI in science, bias in prediction markets, Greenspan's crisis playbook.
-- **WSJ Wealth Adviser — "Banks and the Cycle of Rising Rates."** Bank margin behavior as rates climb, plus consumer spending up and companies pre-announcing layoffs. Relevant to any client conversation about financing costs going into year-end.
-- **Weather Channel —** Tropical Storm Isaias may form in the Gulf. Worth a glance given Sarasota.
+**No new mail in the window from:** Accounting Today, CPA Trendlines or CPA Trendlines Academy, CPA Practice Advisor, NATP, or Drake Software / Taxing Subjects.
 
 ## Tasks
 
-**Could not pull your Todoist list this run** — the connector call wasn't approved during the automated run. What I can tell you from Todoist's own 6:49 AM digest email: **you have 2 overdue items** for Oct 6. You'll want to open Todoist directly, or approve the connector for future runs (details below).
+The Todoist connector was unavailable this run, so the task list couldn't be pulled directly. The Todoist morning digest that reached your inbox reports **2 overdue tasks** as of October 7 — worth opening the app to clear those two.
 
 ## Focus for Today
 
-An empty calendar on a Tuesday in October is a gift — don't let it get eaten by inbox triage. Three things, in order:
+One decision unblocks most of this morning: confirm the SWI A3 call. Tiffany is free after 10 AM her time, Max is free all day, you're free after 3:00, and Tiffany wants PAC on the agenda — so a single 3:00 PM invite covering both SWI A3 numbers and PAC next steps collapses three open threads into one meeting. Send that first, then the one-line reply to Laura about the Evelyn Paster pickup. Everything else is a read, not a decision.
 
-1. **Reply to Amanda** on the 501(c)(3) lobbying threshold, even if the substantive answer needs more time. A one-line "here's when you'll hear from me" ends a week of silence.
-2. **Clear the two overdue Todoist items.** Overdue items compound; two is still cheap to fix.
-3. **Check client payment runs against Oct 12.** Columbus Day bank closure is the kind of thing that only becomes a problem on the 12th.
-
-Then, if the day holds: the Surgent Tax Policy Hour at 2:00 PM is low-cost professional upkeep.
+With October 15 eight days out, the back half of today is better spent on extended returns than on inbox cleanup.
 
 ## AI Tip
 
-**Make the model show its sources before it shows its answer.** When you ask an AI to analyze a client document — a trial balance, a partnership agreement, a prior-year return — add: *"Before you answer, quote the exact lines you're relying on, with their location. Then give your conclusion. If a line you need isn't in the document, say so instead of inferring it."*
+When you need a document reviewed rather than summarized, give the model the standard to review it *against* before it reads. "Read these August financials and compare each account against the prior-month trial balance; list only the lines that moved more than 10% and say why each one looks explainable or not" produces a usable review. "Summarize these financials" produces a paraphrase you already knew. The pattern is: supply the comparison basis and the materiality threshold up front — the model will apply a vague standard vaguely, and a specific one specifically.
 
-This flips the failure mode. Without it, a model that can't find the figure will quietly produce a plausible one. With it, the missing input surfaces as a gap you can go fill, and every number in the conclusion is traceable back to a line you can eyeball in thirty seconds. For tax and attest work, where a confidently wrong number is far worse than an admitted hole, that ordering matters more than any prompt-length trick.
+## Run Notes
+
+Google Calendar returned no events for today. The Todoist connector and all Gmail follow-up calls after the initial inbox sweep were auto-declined during this unattended run, so the targeted Checkpoint/industry-source searches and full message bodies could not be retrieved — client email detail above comes from the initial sweep's thread snippets.
 
 ---
 
-### Run notes
-
-Two connectors declined mid-run because no one was available to approve them in an automated session:
-
-- **Gmail search** — only the first inbox query went through. Targeted searches by sender (Checkpoint, Accounting Today, CPA Trendlines, NATP, Drake/Taxing Subjects) and the full-message reads for the Marcus and Amanda threads were refused, so those summaries come from message snippets rather than full bodies.
-- **Todoist** — task lookup refused entirely; the overdue count above comes from Todoist's digest email.
-
-If you want these to run unattended, approve the Gmail and Todoist connectors for scheduled tasks.
-
-*A PDF version of this briefing was also saved to your AgentHub folder as `daily-briefing-2026-10-06.pdf`.*
+*A PDF version of this briefing was also saved to the AgentHub folder.*
