@@ -1,61 +1,52 @@
 ---
-title: Daily Briefing. October 9, 2026
+title: Daily Briefing. October 12, 2026
 emoji: 📅
 category: tools
-updated: 2026-10-09
+updated: 2026-10-12
 ---
 
-**Friday, October 9, 2026 — Sarasota, FL**
+## Calendar — Monday, October 12, 2026
 
-## ⚠️ Weather — read this first
-
-Hurricane **Isaias** is forecast to come ashore near the Florida–Alabama line tonight or early Saturday as a **Category 2** storm (per this morning's Florida and national newsletters). It's the Atlantic season's first US landfall. Sarasota is well east of the projected center, but Sen. Rick Scott's office circulated preparedness resources overnight and local rainfall has already been heavy — Laurel Oak closed the Player Course this morning after another inch of rain in 12 hours. Worth a look at the forecast before you commit to anything outdoors or any afternoon travel.
-
-## Calendar
-
-**Nothing on the calendar today.** The connected Google Calendar returned zero events for Friday, October 9. A genuinely open day — see Focus below.
+Nothing on the calendar today. The next scheduled item is Wednesday's 9:38 AM tee time (Holden Group, Laurel Oak) — confirmed as of this morning's update email.
 
 ## Email — Personal / Client
 
-Reviewed the last ~48 hours of inbox. No live client engagement threads came through — the real items are administrative:
+**Marcus Newton (Xact Books LLC) — "Re: 2025 1040."** Marcus returned the signed form and says he'll make payment through EFTPS this week and mail a check to you. Action: the signed e-file authorization is in hand, so the 1040 can go out.
 
-- **Sarasota County Public Utilities** — your water bill is ready (Bill B003647108, Account 100022662, 4261 Marlowe Dr), issued Oct 8. Flagged important; no amount or due date visible in the preview. Needs a payment decision.
-- **SouthState Bank (Treasury Management)** — service bulletin effective Oct 8, 9:30 PM: "Important Tips to Protect Yourself Against Fraudulent Callers." Informational, no action required, but relevant given you handle client funds — worth a skim and possibly forwarding to staff.
-- **OpenAI** — starting **October 15**, your workspace's discoverable name will be automatically replaced with the current workspace name. No ask, but if the workspace is client-facing you may want to confirm the name reads correctly before the 15th.
-- **Todoist digest** — "3 overdue" tasks as of Oct 9. See Tasks below.
-- **Personal:** Laurel Oak Player Course closed today (rain); US Am Tour standings updated (Senior Palmer flight).
+**Surgent CPE — two completion certificates.** Certificates posted for *GAAP Hot Topics – What You Need to Know* and *Fiduciary Income Tax Returns – Form 1041 Workshop*. Worth filing to your CPE log while they're fresh.
 
-Filtered out roughly thirty retail promos, health-blog spam, word-of-the-day, investing-newsletter hype, and LinkedIn nudges.
+**Dropbox — account downgraded to Basic** (sent to dennis@modrakcpa.com). If client files live there, storage is now capped at the free tier. Worth checking before it becomes a problem mid-October.
+
+**Bank of America — two mobile check deposit confirmations, $340.00 each**, both to Business Adv Fundamentals 5744, both posting 10/13, but with two different confirmation numbers (…1856 and …4607). That pattern often means one check got submitted twice. Worth a look at the account.
+
+**Bank of America — business credit card statement** for the period ending Oct 10 is available; minimum payment due is $0.00, statement balance $0.00. No action needed.
+
+**Golf housekeeping.** Laurel Oak reports the course open with cart traffic restricted to the rough after recent rain. Two items need a reply: the Dolan Group Round 47 signup for Friday Oct 16 (accept/decline), and Faust Wertz asking by tomorrow whether you want one of the 8:10 tee times on Saturday Oct 17.
 
 ## Industry News
 
-**Important caveat for this run:** targeted searches of the accounting/tax trade sources were blocked — the Gmail connector approved only the first query of this session and auto-declined every follow-up, so I could not run source-by-source searches or open any message bodies. What follows is drawn solely from the single broad inbox snapshot I did retrieve (newest 50 threads, last 48 hours).
+**Checkpoint (Thomson Reuters) — not verifiable this run.** The mail search needed to confirm whether Checkpoint sent anything in the last 24–48 hours was blocked during this unattended run (see the note at the end), so today's answer on Checkpoint is "unconfirmed," not "nothing new." Same limitation applies to Accounting Today, CPA Trendlines, CPA Practice Advisor, NATP, and Drake/Taxing Subjects — none of their mail could be read. What follows is pulled from the publishers directly so the digest isn't empty.
 
-- **Checkpoint (Thomson Reuters)** — **status unverified today.** No Checkpoint message appeared in the 50 newest threads from the last 48 hours, but because the targeted `checkpoint.riag.com` / `thomsonreuters.com` search was declined, I cannot confirm whether something arrived and fell outside that window. Treat as "not checked," not "nothing new."
-- **Accounting Today, CPA Trendlines, CPA Practice Advisor, NATP, Drake Software / Taxing Subjects** — none appeared in the retrieved snapshot. Same caveat: not confirmed absent, just not present in the slice I could see.
+**Hurricane Isaias relief is the Florida story.** The AICPA is pressing states to formally request disaster tax relief from Treasury after Isaias made landfall in Florida and caused flooding and property damage across several states — days before the October 15 deadline. This is the one to watch locally: if Sarasota County lands in a declared area, affected clients get postponed deadlines. [Journal of Accountancy](https://www.journalofaccountancy.com/news/2026/oct/aicpa-reminds-states-of-disaster-relief-process-with-filing-deadline-near/)
 
-Business-press items that *did* come through and are relevant to the practice:
+**The October 15 extension deadline is Thursday.** Coverage puts the population at as many as 20 million filers — roughly 15–20% of all returns — on extension each year. Three days out. [CPA Practice Advisor](https://cpapracticeadvisor.com/2026/10/06/key-irs-deadline-looms-for-as-many-as-20-million-tax-filers/191195)
 
-- **WSJ CFO Journal — "The Morning Ledger: AI Investment Boom."** Lead item on the scale of corporate AI capital spending, alongside Taylor Farms curbing lettuce sourcing from Mexico. Useful background if clients are asking how to capitalize or expense AI tooling.
-- **WSJ Personal Technology — "Personal AI Agents Are Great—Until They Share Your Bank Statement in the Work Chat."** Directly on point for a CPA firm adopting AI: the failure mode is agents surfacing sensitive data in the wrong channel. Relevant to any client-data policy you write.
-- **WSJ Wealth Adviser — "Choosing the Right Bond Strategy Based on the 'Why?'"** Plus coverage of the intensifying AI price war. Conversation fodder for clients with fixed-income questions.
-- **Energy / markets** — WTI up 3.6% as Gulf rigs evacuated ahead of Isaias; Hormuz still closed; oil around $104. Worth noting for any client with fuel-cost or energy exposure.
-- **Also:** the Nobel Peace Prize went to jurist Navi Pillay.
+**IRS is obsoleting 71 pieces of old guidance** — revenue rulings, revenue procedures, notices and announcements — as part of the push to clear outdated regulation. Mostly housekeeping, but worth knowing if you cite older rulings in research or memos. [CPA Practice Advisor](https://www.cpapracticeadvisor.com/2026/10/05/irs-gets-rid-of-71-pieces-of-old-tax-guidance/191027/)
+
+**Also moving:** updated per diem rates for business travel took effect October 1 along with a revised high-cost locality list; Treasury and IRS proposed regulations for the new Section 25F education freedom tax credit; and the AICPA is asking the IRS for clarity on AI guidelines and CPA fee rules.
 
 ## Tasks
 
-The Todoist connector request was **auto-declined** during this run, so I could not pull the task list directly. From the Todoist email digest: **3 overdue tasks** as of October 9. Open Todoist to see which — with an empty calendar today, clearing those three is the obvious use of the morning.
+Todoist could not be read this run — the task lookup was blocked (see note below). From email, the open items that look like real commitments are: finish and transmit the Newton 2025 1040, check the duplicate $340 deposit, sort out the Dropbox downgrade, log the two Surgent CPE certificates, and reply to the two golf invitations.
 
 ## Focus for Today
 
-A clear calendar and a storm rolling toward the panhandle is an unusual combination: no meetings to protect, but a day where afternoon plans may not hold. Front-load it. Clear the three overdue Todoist items before 10 a.m. while the day is still yours, pay the utility bill in the same sitting, and give yourself the rest of the morning for the deep work that never fits between appointments. Then check the Isaias track once more around midday and adjust.
+Three days to the 15th. The highest-value hour today is spent on whatever extension returns are still open — everything else on this list keeps. Newton's signed form arriving clears one off the board; take the win and move to the next.
 
 ## AI Tip
 
-**Make the model show its work before it answers.** When you hand Claude a trial balance, a client memo, or a stack of statements, add: *"Before you answer, list the assumptions you're making and flag anything in the source you can't verify."* You get the assumptions surfaced as a checklist instead of buried in confident prose — which is exactly where errors hide in tax and accounting work. It costs one sentence in the prompt and turns a black-box answer into something you can audit line by line.
+When you're pulling numbers out of a client workbook, don't ask for the answer — ask for the arithmetic to be written and run as code, then ask for the figures to be footed back against the source. A reconciliation you can see is a reconciliation you can defend. The same move works on a trial balance: "compute this, show the tie-out, and flag anything that doesn't foot" beats "what's the total" every time.
 
 ---
 
-*Note: Gmail allowed only one query this run and Todoist was declined entirely; the Industry News and Tasks sections are incomplete as a result. Pre-approving the Gmail and Todoist connectors for scheduled runs would fix this.*
-
-*A PDF version of this briefing was also saved to the AgentHub folder as `daily-briefing-2026-10-09.pdf`.*
+*Connector limitations this run:* Gmail allowed one search before further requests were auto-declined (unattended run), so the industry-source scan — including Checkpoint — and the Todoist task lookup could not be completed. Approving those tools for scheduled runs would close both gaps.
