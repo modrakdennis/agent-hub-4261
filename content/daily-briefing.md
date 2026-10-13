@@ -1,52 +1,52 @@
 ---
-title: Daily Briefing. October 12, 2026
+title: Daily Briefing. October 13, 2026
 emoji: 📅
 category: tools
-updated: 2026-10-12
+updated: 2026-10-13
 ---
 
-## Calendar — Monday, October 12, 2026
+## Calendar
 
-Nothing on the calendar today. The next scheduled item is Wednesday's 9:38 AM tee time (Holden Group, Laurel Oak) — confirmed as of this morning's update email.
+Nothing on the calendar today (Google and Outlook both checked). Reminder: tee time tomorrow, Wednesday Oct 14 at 9:38 AM (Holden Group, Laurel Oak).
 
-## Email — Personal / Client
+## Email — Personal/Client
 
-**Marcus Newton (Xact Books LLC) — "Re: 2025 1040."** Marcus returned the signed form and says he'll make payment through EFTPS this week and mail a check to you. Action: the signed e-file authorization is in hand, so the 1040 can go out.
+Max Modrak replied overnight to your 1040 filing status list. Larry Resnick is complete, waiting on e-file authorizations to be signed. Carlos Usategui is complete; Max will call him today to finalize. Jason Barinas was paper filed. Lily Murray does not need to file (income below threshold). Thomas Matthews was received over the weekend; draft done, going out to the client today. Amanda Mendenhall: first draft ready, but Max needs the depreciation schedule for her rental property and the FFP Legal expenses. Lauren Foltz filed her own 1040. Max promised a full update today.
 
-**Surgent CPE — two completion certificates.** Certificates posted for *GAAP Hot Topics – What You Need to Know* and *Fiduciary Income Tax Returns – Form 1041 Workshop*. Worth filing to your CPE log while they're fresh.
+Marcus Newton (Xact Books) returned his signed form for the 2025 1040. He will pay by EFT this week and mail a check.
 
-**Dropbox — account downgraded to Basic** (sent to dennis@modrakcpa.com). If client files live there, storage is now capped at the free tier. Worth checking before it becomes a problem mid-October.
+A personal email from wally9dog@gmail.com on Oct 12 contained a W-2 (Copy B) attachment with no subject or message text. Worth confirming who it is for.
 
-**Bank of America — two mobile check deposit confirmations, $340.00 each**, both to Business Adv Fundamentals 5744, both posting 10/13, but with two different confirmation numbers (…1856 and …4607). That pattern often means one check got submitted twice. Worth a look at the account.
+eFax confirmations: three faxes totaling 143 pages (71, 21 and 51 pages) were successfully sent Oct 12 to 855-371-8557 regarding Denke Laboratories Inc (59-2676922).
 
-**Bank of America — business credit card statement** for the period ending Oct 10 is available; minimum payment due is $0.00, statement balance $0.00. No action needed.
+Surgent CPE certificate available for GAAP Hot Topics - What You Need to Know (GPHT).
 
-**Golf housekeeping.** Laurel Oak reports the course open with cart traffic restricted to the rough after recent rain. Two items need a reply: the Dolan Group Round 47 signup for Friday Oct 16 (accept/decline), and Faust Wertz asking by tomorrow whether you want one of the 8:10 tee times on Saturday Oct 17.
+Faust Wertz asked for a yes or no by today on Saturday Oct 17 golf (tee times start 8:10).
+
+Todoist shows 3 overdue items: weekly catch-up with Max (due 10/8), meeting with Laura about getting the analytic review in better shape (8/25), and get Regions Bank login (8/25).
+
+Bank of America: business card statement is available; two $340 mobile check deposits received Oct 11 and post today.
 
 ## Industry News
 
-**Checkpoint (Thomson Reuters) — not verifiable this run.** The mail search needed to confirm whether Checkpoint sent anything in the last 24–48 hours was blocked during this unattended run (see the note at the end), so today's answer on Checkpoint is "unconfirmed," not "nothing new." Same limitation applies to Accounting Today, CPA Trendlines, CPA Practice Advisor, NATP, and Drake/Taxing Subjects — none of their mail could be read. What follows is pulled from the publishers directly so the digest isn't empty.
+Checkpoint (checked: yes). Checkpoint News 10/13 headlines: SEC proposes Rule 17a-7 amendments that would let registered funds cross-trade securities valued with observable inputs, potentially restoring eligibility for many Level 2 fixed-income instruments. Claims Court denied a taxpayer's summary judgment motion in a microcaptive insurance case (Capstone), finding genuine factual disputes on whether the arrangement was a sham and shifted risk. FASB's planned debt overhaul leaves charities' forgiven foundation loans in a gray area (gift vs. gain), which could affect the public-charity support test. A planned FASB change may upend accounting for sellable IRA clean-energy tax credits (KPMG: could be a significant change in practice). IRS denied tax-exempt status to an HOA that restricts common-area access to members and guests. SEC partially reinstated a Texas CPA suspended in 2020 over audit failures.
 
-**Hurricane Isaias relief is the Florida story.** The AICPA is pressing states to formally request disaster tax relief from Treasury after Isaias made landfall in Florida and caused flooding and property damage across several states — days before the October 15 deadline. This is the one to watch locally: if Sarasota County lands in a declared area, affected clients get postponed deadlines. [Journal of Accountancy](https://www.journalofaccountancy.com/news/2026/oct/aicpa-reminds-states-of-disaster-relief-process-with-filing-deadline-near/)
+Checkpoint Five-Minute Tax Briefing preview (Oct 20 issue): the IRS launched a new free IRS mobile app replacing IRS2Go. Taxpayers can check refund or amended-return status, view balances, make payments, see select notices, get transcripts and obtain an IP PIN. IRS warns to download only through verified links. Links: https://checkpoint.riag.com/app/doc?id=Ic0cf7ab0c66711f19515aafdbb96bc8a&feature=tnews (SEC cross-trading), https://checkpoint.riag.com/app/doc?id=I02455540c66911f1906ace2ae7a30f5f&feature=tnews (microcaptive), https://checkpoint.riag.com/app/doc?id=Ib64a7c00c66411f1a8ca80acb3d42843&feature=tnews (charity loans), https://checkpoint.riag.com/app/doc?id=I8a3f3230c66511f19607c01a766b9d61&feature=tnews (IRA credits).
 
-**The October 15 extension deadline is Thursday.** Coverage puts the population at as many as 20 million filers — roughly 15–20% of all returns — on extension each year. Three days out. [CPA Practice Advisor](https://cpapracticeadvisor.com/2026/10/06/key-irs-deadline-looms-for-as-many-as-20-million-tax-filers/191195)
+CPA Trendlines Academy: complimentary 1-credit NASBA CPE webinar Thursday Oct 22, noon to 1 PM EDT, 'A CPA's Guide to Defined Benefit Plans' with David Podell. Covers when DB/cash balance plans fit high-earning owners already maxing 401(k)s, plan design, QBI (199A) interaction, and 2026 set-up timing.
 
-**IRS is obsoleting 71 pieces of old guidance** — revenue rulings, revenue procedures, notices and announcements — as part of the push to clear outdated regulation. Mostly housekeeping, but worth knowing if you cite older rulings in research or memos. [CPA Practice Advisor](https://www.cpapracticeadvisor.com/2026/10/05/irs-gets-rid-of-71-pieces-of-old-tax-guidance/191027/)
-
-**Also moving:** updated per diem rates for business travel took effect October 1 along with a revised high-cost locality list; Treasury and IRS proposed regulations for the new Section 25F education freedom tax credit; and the AICPA is asking the IRS for clarity on AI guidelines and CPA fee rules.
+Accounting Today, CPA Practice Advisor, NATP, Drake / Taxing Subjects: nothing new in the last 48 hours.
 
 ## Tasks
 
-Todoist could not be read this run — the task lookup was blocked (see note below). From email, the open items that look like real commitments are: finish and transmit the Newton 2025 1040, check the duplicate $340 deposit, sort out the Dropbox downgrade, log the two Surgent CPE certificates, and reply to the two golf invitations.
+Nothing due today in Todoist. Three older items are overdue (see above).
 
 ## Focus for Today
 
-Three days to the 15th. The highest-value hour today is spent on whatever extension returns are still open — everything else on this list keeps. Newton's signed form arriving clears one off the board; take the win and move to the next.
+Close the loop with Max on the 1040 list before Thursday: get the Mendenhall depreciation schedule and FFP Legal expenses, and confirm the e-file authorizations for Resnick are signed.
 
 ## AI Tip
 
-When you're pulling numbers out of a client workbook, don't ask for the answer — ask for the arithmetic to be written and run as code, then ask for the figures to be footed back against the source. A reconciliation you can see is a reconciliation you can defend. The same move works on a trial balance: "compute this, show the tie-out, and flag anything that doesn't foot" beats "what's the total" every time.
+When you paste a status email like Max's into Claude, ask it to turn the list into a table of client, status, and what is needed from whom. It makes the follow-up calls and emails a quick checklist.
 
----
-
-*Connector limitations this run:* Gmail allowed one search before further requests were auto-declined (unattended run), so the industry-source scan — including Checkpoint — and the Todoist task lookup could not be completed. Approving those tools for scheduled runs would close both gaps.
+A PDF version was also saved: daily-briefing-2026-10-13.pdf
