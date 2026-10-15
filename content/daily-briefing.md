@@ -1,52 +1,48 @@
 ---
-title: Daily Briefing. October 13, 2026
+title: Daily Briefing. October 14, 2026
 emoji: 📅
 category: tools
-updated: 2026-10-13
+updated: 2026-10-14
 ---
 
 ## Calendar
 
-Nothing on the calendar today (Google and Outlook both checked). Reminder: tee time tomorrow, Wednesday Oct 14 at 9:38 AM (Holden Group, Laurel Oak).
+No events on your calendar today (Google Calendar and Outlook both checked). Note: Friday Oct 16 you're on the Balow Group golf tee sheet (Round 3).
 
 ## Email — Personal/Client
 
-Max Modrak replied overnight to your 1040 filing status list. Larry Resnick is complete, waiting on e-file authorizations to be signed. Carlos Usategui is complete; Max will call him today to finalize. Jason Barinas was paper filed. Lily Murray does not need to file (income below threshold). Thomas Matthews was received over the weekend; draft done, going out to the client today. Amanda Mendenhall: first draft ready, but Max needs the depreciation schedule for her rental property and the FFP Legal expenses. Lauren Foltz filed her own 1040. Max promised a full update today.
+Max Modrak replied on the Track1099 "Duplicate W-2s" notice: Track1099 says the SSA flagged W-2s for the Bernard & Maryann Powell Foundation (Matthew and Elizabeth Archangeli) as duplicates. No action required per the notice, and Max's comment was "Very odd" — worth a quick look at whether those W-2s were also filed through a payroll provider.
 
-Marcus Newton (Xact Books) returned his signed form for the 2025 1040. He will pay by EFT this week and mail a check.
+Vital Records Control (via TermSync) asked you to confirm a check for invoices 6711689 and 6990818 was mailed; you replied it was mailed Monday. They noted mailed payments can take up to 3 weeks and encouraged electronic payment. Nothing further needed.
 
-A personal email from wally9dog@gmail.com on Oct 12 contained a W-2 (Copy B) attachment with no subject or message text. Worth confirming who it is for.
+mamodrak70@gmail.com shared "irs.pdf" with you via Adobe Acrobat on Oct 13 for review; it is still unread.
 
-eFax confirmations: three faxes totaling 143 pages (71, 21 and 51 pages) were successfully sent Oct 12 to 855-371-8557 regarding Denke Laboratories Inc (59-2676922).
+Golf: Faust Wertz's Saturday Oct 17 golf (tee times from 8:10) - Rob Anderson and Ron want in; you were on the invite list and no reply from you is visible. Bob Balow revised the Friday Oct 16 tee sheet (Hendricks added, skins pool now $110).
 
-Surgent CPE certificate available for GAAP Hot Topics - What You Need to Know (GPHT).
-
-Faust Wertz asked for a yes or no by today on Saturday Oct 17 golf (tee times start 8:10).
-
-Todoist shows 3 overdue items: weekly catch-up with Max (due 10/8), meeting with Laura about getting the analytic review in better shape (8/25), and get Regions Bank login (8/25).
-
-Bank of America: business card statement is available; two $340 mobile check deposits received Oct 11 and post today.
+Other: Public Storage monthly statement is ready for payment; Laurel Oak sent an In Memory notice for Robert "Bob" Ouderkirk; QuickBooks sent a one-time download code for the Denke Laboratories accountant's copy (Oct 13, expired).
 
 ## Industry News
 
-Checkpoint (checked: yes). Checkpoint News 10/13 headlines: SEC proposes Rule 17a-7 amendments that would let registered funds cross-trade securities valued with observable inputs, potentially restoring eligibility for many Level 2 fixed-income instruments. Claims Court denied a taxpayer's summary judgment motion in a microcaptive insurance case (Capstone), finding genuine factual disputes on whether the arrangement was a sham and shifted risk. FASB's planned debt overhaul leaves charities' forgiven foundation loans in a gray area (gift vs. gain), which could affect the public-charity support test. A planned FASB change may upend accounting for sellable IRA clean-energy tax credits (KPMG: could be a significant change in practice). IRS denied tax-exempt status to an HOA that restricts common-area access to members and guests. SEC partially reinstated a Texas CPA suspended in 2020 over audit failures.
+Checkpoint (Thomson Reuters): nothing new from checkpoint.riag.com, checkpoint.thomsonreuters.com or taxprof.thomsonreuters.com in the last 72 hours. The only "[Checkpoint]" email was a Scoreboard market newsletter (beehiiv), not Thomson Reuters.
 
-Checkpoint Five-Minute Tax Briefing preview (Oct 20 issue): the IRS launched a new free IRS mobile app replacing IRS2Go. Taxpayers can check refund or amended-return status, view balances, make payments, see select notices, get transcripts and obtain an IP PIN. IRS warns to download only through verified links. Links: https://checkpoint.riag.com/app/doc?id=Ic0cf7ab0c66711f19515aafdbb96bc8a&feature=tnews (SEC cross-trading), https://checkpoint.riag.com/app/doc?id=I02455540c66911f1906ace2ae7a30f5f&feature=tnews (microcaptive), https://checkpoint.riag.com/app/doc?id=Ib64a7c00c66411f1a8ca80acb3d42843&feature=tnews (charity loans), https://checkpoint.riag.com/app/doc?id=I8a3f3230c66511f19607c01a766b9d61&feature=tnews (IRA credits).
+IRS Newswire IR-2026-122 (Oct 14): in response to the Oct 5 Executive Order "Emergency Tax Relief on Diesel Fuel," the IRS will not impose penalties when dyed diesel fuel is sold for use or used on highways. Relief is retroactive to Oct 1, 2026 and runs through Dec 31, 2026; it covers penalties for failure to make semimonthly deposits or keep records, and sellers need not investigate end use. Further guidance is expected on postponing payment under IRC 4041 and on Form 720. It applies to federal tax only, not state fuel taxes. Link: https://www.irs.gov/newsroom
 
-CPA Trendlines Academy: complimentary 1-credit NASBA CPE webinar Thursday Oct 22, noon to 1 PM EDT, 'A CPA's Guide to Defined Benefit Plans' with David Podell. Covers when DB/cash balance plans fit high-earning owners already maxing 401(k)s, plan design, QBI (199A) interaction, and 2026 set-up timing.
+Wolters Kluwer CCH: promotional email, "Building a Future-Ready Firm," on modern tax workflows for small firms. Marketing only.
 
-Accounting Today, CPA Practice Advisor, NATP, Drake / Taxing Subjects: nothing new in the last 48 hours.
+Accounting Today, CPA Trendlines / Academy, CPA Practice Advisor, NATP, Drake / Taxing Subjects: no emails in the last 72 hours.
+
+Market context (Scoreboard newsletter): the S&P 500 finished flat at 7,805 on Oct 13 as bank earnings disappointed (Citigroup -5.6%, Wells Fargo -3.1%); the 10-year Treasury yield is 5.21%. September CPI is the next test.
 
 ## Tasks
 
-Nothing due today in Todoist. Three older items are overdue (see above).
+Todoist has three open items: Weekly catch up with Max (recurring, was due Oct 8 - discuss current and upcoming jobs); Meeting with Laura (overdue since Aug 25 - get the analytic review in better shape); Get Regions Bank login (overdue since Aug 25). The two August items are good candidates to close out or reschedule.
 
 ## Focus for Today
 
-Close the loop with Max on the 1040 list before Thursday: get the Mendenhall depreciation schedule and FFP Legal expenses, and confirm the e-file authorizations for Resnick are signed.
+Close the loop on the Powell Foundation duplicate W-2 question with Max, review the irs.pdf Max-family share, and clear the two stale August tasks.
 
 ## AI Tip
 
-When you paste a status email like Max's into Claude, ask it to turn the list into a table of client, status, and what is needed from whom. It makes the follow-up calls and emails a quick checklist.
+When pasting a notice into an AI assistant, ask: "List the facts, the deadline, and what I must do, separately." It keeps routine informational notices (like the duplicate W-2 notice) from being treated as action items.
 
-A PDF version was also saved: daily-briefing-2026-10-13.pdf
+*A PDF version was also saved: daily-briefing-2026-10-14.pdf*
