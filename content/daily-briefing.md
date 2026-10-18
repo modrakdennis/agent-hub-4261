@@ -1,63 +1,64 @@
 ---
-title: Daily Briefing. October 17, 2026
+title: Daily Briefing. October 18, 2026
 emoji: 📅
 category: tools
-updated: 2026-10-17
+updated: 2026-10-18
 ---
+
+Briefing for Sunday, October 18, 2026.
 
 ## Calendar
 
-Saturday, October 17. Nothing on your Google or Outlook calendar today.
+Nothing on the calendar today (Sunday). Google Calendar and Outlook both show no events.
 
-## Email — Personal / Client
+## Email — Personal/Client
 
-**Golf is off today.** Faust Wertz sent "Saturday Wertz Game Cancelled" (course closed this morning), and Laurel Oak's "Course Conditions - 10/17" notice says the course is temporarily closed after more overnight rain. You were 3rd alternate anyway. For next week, GolfGenius shows you confirmed for Link Group on Wed 10/21 but waitlisted for Crouch Group Tue 10/20, Holden Group Wed 10/21, and Balow Group Fri 10/23.
+Monte Vista Ranch LC sent an e-check for $3,000.00 (October 2026, check #VV964) on Oct 16. Two mobile deposits were received Saturday, $3,000.00 to checking 6595 and $1,600.00 to Business Adv Fundamentals 5744. Both credit on Mon 10/19.
 
-**Client and practice items worth a look:**
+Florida DBPR general reminder (Oct 16): your CPA license expires December 31, 2026 and the CPE Reporting Tool is open for the 2024-2026 period. Confirm your CPE hours are logged before the deadline.
 
-- **"Fw: Dads stock"** from W. Christie (Oct 15): his dad wants you to have a loss for his taxes. Password-protected attachment, and the password is in the email body. Needs to go into that client's file.
-- **Max Modrak** sent "Status as of 10.14.26" (2025 1040 extension and status spreadsheet attached) and a second note, "Chat conversation started to protect capital gains," with a shared ChatGPT link.
-- **Marcus Newton (Xact Books)** forwarded an IRS confirmation of a scheduled transaction. FYI only; he says he paid it Thursday.
-- **Monte Vista Ranch LC** sent an eCheck for $3,000.00 (October 2026, check #VV964). You need to log in to retrieve it.
-- **PCM Networking** payment receipt for $400.50 (Oct 16).
-- **Capital Square Apartment REIT** posted two September distribution statements (unread, attachments).
+TreasuryDirect reminder: set up ID.me by October 28, 2026. You also emailed yourself "MA ID.ME" on Oct 16, which looks related.
 
-**Deadlines and account notices:**
+Bank of America (Oct 16) says action is needed: set up a new payment plan for a credit card to avoid a missed payment and late fees. Citi also sent a Home Depot card minimum-payment alert. An automatic $50 payment to Chase cards was scheduled for 11/13.
 
-- **CPA license:** Florida DBPR says your license expires December 31, 2026 and the CPE reporting tool is open for the 2024–2026 period. Worth confirming your CPE is logged.
-- **TreasuryDirect** now requires ID.me. Set it up by October 28. (You also emailed yourself "MA ID.ME" Friday, and ID.me notified you of a password change Thursday.)
-- **Bank of America** sent "Action Needed: set up a new payment plan to avoid a missed payment." Your business card statement shows $0.00 minimum due. Check whether the notice is about a different card.
-- **Plaud** free trial ends Oct 24.
-- **Google security alerts:** a new iPhone sign-in on dennis@modrakcpa.com (Friday evening), plus a Workspace quarterly security recommendations notice. Likely your own device, but glance at it.
+Plaud: your Note Pro / Plaud Web account was set up Oct 16-17 and the free trial ends October 24.
 
-Skipped as noise: retail shipping, newsletters (1440, Word Daily, Flyover Florida, The Pour Over, Geopolitiks), Amex and Chase promos, OpenAI sign-in notices.
+Google security alert: new sign-in on dennis@modrakcpa.com (Oct 17). Google Workspace also posted quarterly security recommendations. Worth a quick check that the sign-in was you.
+
+Laurel Oak golf: course and practice areas OPEN today. You were moved off the waitlist into Round 2. Round 4 on Fri Oct 23 is still waitlisted (16 confirmed, 6 waitlisted).
+
+PCM Networking receipt for $400.50 (Oct 16). Verizon bill is ready and on Auto Pay.
 
 ## Industry News
 
-**Checkpoint (Thomson Reuters).** One issue arrived Friday: *The PPC Accounting and Auditing Update, November 2026 (Vol. 35, No. 11)*. Three articles:
+**Checkpoint (Thomson Reuters)** — The PPC Accounting and Auditing Update, November 2026 (Oct 16). Three articles, all open to full text in Checkpoint:
 
-1. **Roundup of Standards That Will Soon Be Effective.** A heads-up and brief overview of accounting and auditing standards and guidance about to take effect, as a memory-jogger for year-end planning. https://checkpoint.riag.com/app/Search?ods=PPCAAU&TEMPLATEQUERY=%3DArticle%3AID%3D%22PPCAAU:****d57ea3d9a67665d%22&doconly=y
-2. **FinCEN Makes It Final: BOI Reporting Ends for U.S. Companies.** In August 2026 FinCEN issued a final rule permanently ending Beneficial Ownership Information reporting by U.S. companies and U.S. persons under the Corporate Transparency Act. Useful to tell clients who were still wondering about BOI filings. https://checkpoint.riag.com/app/Search?ods=PPCAAU&TEMPLATEQUERY=%3DArticle%3AID%3D%22PPCAAU:****d48b4c35a2f6833%22&doconly=y
-3. **Fraud Risk in 2026 Planning: What the Comment Letters Say about Brainstorming.** The AICPA's Auditing Standards Board approved SAS No. 151 in August 2026. It supersedes AU-C 240 and is effective for audits of periods ending on or after December 15, 2028 (early implementation permitted). Until then AU-C 240 governs, but the comment letters on the 2025 exposure draft show where the pressure points are for 2026 audit planning. https://checkpoint.riag.com/app/Search?ods=PPCAAU&TEMPLATEQUERY=%3DArticle%3AID%3D%22PPCAAU:****aec2070ab00225a%22&doconly=y
+1. FinCEN Makes It Final: BOI Reporting Ends for U.S. Companies. In August 2026 FinCEN issued a final rule that permanently ends Beneficial Ownership Information reporting by U.S. companies and U.S. persons under the Corporate Transparency Act. https://checkpoint.riag.com/app/Search?ods=PPCAAU&TEMPLATEQUERY=%3DArticle%3AID%3D%22PPCAAU:****d48b4c35a2f6833%22&doconly=y
 
-**CPA Trendlines.** Saturday's special offer promotes a webcast by Sy Goldberg on the new retirement distribution rules: the IRS issued 260 pages of final regulations and 36 pages of proposed regulations covering distributions from retirement accounts for 2025 and after, with the heaviest impact on anyone holding an inherited IRA. Friday's daily issue was "How to Assess Your Firm's Performance" (unread; the body was mostly promotional).
+2. Fraud Risk in 2026 Planning: What the Comment Letters Say about Brainstorming. The AICPA ASB approved SAS No. 151 in August 2026, superseding AU-C 240. It is effective for audits of periods ending on or after Dec 15, 2028, with early implementation permitted. Until then AU-C 240 governs, but the exposure-draft comment letters show likely pressure points for 2026 audit planning. https://checkpoint.riag.com/app/Search?ods=PPCAAU&TEMPLATEQUERY=%3DArticle%3AID%3D%22PPCAAU:****aec2070ab00225a%22&doconly=y
 
-**NATP.** Thursday's promo is for a 2-CPE webinar, *Sections 754 and 743 Adjustments Upon the Death of a Partner*, on Monday Oct. 26 at 2:00 p.m. CT. It covers when a §754 election is required or advisable after a partner's death and how to calculate basic §743(b) adjustments. Also listed: Understanding the Tax Impact of Employee Stock Options (Oct 30), Taxation of Complex Property Transactions (Oct 30), and Allocation Mechanics for Asset Reporting on Form 8594 (Nov 2).
+3. Roundup of Standards That Will Soon Be Effective. A heads-up and brief overview of standards and guidance about to take effect. https://checkpoint.riag.com/app/Search?ods=PPCAAU&TEMPLATEQUERY=%3DArticle%3AID%3D%22PPCAAU:****d57ea3d9a67665d%22&doconly=y
 
-**IRS Tax Products.** Friday's "Recent Developments" notice posted early-release drafts of the Instructions for Form 8609-A (low-income housing credit annual statement) and Form 8332 (release of claim to exemption for child by custodial parent), both Dec 2025 revisions. Drafts only; do not file or rely on them.
+**Accounting Today** — Best of the Week (Oct 17). Top reads: Tax Strategy: IRS identifies transactions of potential concern; IRS teams with DOJ on a tax-fraud enforcement surge; CPA-only requirements on the wane (ownership/licensure trend); Social Security to increase benefits 3.6% in 2027 (COLA); CohnReznick acquires Aldrich. The email links are tracking links, so find these on accountingtoday.com. Also a CPA-only day at PE Summit on Nov 17.
 
-**Accounting Today, CPA Practice Advisor, Drake Software / Taxing Subjects:** nothing new in the last 48 hours.
+**CPA Practice Advisor** — CPA Tech Newsletter (Oct 17). Highlights: AICPA practice aid on auditors' use of AI in financial statement audits (covers both client AI in reporting/controls and auditor use of AI tools); Xero launches a Google Gemini integration; "What to Settle Before Client Tax Data Touches AI" argues firms should decide in writing where client tax data may go; 2026 Innovation Awards announced; plus pieces on tool stacking and SEO-to-GEO. Free #EnsuringSuccess CPE event Dec 9-10 (up to 14 CPE hours, 5 IRS CE). https://ensuringsuccess.com
+
+**CPA Trendlines** — Oct 16 issue: "How to Assess Your Firm's Performance" (firm benchmarking and management). Nothing else from Trendlines or Trendlines Academy in the last 48 hours.
+
+**IRS Tax Products** — Oct 16 early releases posted: Instructions for Forms 1094-C/1095-C, Instructions for Form 8960 (NIIT), and Instructions for Schedule B (Form 1116). Drafts only, do not rely on them for filing.
+
+**NATP and Drake Software / Taxing Subjects:** nothing new in the last 48 hours. Other tax-adjacent mail: Bradford Tax Institute (home-sale exclusion for couples; S corp salary webinar) and CCH CPELink (OIC half-day webinar, 4 CPE, Tuesday 11 a.m. ET).
 
 ## Tasks
 
-Todoist shows three open items, all overdue: **Weekly catch up max** (recurring weekly, last due Oct 8; "discuss current and upcoming jobs"), **Meeting with Laura** (due Aug 25; "need to have the analytic review in better shape"), and **Get Regions Bank login** (due Aug 25). Nothing is due today.
+Todoist shows no tasks due today. Three items are overdue: Weekly catch up with Max (due Oct 8, recurring weekly), Meeting with Laura about getting the analytic review in better shape (Aug 25), and Get Regions Bank login (Aug 25).
 
 ## Focus for Today
 
-It's a rained-out Saturday, so use the found time well. Do one thing: knock out the two small overdue items (Regions login, reschedule or hold the catch-up with Max) and file away Dad's stock-loss attachment before Monday.
+It is a quiet Sunday with a clear calendar. Use an hour to clear the overdue Todoist items, confirm your CPE hours ahead of the Dec 31 license renewal, and handle the Bank of America payment-plan notice so Monday starts clean.
 
 ## AI Tip
 
-When you paste a client email thread into Claude, end with: "List every explicit ask, deadline, dollar figure, and attachment, then flag anything I haven't answered." Forcing the extraction step first keeps the summary from glossing over the one date or number that matters.
+When you ask an AI to summarize a long tax update, paste the source text and ask it to list only what changes for your clients, with the effective date and a citation to the paragraph. Then ask it to flag anything it inferred rather than read. This keeps summaries auditable.
 
-*A PDF version of this briefing was also saved to the AgentHub folder as daily-briefing-2026-10-17.pdf.*
+A PDF version of this briefing was also saved as daily-briefing-2026-10-18.pdf in the AgentHub folder.
