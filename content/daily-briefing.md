@@ -1,64 +1,60 @@
 ---
-title: Daily Briefing. October 18, 2026
+title: Daily Briefing. October 19, 2026
 emoji: 📅
 category: tools
-updated: 2026-10-18
+updated: 2026-10-19
 ---
-
-Briefing for Sunday, October 18, 2026.
 
 ## Calendar
 
-Nothing on the calendar today (Sunday). Google Calendar and Outlook both show no events.
+Monday, October 19. Nothing on the Google calendar or the Outlook calendar today.
 
-## Email — Personal/Client
+## Email — Personal / Client
 
-Monte Vista Ranch LC sent an e-check for $3,000.00 (October 2026, check #VV964) on Oct 16. Two mobile deposits were received Saturday, $3,000.00 to checking 6595 and $1,600.00 to Business Adv Fundamentals 5744. Both credit on Mon 10/19.
+No client or business threads surfaced in the last 24 hours. Items worth a look:
 
-Florida DBPR general reminder (Oct 16): your CPA license expires December 31, 2026 and the CPE Reporting Tool is open for the 2024-2026 period. Confirm your CPE hours are logged before the deadline.
+**Faust Wertz** sent "Saturday October 24 Golf": 5 tee times starting at 8:10 AM, reply by tomorrow (Tuesday) if you want to play; the first 20 to respond are guaranteed. Jay Fergeson has already replied-all that he's in.
 
-TreasuryDirect reminder: set up ID.me by October 28, 2026. You also emailed yourself "MA ID.ME" on Oct 16, which looks related.
+**Lawngevity** (ADMIN@lawngevity.com) sent a service invoice for work on your property. Unread, marked important.
 
-Bank of America (Oct 16) says action is needed: set up a new payment plan for a credit card to avoid a missed payment and late fees. Citi also sent a Home Depot card minimum-payment alert. An automatic $50 payment to Chase cards was scheduled for 11/13.
+**Golf Genius:** Crouch Group tee sheet for tomorrow, Tuesday 10/20 (Doug Crouch says a final tee sheet and game details arrive tomorrow morning). Holden Group tee sheet for Wednesday 10/21 was also updated over the weekend (pairings and tees changed).
 
-Plaud: your Note Pro / Plaud Web account was set up Oct 16-17 and the free trial ends October 24.
+**Bank of America:** two mobile check deposits from Saturday ($3,000 and $1,600) post today, 10/19.
 
-Google security alert: new sign-in on dennis@modrakcpa.com (Oct 17). Google Workspace also posted quarterly security recommendations. Worth a quick check that the sign-in was you.
+**Beneva Family Practice** sent an upcoming-appointment confirmation request.
 
-Laurel Oak golf: course and practice areas OPEN today. You were moved off the waitlist into Round 2. Round 4 on Fri Oct 23 is still waitlisted (16 confirmed, 6 waitlisted).
-
-PCM Networking receipt for $400.50 (Oct 16). Verizon bill is ready and on Auto Pay.
+Everything else was newsletters and promos.
 
 ## Industry News
 
-**Checkpoint (Thomson Reuters)** — The PPC Accounting and Auditing Update, November 2026 (Oct 16). Three articles, all open to full text in Checkpoint:
+**Checkpoint (Thomson Reuters)** — checked by name and domain; two mailings today.
 
-1. FinCEN Makes It Final: BOI Reporting Ends for U.S. Companies. In August 2026 FinCEN issued a final rule that permanently ends Beneficial Ownership Information reporting by U.S. companies and U.S. persons under the Corporate Transparency Act. https://checkpoint.riag.com/app/Search?ods=PPCAAU&TEMPLATEQUERY=%3DArticle%3AID%3D%22PPCAAU:****d48b4c35a2f6833%22&doconly=y
+- [PCAOB investor advisory panel to discuss audit inspection overhaul](https://checkpoint.riag.com/app/doc?id=I0dd79540c98d11f1b9e6e33d3d9b7865&feature=tnews): the PCAOB Investor Advisory Group meets this week to discuss proposed modernization of the audit inspection program and will highlight decision-useful critical audit matters from recent audit reports.
+- [FASB seeks comment on 2027 taxonomy reference changes](https://checkpoint.riag.com/app/doc?id=Iece6e0f0c97011f19ce8ba6109e85d93&feature=tnews): staff proposed changes to XBRL tags across 25 accounting topics and industries. Comments are due November 2.
+- [Rule on credit and debit card payment of tax finalized](https://checkpoint.riag.com/app/doc?id=Ib857dc20c96d11f18bb9975a2717bfee&feature=tnews): the IRS can now accept card payments directly rather than routing taxpayers to third-party processors, implementing the 2019 Taxpayer First Act.
+- [Nonprofits could ditch a costly yearly goodwill test](https://checkpoint.riag.com/app/doc?id=I5a47fa30c97111f1ba22ff7171922d84&feature=tnews): advisers to FASB backed sparing nonprofits the annual goodwill impairment test, but said the savings depend on auditors easing their demands.
+- Disaster relief: [Nebraska storm victims](https://checkpoint.riag.com/app/doc?id=I69786020c8d211f1a327bcc247aab7f8&feature=tnews) have until January 7, 2027 for various returns and payments; [West Virginia storm and flood victims](https://checkpoint.riag.com/app/doc?id=Ica98ba90c8c711f1ad0cb75681cc9b8b&feature=tnews) have until February 4, 2027.
+- [November 2026 Applicable Federal Rates released](https://checkpoint.riag.com/app/doc?id=I64e00450c97711f18bc6e54522f06763&feature=tnews).
+- [IRS webinar on refundable credits](https://checkpoint.riag.com/app/doc?id=I7d134f10c8d611f195eefe4da7189f9d&feature=tnews), October 21, worth up to 1 CE credit.
 
-2. Fraud Risk in 2026 Planning: What the Comment Letters Say about Brainstorming. The AICPA ASB approved SAS No. 151 in August 2026, superseding AU-C 240. It is effective for audits of periods ending on or after Dec 15, 2028, with early implementation permitted. Until then AU-C 240 governs, but the exposure-draft comment letters show likely pressure points for 2026 audit planning. https://checkpoint.riag.com/app/Search?ods=PPCAAU&TEMPLATEQUERY=%3DArticle%3AID%3D%22PPCAAU:****aec2070ab00225a%22&doconly=y
+**Checkpoint Five-Minute Tax Briefing (PPC), items for Friday 10/16:** the IRS issued proposed regulations (REG-101576-26) implementing 2025 Act changes to the premium tax credit. They strengthen Exchange verification of citizenship, residency and household income starting in tax years after 12/31/27, clarify that people ineligible for Medicaid only because they fail community engagement requirements are treated as having minimum essential coverage (so no PTC), and, for tax years after 12/31/25, remove the cap on repayment of excess advance PTC, so the full excess increases tax liability.
 
-3. Roundup of Standards That Will Soon Be Effective. A heads-up and brief overview of standards and guidance about to take effect. https://checkpoint.riag.com/app/Search?ods=PPCAAU&TEMPLATEQUERY=%3DArticle%3AID%3D%22PPCAAU:****d57ea3d9a67665d%22&doconly=y
+**CPA Trendlines Academy:** promoting four 1.5-hour working sessions on building CAS capacity with your own firm's data; early-bird price of $149 ends today, Oct 19.
 
-**Accounting Today** — Best of the Week (Oct 17). Top reads: Tax Strategy: IRS identifies transactions of potential concern; IRS teams with DOJ on a tax-fraud enforcement surge; CPA-only requirements on the wane (ownership/licensure trend); Social Security to increase benefits 3.6% in 2027 (COLA); CohnReznick acquires Aldrich. The email links are tracking links, so find these on accountingtoday.com. Also a CPA-only day at PE Summit on Nov 17.
+**Other professional mail:** Arizent promotes a CPA-only day at PE Summit on November 17; NTI's Fall CPE Conference at the Four Seasons Naples runs Oct 25-31 (24-40 CPEs).
 
-**CPA Practice Advisor** — CPA Tech Newsletter (Oct 17). Highlights: AICPA practice aid on auditors' use of AI in financial statement audits (covers both client AI in reporting/controls and auditor use of AI tools); Xero launches a Google Gemini integration; "What to Settle Before Client Tax Data Touches AI" argues firms should decide in writing where client tax data may go; 2026 Innovation Awards announced; plus pieces on tool stacking and SEO-to-GEO. Free #EnsuringSuccess CPE event Dec 9-10 (up to 14 CPE hours, 5 IRS CE). https://ensuringsuccess.com
-
-**CPA Trendlines** — Oct 16 issue: "How to Assess Your Firm's Performance" (firm benchmarking and management). Nothing else from Trendlines or Trendlines Academy in the last 48 hours.
-
-**IRS Tax Products** — Oct 16 early releases posted: Instructions for Forms 1094-C/1095-C, Instructions for Form 8960 (NIIT), and Instructions for Schedule B (Form 1116). Drafts only, do not rely on them for filing.
-
-**NATP and Drake Software / Taxing Subjects:** nothing new in the last 48 hours. Other tax-adjacent mail: Bradford Tax Institute (home-sale exclusion for couples; S corp salary webinar) and CCH CPELink (OIC half-day webinar, 4 CPE, Tuesday 11 a.m. ET).
+**Accounting Today, CPA Practice Advisor, NATP, Drake / Taxing Subjects:** nothing new in the last 48 hours.
 
 ## Tasks
 
-Todoist shows no tasks due today. Three items are overdue: Weekly catch up with Max (due Oct 8, recurring weekly), Meeting with Laura about getting the analytic review in better shape (Aug 25), and Get Regions Bank login (Aug 25).
+Nothing is due today in Todoist. Three older tasks are still open and show as overdue: Weekly catch up with Max (recurring, last due Oct 8), Meeting with Laura about getting the analytic review in better shape (Aug 25), and Get Regions Bank login (Aug 25).
 
 ## Focus for Today
 
-It is a quiet Sunday with a clear calendar. Use an hour to clear the overdue Todoist items, confirm your CPE hours ahead of the Dec 31 license renewal, and handle the Bank of America payment-plan notice so Monday starts clean.
+Clear the three overdue Todoist items or consciously reschedule them, and answer Faust on Saturday's golf before tomorrow.
 
 ## AI Tip
 
-When you ask an AI to summarize a long tax update, paste the source text and ask it to list only what changes for your clients, with the effective date and a citation to the paragraph. Then ask it to flag anything it inferred rather than read. This keeps summaries auditable.
+When you ask an AI to summarize a long client email thread, ask it to list only open questions, dollar amounts, and deadlines, each tagged with who owns it. You get an action list instead of a recap.
 
-A PDF version of this briefing was also saved as daily-briefing-2026-10-18.pdf in the AgentHub folder.
+A PDF version of this briefing was also saved (daily-briefing-2026-10-19.pdf).
