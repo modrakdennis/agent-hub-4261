@@ -1,60 +1,48 @@
 ---
-title: Daily Briefing. October 19, 2026
+title: Daily Briefing. October 20, 2026
 emoji: 📅
 category: tools
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 ## Calendar
 
-Monday, October 19. Nothing on the Google calendar or the Outlook calendar today.
+Tuesday, October 20. Nothing on the Google calendar or the Outlook calendar today.
 
 ## Email — Personal / Client
 
-No client or business threads surfaced in the last 24 hours. Items worth a look:
+**Amanda Mendenhall (EM Founders Group)** forwarded "FW: Walden" (Oct 19, unread). Keith Durkin of Baker Hostetler recommended three estate planners in the Orlando area; contact cards are attached. She sent it to you and Tiffany; no explicit ask, but it looks like something to pass along or act on.
 
-**Faust Wertz** sent "Saturday October 24 Golf": 5 tee times starting at 8:10 AM, reply by tomorrow (Tuesday) if you want to play; the first 20 to respond are guaranteed. Jay Fergeson has already replied-all that he's in.
+**Max Modrak** forwarded an "Invoices" thread to Tiffany Walden, cc you (Oct 19). It is a June 10 note from Andrew Zorbis saying the attached invoices were ones he already paid. No ask of you, but worth knowing Max is working that with Tiffany.
 
-**Lawngevity** (ADMIN@lawngevity.com) sent a service invoice for work on your property. Unread, marked important.
+**Faust Wertz**, "Saturday October 24 Golf": five tee times starting 8:10, and he wanted responses by Tuesday (today). Jay Ferguson already replied that he'd like to play.
 
-**Golf Genius:** Crouch Group tee sheet for tomorrow, Tuesday 10/20 (Doug Crouch says a final tee sheet and game details arrive tomorrow morning). Holden Group tee sheet for Wednesday 10/21 was also updated over the weekend (pairings and tees changed).
+Golf Genius: Crouch Group final tee sheet for today (game is $25, Brice running it), and Holden Group tee sheet for Wednesday Oct 21 (pairings and tees were revised).
 
-**Bank of America:** two mobile check deposits from Saturday ($3,000 and $1,600) post today, 10/19.
+**Cool Today** confirmed an appointment at 4261 Marlowe Drive for Tuesday, November 3, 8:00 AM to 12:00 PM.
 
-**Beneva Family Practice** sent an upcoming-appointment confirmation request.
-
-Everything else was newsletters and promos.
+Everything else in the last 24 hours was newsletters, promos and account notices (Schwab, WSJ, TLDR, Rundown AI, Plaud, Marriott and similar).
 
 ## Industry News
 
-**Checkpoint (Thomson Reuters)** — checked by name and domain; two mailings today.
+**Checkpoint (Thomson Reuters)** — two issues arrived this morning.
 
-- [PCAOB investor advisory panel to discuss audit inspection overhaul](https://checkpoint.riag.com/app/doc?id=I0dd79540c98d11f1b9e6e33d3d9b7865&feature=tnews): the PCAOB Investor Advisory Group meets this week to discuss proposed modernization of the audit inspection program and will highlight decision-useful critical audit matters from recent audit reports.
-- [FASB seeks comment on 2027 taxonomy reference changes](https://checkpoint.riag.com/app/doc?id=Iece6e0f0c97011f19ce8ba6109e85d93&feature=tnews): staff proposed changes to XBRL tags across 25 accounting topics and industries. Comments are due November 2.
-- [Rule on credit and debit card payment of tax finalized](https://checkpoint.riag.com/app/doc?id=Ib857dc20c96d11f18bb9975a2717bfee&feature=tnews): the IRS can now accept card payments directly rather than routing taxpayers to third-party processors, implementing the 2019 Taxpayer First Act.
-- [Nonprofits could ditch a costly yearly goodwill test](https://checkpoint.riag.com/app/doc?id=I5a47fa30c97111f1ba22ff7171922d84&feature=tnews): advisers to FASB backed sparing nonprofits the annual goodwill impairment test, but said the savings depend on auditors easing their demands.
-- Disaster relief: [Nebraska storm victims](https://checkpoint.riag.com/app/doc?id=I69786020c8d211f1a327bcc247aab7f8&feature=tnews) have until January 7, 2027 for various returns and payments; [West Virginia storm and flood victims](https://checkpoint.riag.com/app/doc?id=Ica98ba90c8c711f1ad0cb75681cc9b8b&feature=tnews) have until February 4, 2027.
-- [November 2026 Applicable Federal Rates released](https://checkpoint.riag.com/app/doc?id=I64e00450c97711f18bc6e54522f06763&feature=tnews).
-- [IRS webinar on refundable credits](https://checkpoint.riag.com/app/doc?id=I7d134f10c8d611f195eefe4da7189f9d&feature=tnews), October 21, worth up to 1 CE credit.
+*Checkpoint News, 10/20/2026.* Top stories: a federal judge in Arizona refused to dismiss the SEC's accounting and disclosure fraud case against former Ammo Inc. executives, who are accused of concealing a sanctioned co-founder's role and misleading investors ([article](https://checkpoint.riag.com/app/doc?id=I6e316700cbd511f1aef8d04f378955f3&feature=tnews&nlEmailId=Art-RIA-261020)). A tax attorney advises scholarship groups to set up entities, conflict-of-interest policies and spending controls now for the new federal scholarship tax credit launching January 1, 2027 ([article](https://checkpoint.riag.com/app/doc?id=I019176b0cbdc11f1b650dd40ef3ca785&feature=tnews&nlEmailId=Art-RIA-261020)). Federal news: a GAO report urges the IRS to strengthen its efforts against "ghost preparers" ([article](https://checkpoint.riag.com/app/doc?id=I9d531ad0cb1f11f18252817d0b70cb3d&feature=tnews&nlEmailId=Art-RIA-261020)); the IRS kicked off 2026 Tax Professional Awareness Week with tools ahead of the 2027 filing season ([article](https://checkpoint.riag.com/app/doc?id=Ib0f56b40cbbc11f1bc58a708d78f3b39&feature=tnews&nlEmailId=Art-RIA-261020)); the IRS posted draft 2027 Forms W-2 and W-2c with a new Saver's Match Destination Number field, still reporting cash tips, qualified overtime and Trump account contributions, and not for filing yet ([article](https://checkpoint.riag.com/app/doc?id=I07160420c31c11f1bb15b4ae6e54d565&feature=tnews&nlEmailId=Art-RIA-261020)); October 2026 Applicable Federal Rates were released ([article](https://checkpoint.riag.com/app/doc?id=I0f885280b39411f18ed6c3709cac3099&feature=tnews&nlEmailId=Art-RIA-261020)). State news: Florida's Department of Revenue is following IRS hurricane relief on corporate income/franchise tax due dates ([article](https://checkpoint.riag.com/app/doc?id=Ib628c7f0cbae11f1bee7accc3c7d1e3f&feature=tnews&nlEmailId=Art-RIA-261020)).
 
-**Checkpoint Five-Minute Tax Briefing (PPC), items for Friday 10/16:** the IRS issued proposed regulations (REG-101576-26) implementing 2025 Act changes to the premium tax credit. They strengthen Exchange verification of citizenship, residency and household income starting in tax years after 12/31/27, clarify that people ineligible for Medicaid only because they fail community engagement requirements are treated as having minimum essential coverage (so no PTC), and, for tax years after 12/31/25, remove the cap on repayment of excess advance PTC, so the full excess increases tax liability.
+*Five-Minute Tax Briefing, No. 2026-20.* The IRS and Treasury issued temporary and proposed regulations for the new Sec. 25F Federal Scholarship Tax Credit: up to $1,700 per individual for cash contributions to certified scholarship granting organizations, donor numbers reported on Form 8525, temporary rules effective 9/1/26 and proposed rules relied on for contributions from 1/1/27. For the 2026 W-2c, Box 14 splits into 14a and 14b (Treasury Tipped Occupation Codes), and employers required to e-file original W-2s must e-file W-2c corrections unless waived (Rev. Proc. 2026-29). The IRS reminded tax pros during Cybersecurity Awareness Month that a Written Information Security Plan is required by law and urged use of Tax Pro Account and multifactor authentication. Rev. Proc. 2026-20 updates the safe harbor for grantor trusts that stake digital assets, with six months from 10/6/26 to comply. The IRS launched a new IRS app replacing IRS2Go, and issued Israel/West Bank/Gaza relief postponing deadlines to 9/30/27 (Notice 2026-63).
 
-**CPA Trendlines Academy:** promoting four 1.5-hour working sessions on building CAS capacity with your own firm's data; early-bird price of $149 ends today, Oct 19.
-
-**Other professional mail:** Arizent promotes a CPA-only day at PE Summit on November 17; NTI's Fall CPE Conference at the Four Seasons Naples runs Oct 25-31 (24-40 CPEs).
-
-**Accounting Today, CPA Practice Advisor, NATP, Drake / Taxing Subjects:** nothing new in the last 48 hours.
+**Accounting Today, CPA Trendlines / Academy, CPA Practice Advisor, NATP, Drake / Taxing Subjects, taxprof.thomsonreuters.com:** nothing new in the last 24 to 48 hours. The most recent items found were a CPA Trendlines edition on October 16 ("How to Assess Your Firm's Performance") and Accounting Today on October 6 (senators asking the IRS to drop the immigration status question from Form 1040). The IRS also sent "Recent Developments for Tax Products" on 10/19.
 
 ## Tasks
 
-Nothing is due today in Todoist. Three older tasks are still open and show as overdue: Weekly catch up with Max (recurring, last due Oct 8), Meeting with Laura about getting the analytic review in better shape (Aug 25), and Get Regions Bank login (Aug 25).
+Nothing is due today in Todoist, but three items are overdue: "Weekly catch up max" (recurring, was due Oct 8), "Meeting with Laura" (analytic review, due Aug 25) and "Get Regions Bank login" (due Aug 25).
 
 ## Focus for Today
 
-Clear the three overdue Todoist items or consciously reschedule them, and answer Faust on Saturday's golf before tomorrow.
+Clear the three overdue Todoist items first, either do them or reschedule them honestly, then give the Walden estate planner referrals a quick forward or reply before the day fills up.
 
 ## AI Tip
 
-When you ask an AI to summarize a long client email thread, ask it to list only open questions, dollar amounts, and deadlines, each tagged with who owns it. You get an action list instead of a recap.
+When you paste a long email thread to an AI, ask it to "list every explicit ask, who owns it, and the deadline" before asking for a draft reply. You get a checklist you can verify first, and the reply that follows is much tighter.
 
-A PDF version of this briefing was also saved (daily-briefing-2026-10-19.pdf).
+_A PDF version of this briefing was also saved to the AgentHub folder as daily-briefing-2026-10-20.pdf._
