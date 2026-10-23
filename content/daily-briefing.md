@@ -1,50 +1,54 @@
 ---
-title: Daily Briefing. October 21, 2026
+title: Daily Briefing. October 23, 2026
 emoji: 📅
 category: tools
-updated: 2026-10-21
+updated: 2026-10-23
 ---
 
 ## Calendar
 
-No events on your Google or Outlook calendars today.
+No events on your Google or Outlook calendars for today (Friday). One thing to confirm: Penny at EM Founders Group sent a Teams invite Thursday titled "Teams Meeting with Max, Dennis, Tiffany and ABM (10 UT time/Noon FL time)". It is not on either calendar and the date is not clear from the email, so check whether it is today at noon.
 
 ## Email — Personal/Client
 
-No client emails in the last 24 hours that carry a request, number or deadline. Nothing from clients was sitting read or unread in either mailbox.
+Max Modrak forwarded (Thu) a 1031 replacement-property deck from Robert Farnsworth, a Utah broker. It is a private voting site where you, Tiffany and Amanda swipe through candidate properties, plus a 1031.xlsx spreadsheet. Robert asked for feedback. Your login is in the original email. This likely ties to the noon Teams meeting.
 
-Max Modrak sent "Home building analysis" (Tue 5:39 PM) with a ChatGPT share link and the note "Scroll to the bottom portion. AI is amazing." Worth a look when you have a minute.
+Google security: Google flagged a new Windows sign-in to dennis@modrakcpa.com on Thursday around 4:20 PM ET and a message that the account was recovered. Worth confirming that was you. OpenAI also logged a new ChatGPT sign-in from the Fruitville area at 10:00 PM Thursday.
 
-PTIN renewal: the IRS (taxpros@ptin.irs.gov) says 2027 PTINs must be renewed before Dec. 31. NSTP lists online renewal at $18.75, about 15 minutes.
+ChatGPT Business for the Modrakcpa workspace renews Oct. 29 (1 Premium seat and 1 Standard seat).
 
-IRS Tax Tip 2026-75 (Tax Professional Awareness Week): reminders on phishing, MFA, keeping your Written Information Security Plan current and using Tax Pro Account to manage CAF authorizations.
+Surgent CPE: the Year-End A&A Update is Oct. 28, an 8-credit day covering leases, quality management, new SASs and ASUs. Bradford Tax Institute and Florida sales-tax attorney David Brennan (exemption-certificate audit risk) also sent items worth a skim.
 
-IRS Notice 2026-65 (October interest rates / 417(e) segment rates) and the IRS e-News for Small Business 2026-22 also arrived, along with several IRS "Recent Development for Tax Products" updates.
-
-Personal: Bank of America Zelle confirmation, $800.00 sent to Christy McKendree (Tue evening) - confirm that was you. Amex October statement is ready, and Amex shows a $55.26 Amazon refund credit. Laurel Oak sent a Pond 9 fish kill update (Jones Course) and a memorial notice; Link Game for today was posted.
+Personal: Laurel Oak reports the tee sheet (Clubessential) is down again this morning. Holden Group Weds 10/28 is full with a waitlist. Everything else was promotional or newsletters.
 
 ## Industry News
 
-Checkpoint (Thomson Reuters): Five-Minute Tax Briefing, preview issue 2026-21 (item dated Oct. 20). The IRS and Treasury issued final regulations (TD 10059) on Sec. 357(c) for consolidated groups. A transferee's assumption of certain liabilities does not reduce the transferor's basis in the transferee's stock in a consolidated group transaction; Reg. 1.1502-80(d)(1) now says Sec. 357(c) does not apply to transactions governed by Reg. 1.1502-13, such as intragroup Sec. 351 exchanges. The rules follow the 2024 proposal (REG-134420-10) with non-substantive changes, are effective 10/16/26, and apply to consolidated return years whose unextended due date is after 10/16/26. Link: https://checkpoint.riag.com (the newsletter links out to the full item inside Checkpoint).
+Checkpoint (Thomson Reuters), daily and weekly editions received this morning. Top stories:
 
-CPA Practice Advisor, Tax Practice Newsletter: "IRS Proposal to Reduce Tax Credit Fraud." The email body arrived with its article feed unrendered, so only the lead item came through: the IRS announced plans for Tax Professional Awareness Week. The newsletter also promotes a webcast on deploying AI safely in firms and Ensuring Success 2026 (Dec. 9-10), up to 14 free CPE hours or 5 IRS CE hours. Link: https://www.cpapracticeadvisor.com
+Mid-tier audit firms show sharp improvements in latest PCAOB inspection reports. Several firms cut Part I.A deficiency rates by more than half versus the prior year. https://checkpoint.riag.com/app/doc?id=If82e0910ce5311f19534b9cea29cfab8&feature=tnews
 
-NSTP Tax TidBits, "Renew Your PTIN for 2027": (1) PTIN renewal is open, $18.75 online. (2) The IRS has begun automatic refunds for 50,000+ taxpayers with prior-year adoption-credit carryforwards, generally without amended returns. (3) New scholarship granting organization (SGO) credit starting 2027, up to $1,700 for eligible cash contributions in participating states. (4) Social Security COLA of 3.6% for 2027, about $75 more per month on average. Articles require an NSTP login. Link: https://nstp.org/article/ptin-renewal-open
+FASB proposes a revenue test affecting shopper credits and 0% financing offers. Companies that now book these as expenses could report lower revenue. Comments are due Nov. 23, 2026. https://checkpoint.riag.com/app/doc?id=If842a280ce5311f1a264bfeb39055500&feature=tnews
 
-CPA Trendlines / Academy: CPA Trendlines Academy offered "5 Defined Benefit questions your top clients will ask" (a CPA's guide to defined benefit plans with David Podell). Two CPA Trendlines promo emails pushed CAS workflows and Ed Mendlowitz practice management answers - promotional, no news content.
+IRS eases reporting and recordkeeping on dyed diesel. Penalties are waived retroactive to Oct. 1 through Dec. 31, 2026, with no inspections or end-use documentation required, federal only; Form 720 and Sec. 7508A postponement guidance is expected (IR-2026-122). https://checkpoint.riag.com/app/doc?id=Iaeb1d620ce2811f19dea9b41d109ed6f&feature=tnews
 
-NATP: only promotional mail (virtual tax season updates, a cost segregation offer) - no news content. Accounting Today: nothing in the last 48 hours. Drake Software / Taxing Subjects: nothing in the last 48 hours.
+Tax Court denies $39 million in historic preservation deductions. Two partnerships' façade easements failed to protect the conservation purpose in perpetuity. https://checkpoint.riag.com/app/doc?id=I8416ba20ce5511f1b3168b94c39a1155&feature=tnews
+
+Also in the weekly edition: tax pros urge annual reasonable-compensation reviews for S corps (California uses algorithms to flag low salaries); year-end payroll error warnings; state payroll audits focusing on remote workers and compensation sourcing; and scholarship groups preparing for the new federal scholarship tax credit effective Jan. 1, 2027. Other headlines: FASB eased hedging rules for held-to-maturity bonds, SEC staff eased registration of employee stock awards, and IFAC released six principles on accountant wellbeing.
+
+CPA Practice Advisor: the SMB newsletter ("AI & Ethics in Accounting Firms", Oct. 22) arrived with its article feed unrendered. Only the 40 Under 40 nominations spotlight and a plug for Ensuring Success 2026 came through. Headline visible in the preview: CEO confidence falls for a third straight quarter. https://www.cpapracticeadvisor.com
+
+CPA Trendlines: only a promo for Ed Mendlowitz practice-management answers; no news content. Accounting Today, NATP, and Drake Software / Taxing Subjects: nothing in the last 48 hours.
 
 ## Tasks
 
-Todoist shows three open items, all overdue: Weekly catch up with Max (recurring, was due Oct. 8; discuss current and upcoming jobs), Meeting with Laura (due Aug. 25; the analytic review needs to be in better shape), and Get Regions Bank login (due Aug. 25). Nothing is scheduled for today itself.
+Todoist shows three open items, all overdue and none due today: Weekly catch up with Max (recurring, was due Oct. 8; discuss current and upcoming jobs), Meeting with Laura (due Aug. 25; analytic review needs to be in better shape), and Get Regions Bank login (due Aug. 25).
 
 ## Focus for Today
 
-A clear calendar is a gift. Use the open hours to clear the two oldest overdue items, then renew your 2027 PTIN while it is on your mind.
+Clear the noon 1031 conversation first: skim the property deck before the call so your feedback is ready, then use the afternoon to close out one of the overdue Todoist items.
 
 ## AI Tip
 
-When you paste a long email thread into an AI assistant, ask it to "list every explicit ask, number and deadline, then draft a two-line reply for each." You get a checklist and replies in one pass instead of rereading the thread.
+When you paste a spreadsheet like the 1031 comp sheet into an AI tool, ask it to first list the assumptions it sees (cap rates, lease terms, tenant credit) and flag missing fields before it summarizes. Catching a bad assumption up front beats reading a polished summary built on it.
 
-*A PDF version was also saved as daily-briefing-2026-10-21.pdf.*
+A PDF version of this briefing was also saved (daily-briefing-2026-10-23.pdf).
