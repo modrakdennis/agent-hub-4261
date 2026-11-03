@@ -1,54 +1,56 @@
 ---
-title: Daily Briefing. October 23, 2026
+title: Daily Briefing. November 3, 2026
 emoji: 📅
 category: tools
-updated: 2026-10-23
+updated: 2026-11-03
 ---
 
 ## Calendar
 
-No events on your Google or Outlook calendars for today (Friday). One thing to confirm: Penny at EM Founders Group sent a Teams invite Thursday titled "Teams Meeting with Max, Dennis, Tiffany and ABM (10 UT time/Noon FL time)". It is not on either calendar and the date is not clear from the email, so check whether it is today at noon.
+One item today: the ABM call with John Sellers (Bennett Tueller Johnson & Deere), Amanda Mendenhall and EM Founders, at 5:00 PM ET (3:00 MT). Amanda will call your cell and merge the call; it is marked tentative on your Outlook calendar. Your Google calendar is clear. You also accepted the invite for the in-person UT Geothermal meeting with MVR, QTS, Baker Hughes and Holland in Orlando (Tom Rogers, Holland; invite forwarded by Tiffany today; date is in the invite).
 
 ## Email — Personal/Client
 
-Max Modrak forwarded (Thu) a 1031 replacement-property deck from Robert Farnsworth, a Utah broker. It is a private voting site where you, Tiffany and Amanda swipe through candidate properties, plus a 1031.xlsx spreadsheet. Robert asked for feedback. Your login is in the original email. This likely ties to the noon Teams meeting.
+John Sellers (BTJD) emailed and left a voicemail asking you to call him at (801) 870-0594 or (801) 438-2048 about the Zorbis waiver. Amanda had asked him to speak with you before you presented it to Andy. This ties into today's 5 PM call, and Amanda also noted Jason is resigning from everything, including successor manager of ZJT, in the purchase and sale agreement.
 
-Google security: Google flagged a new Windows sign-in to dennis@modrakcpa.com on Thursday around 4:20 PM ET and a message that the account was recovered. Worth confirming that was you. OpenAI also logged a new ChatGPT sign-in from the Fruitville area at 10:00 PM Thursday.
+Dale Ott (Vitil Solutions) asked for your input: Kathy wants to be bought out of the 50/50 Vitil and Southbay. His initial thinking: Vitil depends on an annual school-district PO so valuation is low; Kathy would keep drawing salary for 5+ years with no shareholder distributions (she wants a large upfront sum, which he sees as no more than one year of salary); Southbay owns the building, perhaps worth about $900K, and he could mortgage to buy her half; the cash balance plan is being closed and rolled into individual 401(k)s. He wants your involvement to make it fair for both sides.
 
-ChatGPT Business for the Modrakcpa workspace renews Oct. 29 (1 Premium seat and 1 Standard seat).
+Marcus Newton (Xact Books, 2025 taxes) replied Monday that he will recut and resend the IRS payment you said had not arrived (you flagged it Sunday). Worth a check later this week that it lands.
 
-Surgent CPE: the Year-End A&A Update is Oct. 28, an 8-credit day covering leases, quality management, new SASs and ASUs. Bradford Tax Institute and Florida sales-tax attorney David Brennan (exemption-certificate audit risk) also sent items worth a skim.
+Bill Harvey (Allied Molded) forwarded the fully executed seller closing documents for the Crusader 5088 sale to Tamiami Commercial Properties LLC (closed and funded Oct 30; zip attached). Likely needed for the tax/basis side.
 
-Personal: Laurel Oak reports the tee sheet (Clubessential) is down again this morning. Holden Group Weds 10/28 is full with a waitlist. Everything else was promotional or newsletters.
+Tiffany Walden sent you EM Commercial, Industrial & Residential Sales (Confidential).xlsx earlier today, and you forwarded the Christine RICO settlement copy; those are from you to you, no action unless you wanted a reminder.
+
+Family and personal: Joe Deckman followed up on 226 Sky Lake and wants to know what your group thinks (Mary Ann forwarded); Elizabeth Adorjan sent 196 Fern Loop info, virtual tour, rental history and 2026 Rumbling Bald POA dues; Faust Wertz has you as 2nd alternate for Saturday's game; Cool Today technician was at the house this morning (invoice received). Surgent CPE certificate for the Annual Update (AAU4) is available. Skipped: retail, promos, golf tee sheets, generic alerts.
 
 ## Industry News
 
-Checkpoint (Thomson Reuters), daily and weekly editions received this morning. Top stories:
+Checkpoint (Thomson Reuters): Checkpoint News for Nov 2 arrived (nothing newer than that in the last 24h).
+- IRS CEO Frank Bisignano says the agency will make aggressive use of 'super intelligence' in 2027 to speed taxpayer service and collections. https://checkpoint.riag.com/app/doc?id=I448f3830d48d11f1ab6bca4e8351a132&feature=tnews
+- OCC finalized its GENIUS Act rule for payment stablecoin issuers: monthly public reserve reports examined by PCAOB-registered firms, and annual audits for larger issuers. https://checkpoint.riag.com/app/doc?id=Iaa2be770d48c11f1b60adbbd4ab9de7e&feature=tnews
+- Tax pros at a Stinson webinar (Oct 28) on limited partner self-employment tax cases (shifting appellate standards), the new Trump accounts for children, and changing fast-track dispute resolution procedures. https://checkpoint.riag.com/app/doc?id=I3fb9f120d48711f1a21ba4abf3e722e8&feature=tnews
+- Also: IRS acquiesces to rulings letting generic drug makers deduct patent-defense legal costs; IRS rejects an acquisition price method tied to a prearranged option formula; TIGTA released its FY2027 program plan; a Texas preparer got 14 months for fabricated client business expenses; Election Day state income tax ballot measures and voting-leave rules for payroll.
 
-Mid-tier audit firms show sharp improvements in latest PCAOB inspection reports. Several firms cut Part I.A deficiency rates by more than half versus the prior year. https://checkpoint.riag.com/app/doc?id=If82e0910ce5311f19534b9cea29cfab8&feature=tnews
+Accounting Today (Nov 3): Grant Thornton completes its mammoth CBIZ acquisition; SEC approves the QC 1000 quality control changes. Tax Pro Today: private credit's tax headaches for investors; a former IRS Revenue Officer on what the IRS already knows about your client before you call; Microsoft adds 25 finance skills and partner plugins to Copilot for audit, tax and compliance.
 
-FASB proposes a revenue test affecting shopper credits and 0% financing offers. Companies that now book these as expenses could report lower revenue. Comments are due Nov. 23, 2026. https://checkpoint.riag.com/app/doc?id=If842a280ce5311f1a264bfeb39055500&feature=tnews
+CPA Trendlines (Nov 3): 'Zoho Freezes Raises as AI Costs Climb' headline; no other detail came through in the preview.
 
-IRS eases reporting and recordkeeping on dyed diesel. Penalties are waived retroactive to Oct. 1 through Dec. 31, 2026, with no inspections or end-use documentation required, federal only; Form 720 and Sec. 7508A postponement guidance is expected (IR-2026-122). https://checkpoint.riag.com/app/doc?id=Iaeb1d620ce2811f19dea9b41d109ed6f&feature=tnews
+CPA Practice Advisor: Tax Practice Newsletter, '3 Cyber Priorities Before Tax Season', with the article feed unrendered (template placeholders), plus a spotlight on the free Ensuring Success CPE event Dec 9-10 (up to 14 CPE hours / 5 IRS CE). Webinar 'Is AI Safe for Firms?' is tomorrow.
 
-Tax Court denies $39 million in historic preservation deductions. Two partnerships' façade easements failed to protect the conservation purpose in perpetuity. https://checkpoint.riag.com/app/doc?id=I8416ba20ce5511f1b3168b94c39a1155&feature=tnews
+NATP: 'Assisting Ministers with Tax Issues' webinar coming up; their other mail today was promotional.
 
-Also in the weekly edition: tax pros urge annual reasonable-compensation reviews for S corps (California uses algorithms to flag low salaries); year-end payroll error warnings; state payroll audits focusing on remote workers and compensation sourcing; and scholarship groups preparing for the new federal scholarship tax credit effective Jan. 1, 2027. Other headlines: FASB eased hedging rules for held-to-maturity bonds, SEC staff eased registration of employee stock awards, and IFAC released six principles on accountant wellbeing.
-
-CPA Practice Advisor: the SMB newsletter ("AI & Ethics in Accounting Firms", Oct. 22) arrived with its article feed unrendered. Only the 40 Under 40 nominations spotlight and a plug for Ensuring Success 2026 came through. Headline visible in the preview: CEO confidence falls for a third straight quarter. https://www.cpapracticeadvisor.com
-
-CPA Trendlines: only a promo for Ed Mendlowitz practice-management answers; no news content. Accounting Today, NATP, and Drake Software / Taxing Subjects: nothing in the last 48 hours.
+Drake / Taxing Subjects: promo only (tour Drake Tax, save $150). IRS Tax Products: 'Recent Developments for Tax Products' (11/3) and Tax Tip 2026-79 on the car loan interest deduction for new vehicle purchases. Also: FDIC letter on Call Report revisions (not relevant to your practice).
 
 ## Tasks
 
-Todoist shows three open items, all overdue and none due today: Weekly catch up with Max (recurring, was due Oct. 8; discuss current and upcoming jobs), Meeting with Laura (due Aug. 25; analytic review needs to be in better shape), and Get Regions Bank login (due Aug. 25).
+Nothing due today in Todoist, but three items are overdue: 'Weekly catch up max' (recurring weekly, last due 10/8), 'Meeting with Laura' (due 8/25, get the analytic review in better shape) and 'Get Regions Bank login' (due 8/25). The last two are over two months old, so do them or clear them.
 
 ## Focus for Today
 
-Clear the noon 1031 conversation first: skim the property deck before the call so your feedback is ready, then use the afternoon to close out one of the overdue Todoist items.
+Return John Sellers' call before the 5 PM ABM call so you walk in with your Zorbis waiver questions answered; then draft a short reply to Dale on the Vitil/Southbay buyout and ask what valuation inputs he already has.
 
 ## AI Tip
 
-When you paste a spreadsheet like the 1031 comp sheet into an AI tool, ask it to first list the assumptions it sees (cap rates, lease terms, tenant credit) and flag missing fields before it summarizes. Catching a bad assumption up front beats reading a polished summary built on it.
+For a buyout like Dale's, ask an AI to build a one-page term sheet comparison: give it the three levers (salary continuation, upfront cash, building mortgage) and ask for the after-tax result to each owner under two or three structures, with the assumptions listed. Check every figure yourself, but it is a quick way to frame the conversation.
 
-A PDF version of this briefing was also saved (daily-briefing-2026-10-23.pdf).
+*A PDF version was also saved: daily-briefing-2026-11-03.pdf*
