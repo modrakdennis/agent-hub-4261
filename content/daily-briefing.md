@@ -1,44 +1,52 @@
 ---
-title: Daily Briefing. November 4, 2026
+title: Daily Briefing. November 5, 2026
 emoji: 📅
 category: tools
-updated: 2026-11-04
+updated: 2026-11-05
 ---
 
 ## Calendar
 
-Nothing on your calendar today (Google and Outlook both clear). Note: the 3:00 MT ABM call with John Sellers that Penny Brown scheduled was canceled yesterday; Amanda Mendenhall's team said she would instead call from her cell and merge the call, so watch for a reschedule. Dale Ott also sent a calendar invite (invite.ics) titled "Dale Ott / Vitil and Southbay"; check your calendar for the proposed time.
+Weekly Catchup with Max Modrak, 11:00 AM to 12:00 PM ET (Teams, marked tentative on your Outlook calendar).
+
+UT Geothermal Meeting with MVR (forwarded by Tom Rogers), 12:00 PM to 4:00 PM ET at Hotel Beauden, 325 S Orange Ave, Orlando, Magnolia Room. Note the overlap with the Max catch-up, and that this is in Orlando. Attendees include Isabella Smythe, Michael Farina (Baker Hughes) and the EM Founders Group team.
+
+Google Calendar is clear today. Dale Ott's "Vitil and Southbay" invite (invite.ics, sent last night) is waiting for you to accept or propose a time.
 
 ## Email — Personal/Client
 
-Dale Ott (Vitil Solutions), "Vitil and Southbay" (Nov 3, the key one): His partner Kathy wants a buyout proposal; they are 50/50 owners of both Vitil and Southbay. Dale's initial thinking: Vitil depends on an annual school-district PO, so the valuation is low; he floats Kathy keeping her salary for 5+ years with no shareholder distributions rather than a large upfront sum (no more than about one year of salary up front). Southbay owns the building, perhaps worth about $900K, and he could take a mortgage to buy out her half. The cash balance plan is being closed and rolled into individual 401(k)s. He asked for your input and involvement to make it fair for both. A follow-up invite titled "Dale Ott / Vitil and Soutubay" arrived the same evening.
+Christine Giordano, "CVWR Docs" (last night): Sent the last CVWR amendment, a clearer copy from the Utah website than the one in the Dropbox folder, notes that the annual reports updated the company address, and followed up with the most recent operating agreement. No ask beyond having the documents in hand.
 
-Sarasota County Utilities: Late Fee Notice dated Nov 3 for 4261 Marlowe Dr, balance $259.29, all past due, disconnection warning. Bank of America bill pay shows a $100.00 payment to Sarasota County Environmental Services delivering today, which may be a different account, so confirm the utility balance is cleared.
+Larry Resnick, "2024 Return" (Nov 4): He received IRS letters on the 2024 return and sent them to you and Max. Max replied asking him to forward all correspondence on the matter and suggested it may be an automated notice sent in error. Larry noted the letter mentions only a refund, not a balance due, and he believes the refunds were received. Next step is to review the letters when Larry sends them across.
 
-Other items worth a glance: Saturday Wertz Game roster from Faust Wertz (you are on the distribution; confirm your status), Laurel Oak CC October statement available, Mountain America statement available, Audible conditions-of-use update, an OpenAI new-sign-in notice (Orlando, 6:52 PM yesterday) that you should confirm was you, and an Anthropic receipt. Skipped as junk: retail, promos, newsletters, neighborhood alerts.
+Kami Sage, S5 Site Furnishings, "FW: Taxes Due" (Nov 4): Forwarded a taxes-due notice from Laura Lewis at Riviera Finance (the equipment lender) asking whether the tax has been paid, with proof of payment. Kami asked: "Do you know anything about this?" The notice is attached as a PDF. She needs an answer from you.
+
+Dale Ott, Vitil, "Dale Ott / Vitil and Southbay" (Nov 4, marked important): Calendar invite for the Vitil/Southbay buyout discussion, following up on his earlier email about Kathy's buyout proposal.
+
+Also worth a glance: SouthState Bank will be closed Wednesday, Nov 11 for Veterans Day (ACH and wire processing affected); Intuit announced QuickBooks Desktop Enterprise pricing changes effective February 2027; an OpenAI new-sign-in notice from yesterday at 5:05 PM EST (Merritt Island) that you should confirm was you; a Delta menu notice for your Nov 11 ATL to SLC flight; a Laurel Oak announcement that Head Golf Professional Kevin Courteau is leaving for a Tampa club; and a Schwab eStatement. Skipped: promos, newsletters, receipts and neighborhood alerts.
 
 ## Industry News
 
-Checkpoint (Thomson Reuters): no Checkpoint article mail in the last 72 hours. The only Thomson Reuters items are promotions from taxprof.thomsonreuters.com: "See CoCounsel A&A 3.0 in action!" (Nov 3, a sales event for audit-and-assurance automation) and "What are you doing to make busy season different this year?" (Nov 2). No article links to share.
+Checkpoint (Thomson Reuters): Searched by name and domain (checkpoint, riag, thomsonreuters, taxprof). Nothing from Checkpoint itself in the last 48 hours. The only Thomson Reuters item was a promo for a CoCounsel Audit and Assurance 3.0 sales event on Nov 3.
 
-CPA Practice Advisor: Tax Practice Newsletter (Nov 3), "3 Cyber Priorities Before Tax Season." The email's news feed did not render (template placeholders only), but the preview shows a lead story, "The 401(k) Question Most Small-Business Owners Can't Answer," on how CPAs can help clients identify the plan's Named Fiduciary. Spotlights: Ensuring Success 2026, free online CPE, Dec 9-10 (up to 14 hours CPE or 5 hours IRS CE): https://ensuringsuccess.com. Also a free CPE webinar "Is AI Safe for Firms?" (Nov 4, today), on deploying AI safely in a firm and the limits of general chatbots. A Nov 1 free CE session covers Form 1040-X filing rules and best practices (timing, documentation, filing requirements).
+IRS e-News for Tax Professionals, Issue 2026-44 (Nov 4): The IRS launched the Nationwide Tax Forum Online with 15 new self-study seminars (twelve at 50 minutes for one credit at $29, three at 100 minutes for two credits at $58; viewing is free without credit). A free IRS webinar, "Know Your Payment Options," is Thursday, Nov 12 at 2:00 PM ET for 1 Federal Tax CE credit. Publication 1345 for tax year 2026 was updated for e-file providers, with real-time EFIN validation and VCN registration. The Modernized e-File "Send Submissions" shutdown begins Saturday, Dec 26, 2026, and acknowledgments not retrieved by 11:59 PM ET that day will not be available until MeF reopens in January 2027. Texas storm victims from the July 14 storms have until Feb 1, 2027 for various filings and payments. Revenue Ruling 2026-22 says paying benefits from a pension plan's 401(h) account to participants eligible for distributions under section 401(a)(36) does not violate section 401(h) or affect plan qualification. Article: https://www.irs.gov/newsroom/irs-nationwide-tax-forum-online-offers-new-2026-seminars
 
-NATP: "Assisting Ministers with Tax Issues" webinar coming up (Nov 5), and a Nov 2 technology/AI-tools promo. A Nov 3 promo about faster payments is marketing only.
+CPA Practice Advisor (Nov 3): The Tax Practice Newsletter led with "3 Cyber Priorities Before Tax Season" and "The 401(k) Question Most Small-Business Owners Can't Answer," on helping a client find a plan's Named Fiduciary. It also promoted a CPE session, "Deploying AI Safely in Your Firm," and Ensuring Success 2026, a free online event on Dec 9 to 10 offering up to 14 hours of CPE (or 5 hours of IRS CE). Sign up: https://ensuringsuccess.com
 
-IRS Tax Tip 2026-79 (Nov 3): car loan interest on a new vehicle purchase could be eligible for a tax deduction.
+NATP (Nov 3 and 4): Promotional webinars only: "Real-World Digital Asset Reporting" next week, covering Form 1099-DA, and "Assisting Ministers with Tax Issues." Also an offer on payment processing.
 
-Accounting Today, CPA Trendlines / Academy, Drake Software / Taxing Subjects: nothing new in the last 72 hours.
+Accounting Today, CPA Trendlines, CPA Trendlines Academy, Drake Software and Taxing Subjects: Nothing new in the last 48 hours.
 
 ## Tasks
 
-No tasks due today. Three overdue in Todoist: "Weekly catch up max" (recurring weekly, last due 10/8), "Meeting with Laura" (due 8/25; get the analytic review in better shape), and "Get Regions Bank login" (due 8/25). The last two are over two months old, so do them or clear them.
+Todoist shows three overdue items and nothing newly due today: Weekly catch up with Max (recurring, last due Oct 8), "Meeting with Laura" (analytic review needs to be in better shape, due Aug 25), and "Get Regions Bank login" (due Aug 25). These look stale; consider rescheduling or closing them.
 
 ## Focus for Today
 
-Reply to Dale Ott first. A buyout of a 50/50 owner involving a $900K building and a PO-dependent business needs your valuation and structuring input, and he asked for it. Then settle the utility late fee.
+You have a split day: a Teams catch-up with Max at 11, then the Orlando geothermal meeting from noon. Settle early whether you are attending the Orlando meeting in person, and answer Kami Sage on the Riviera Finance taxes-due notice before you leave, since a lender is waiting on proof of payment.
 
 ## AI Tip
 
-When you ask an AI to model a buyout, give it the structure and constraints up front (ownership split, asset values, payment options) and ask it to list the assumptions it is making and what extra data it needs before it produces numbers. That surfaces gaps, like missing valuation inputs, before you rely on the output.
+When you hand Claude a client letter, paste or attach the notice and ask for three things in order: what the notice claims, what documents would confirm or refute it, and a short reply draft to the client. Separating the diagnosis from the draft keeps the response grounded in the notice rather than guesses.
 
-*A PDF version was also saved: daily-briefing-2026-11-04.pdf*
+A PDF version of this briefing was also saved (daily-briefing-2026-11-05.pdf).
