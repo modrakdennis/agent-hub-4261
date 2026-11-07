@@ -1,46 +1,44 @@
 ---
-title: Daily Briefing. November 6, 2026
+title: Daily Briefing. November 7, 2026
 emoji: 📅
 category: tools
-updated: 2026-11-06
+updated: 2026-11-07
 ---
 
 ## Calendar
-Nothing on your Google or Outlook calendar today (Friday, November 6).
+Nothing scheduled today (Saturday, November 7). Both the Google and Outlook calendars came back empty.
 
-## Email — Personal/Client
-**Amanda Mendenhall (EM Founders Group), "updated"** (this morning, 6:55 AM ET): She added the other provision to the Zorbis Consent and Waiver and attached clean and redline PDFs plus a Word version. She is boarding a plane. She asked you to review the PDFs and have John Sellers make any changes.
+## Email: Personal/Client
+**EM Founders Group / Zorbis waiver (important, already read).** Amanda Mendenhall (General Counsel) and John Sellers (BTJD) sent revised "Consent and Waiver (Zorbis)" drafts on Nov 6 (redline, clean PDF, Word) after your call. John asked whether Andy wants anything else addressed. Amanda also asked on Nov 6 whether John could call you after your "mayday" text. Your comparison of the Nov 5 and Nov 3 drafts flagged the timing issue: the protections for Tiffany could take effect at signing even if closing never happens. Review the Nov 6 drafts against that point and reply to John.
 
-**John Sellers (BTJD), Consent and Waiver (Zorbis)** (late Thursday): He proposed a "sooner of" concept so the transfer of the 1% interest happens automatically at the Jason transfer or December 25, whichever comes first. He asked whether that works and whether you need the draft updated tonight or tomorrow morning. Amanda's note above appears to reflect this change, so confirm it is what you wanted.
+**CVWR manager voting.** John Sellers (Nov 5) laid out the voting requirements for managers and asked that all three of you be clear on the moving pieces. Christine Giordano (Nov 5) confirmed the 2017 operating agreement is the latest she has, with no amendment on file, and that it requires all members' consent to change. Amanda also forwarded a "Mayday response" that Kenzie found, saying it differs from the others.
 
-**CVWR manager voting requirements** (Thursday): Amanda and John answered your Section 5.1 question. Their reading is that 5.1 only recorded Andy's original election. Removal has no stated vote, so it is either a majority by ownership (Section 3.4.2) or the Utah Act default of a majority by headcount. If Tiffany is removed, you become Manager automatically under 5.7.1. John offered to prepare amendments to clarify the removal vote. Open items: whether the Consent and Waiver needs updating for this, and the Monte Vista Ranch collateral question that Amanda asked you to address.
+**Joe Deckman (Highlands Sotheby's).** AI renderings of a mountain-style fireplace for the sunroom at 226 Sky Lake Dr. Mary Ann forwarded them. No action requested.
 
-**Amanda, FW: Mayday response** (Thursday): Kenzie found one that differs from the others. Still unread.
+**Golf.** Golf Genius: Round 7 sign-up for Fri Nov 13 (Balow Group) is waiting on your accept or decline. Separately, a notice says 9 people are on the waiting list for Nov 13. Faust Wertz filled the spot for the Saturday Wertz game and will tell you if another opening comes up.
 
-**Real estate (eadorjan@rumblingbald.com), 196 Fern Loop** (Thursday, two forwards): The sellers think they will get an offer soon. The agent asked whether your buyer has continued interest and whether your buyer is ready to discuss.
-
-**Other items worth a glance:** Florida DBPR license renewal reminder. Janney monthly account statement is available. TreasuryDirect has a message in your Investor InBox. Golf Genius: the Dolan Group tee sheet changed, and there are round signups for Wed Nov 11 (Link Group Round 44 and Holden Group Round 2).
+**Jenn Kerr (BB Consultants).** A follow-up to a CPA Trendlines webinar on defined benefit plans, pitching a check of business owners with $250,000 or more in steady profits before year-end payroll. This is a marketing pitch, not a client email.
 
 ## Industry News
-**Checkpoint (Thomson Reuters):** No Checkpoint mail in the last 7 days (searched by name and by riag/thomsonreuters domains). The only Thomson Reuters item was a Nov 3 promo for CoCounsel A&A 3.0, an audit automation event.
+**Checkpoint (Thomson Reuters).** Nothing from Checkpoint (checkpoint.riag.com or checkpoint.thomsonreuters.com) in the last several days. The only Thomson Reuters mail was promotional: a CoCounsel Audit & Accounting 3.0 demo event (Nov 3) and a busy-season efficiency pitch (Nov 2).
 
-**IRS Tax Products (Nov 5):** Early-release drafts posted: Instructions for Form 8962 (Premium Tax Credit, 2025 and 2026 versions), Instructions for Form 8582 (Passive Activity Loss Limitations, 2026), Publication 551 (Basis of Assets, Dec 2026), Publication 529 (Miscellaneous Deductions, Dec 2026), and Form 1042-S (2027). These are drafts, so do not rely on them yet. https://www.irs.gov/draft-tax-forms
+**IRS Newswire (IR-2026-134, Nov 6): Tax Pro Account expanded.** Authorized tax professionals can now make payments for business clients in Tax Pro Account. This covers a full or partial balance, an amended return, a proposed assessment and federal tax deposits, with proper authorization on file. Link: https://www.irs.gov/tax-professionals/tax-pro-account
 
-**CPA Practice Advisor (Nov 3):** The Tax Practice newsletter led with "3 Cyber Priorities Before Tax Season" and "The 401(k) Question Most Small-Business Owners Can't Answer," on how CPAs can help clients identify the plan's named fiduciary. The email's feed block did not render, so there are no article links. Also promoted: a free CPE webcast, "Deploying AI Safely in Your Firm," and Ensuring Success 2026, up to 14 hours of free CPE or 5 hours of IRS CE on Dec 9-10. https://ensuringsuccess.com
+**CPA Practice Advisor (Payroll newsletter, Nov 6): "6 Year-End Financial Tips."** The feed content did not render in the email (the template placeholders came through). The usable items were a webinar on Form 1040-X, filing rules and best practices, and the free #EnsuringSuccess online conference on Dec 9-10, 2026, offering up to 14 hours of CPE or 5 hours of IRS CE. Register at https://ensuringsuccess.com. A Rightworks webinar on AI-powered cyberattacks is Nov 18.
 
-**CPA Practice Advisor (Nov 1):** Free CPE session on Form 1040-X filing rules and best practices, covering timing, documentation and taxpayer expectations.
+**NATP.** Upcoming webinar "Real-World Digital Asset Reporting" (Form 1099-DA), plus "Assisting Ministers with Tax Issues." Both are promotional announcements.
 
-**NATP (Nov 3-4):** Upcoming seminars: Real-World Digital Asset Reporting (Form 1099-DA), next week, and Assisting Ministers with Tax Issues. The Nov 3 NATP email is a payments promo.
+**FinCEN (Nov 6).** FinCEN withdrew a proposed rule on recordkeeping and Travel Rule obligations, and announced action cutting MEXC Global off from the U.S. financial system. It may be relevant to digital asset clients.
 
-**Accounting Today, CPA Trendlines, Drake / Taxing Subjects:** Nothing in the last 7 days.
+**Accounting Today, CPA Trendlines, Drake / Taxing Subjects.** Nothing new in the last 24-48 hours. The only CPA Trendlines item was the Jenn Kerr follow-up above.
 
 ## Tasks
-Todoist shows three overdue items, none due today: Weekly catch up with Max (recurring, due Oct 8), Meeting with Laura about getting the analytic review in better shape (Aug 25), and Get Regions Bank login (Aug 25).
+Three overdue Todoist items, none due today: Weekly catch up with Max (recurring, due Oct 8), Meeting with Laura about getting the analytic review in better shape (due Aug 25), and Get Regions Bank login (due Aug 25).
 
 ## Focus for Today
-Clear the Zorbis Consent and Waiver first. Review Amanda's PDFs, confirm the "sooner of" language with John, and settle whether the CVWR removal-vote clarification goes into this document or a separate amendment. Everything else can wait.
+It's a quiet Saturday, so the one open loop worth your attention is the Zorbis waiver. A short reply to John with your remaining concerns would close it before Monday.
 
 ## AI Tip
-When you give Claude two or three documents, ask it to produce a table of the specific clauses that conflict or depend on each other, with section numbers, before asking for a summary. It catches issues that a plain summary smooths over.
+When you ask an AI to compare two draft documents, give it a fixed output structure: "list each changed section, the old language, the new language, and the risk to my client." This turns a vague summary into a checklist you can hand to counsel.
 
-*A PDF version of this briefing was also saved to the AgentHub folder (daily-briefing-2026-11-06.pdf).*
+*A PDF version was also saved to the AgentHub folder as daily-briefing-2026-11-07.pdf.*
